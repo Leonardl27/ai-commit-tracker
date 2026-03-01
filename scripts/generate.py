@@ -69,7 +69,7 @@ def generate_summary(snapshots):
         # Time series data point
         model_share_over_time.append({
             "date": date,
-            **{model: day_totals.get(model, 0) for model in ["claude", "cursor", "aider", "openai_codex"]},
+            **{model: day_totals.get(model, 0) for model in ["claude", "openai_codex", "gemini"]},
         })
 
         for commit in snapshot.get("commits", []):

@@ -26,9 +26,8 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "daily"
 # AI tools detected via Co-Authored-By email domains
 AI_MODELS = {
     "claude": "noreply@anthropic.com",
-    "cursor": "cursoragent@cursor.com",
-    "aider": "noreply@aider.chat",
     "openai_codex": "noreply@openai.com",
+    "gemini": "gemini-code-assist",
 }
 
 MIN_STARS = 50  # Filter out repos below this threshold
