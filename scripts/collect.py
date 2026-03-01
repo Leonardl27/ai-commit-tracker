@@ -28,6 +28,7 @@ AI_MODELS = {
     "claude": "noreply@anthropic.com",
     "openai_codex": "noreply@openai.com",
     "gemini": "gemini-code-assist",
+    "cursor": "cursoragent@cursor.com",
 }
 
 MIN_STARS = 50  # Filter out repos below this threshold
