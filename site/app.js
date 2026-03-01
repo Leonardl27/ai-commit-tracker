@@ -4,12 +4,14 @@ const MODEL_COLORS = {
   claude: '#d97706',
   openai_codex: '#3b82f6',
   gemini: '#10b981',
+  cursor: '#a855f7',
 };
 
 const MODEL_LABELS = {
   claude: 'Claude',
   openai_codex: 'OpenAI Codex',
   gemini: 'Gemini',
+  cursor: 'Cursor',
 };
 
 const MODELS = Object.keys(MODEL_COLORS);
