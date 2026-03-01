@@ -1,0 +1,243 @@
+/* ===== Base ===== */
+:root {
+  --bg: #f8f9fb;
+  --surface: #ffffff;
+  --text: #1a1a2e;
+  --text-muted: #6b7280;
+  --border: #e5e7eb;
+  --accent: #6366f1;
+  --accent-light: #e0e7ff;
+
+  /* Model colors */
+  --claude: #d97706;
+  --cursor: #8b5cf6;
+  --aider: #10b981;
+  --openai: #3b82f6;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+code {
+  background: var(--accent-light);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: var(--accent);
+}
+
+/* ===== Header ===== */
+header {
+  background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4338ca 100%);
+  color: #fff;
+  padding: 48px 0 40px;
+  text-align: center;
+}
+header h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+header .subtitle {
+  margin-top: 8px;
+  font-size: 1rem;
+  color: #c7d2fe;
+}
+header .subtitle code {
+  background: rgba(255,255,255,0.15);
+  color: #e0e7ff;
+}
+header .updated {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: #a5b4fc;
+}
+
+/* ===== Summary Cards ===== */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: -32px 0 32px;
+  position: relative;
+  z-index: 1;
+}
+.card {
+  background: var(--surface);
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 12px rgba(0,0,0,0.04);
+  border: 1px solid var(--border);
+}
+.card-value {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.card-label {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ===== Chart Sections ===== */
+.chart-section {
+  margin-bottom: 40px;
+}
+.chart-section h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.badge {
+  font-size: 0.75rem;
+  background: var(--accent-light);
+  color: var(--accent);
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+.section-subtitle {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: -10px;
+  margin-bottom: 16px;
+}
+.chart-row {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 20px;
+}
+.chart-box {
+  background: var(--surface);
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  border: 1px solid var(--border);
+}
+.chart-box h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+
+/* ===== Tables ===== */
+.table-wrapper {
+  background: var(--surface);
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  overflow-x: auto;
+  margin-top: 16px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+th {
+  text-align: left;
+  padding: 12px 16px;
+  background: var(--bg);
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid var(--border);
+}
+td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+}
+tr:last-child td { border-bottom: none; }
+tr:hover { background: #f9fafb; }
+td a { font-weight: 500; }
+.stars-cell {
+  color: var(--text-muted);
+}
+.lang-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  background: #f3f4f6;
+  color: #374151;
+}
+
+/* ===== Methodology ===== */
+.methodology {
+  background: var(--surface);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 40px;
+  border: 1px solid var(--border);
+}
+.methodology h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.methodology p {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+.methodology .note {
+  font-style: italic;
+  font-size: 0.85rem;
+}
+
+/* ===== Footer ===== */
+footer {
+  text-align: center;
+  padding: 32px 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--border);
+}
+footer p { margin-bottom: 4px; }
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  header { padding: 32px 0 28px; }
+  header h1 { font-size: 1.6rem; }
+  .cards { grid-template-columns: repeat(2, 1fr); margin-top: -24px; }
+  .card-value { font-size: 1.5rem; }
+  .chart-row { grid-template-columns: 1fr; }
+}
+@media (max-width: 480px) {
+  .cards { grid-template-columns: 1fr; }
+}
+
+/* ===== Empty State ===== */
+.empty-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--text-muted);
+}
+.empty-state h3 { font-size: 1.2rem; margin-bottom: 8px; color: var(--text); }

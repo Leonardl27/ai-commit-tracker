@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Commit Tracker - Who's Coding with AI?</title>
+
+  <!-- Open Graph for LinkedIn -->
+  <meta property="og:title" content="AI Commit Tracker">
+  <meta property="og:description" content="Live dashboard tracking AI-assisted commits across popular open source repositories. See which AI coding tools are used most.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="og-image.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>AI Commit Tracker</h1>
+      <p class="subtitle">Tracking AI-assisted commits across popular open source repos via <code>Co-Authored-By</code> git trailers</p>
+      <p class="updated" id="last-updated"></p>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Summary Cards -->
+    <section class="cards" id="summary-cards">
+      <div class="card">
+        <span class="card-value" id="total-commits">--</span>
+        <span class="card-label">Total Commits</span>
+      </div>
+      <div class="card">
+        <span class="card-value" id="total-repos">--</span>
+        <span class="card-label">Repos Tracked</span>
+      </div>
+      <div class="card">
+        <span class="card-value" id="total-models">--</span>
+        <span class="card-label">AI Tools Detected</span>
+      </div>
+      <div class="card">
+        <span class="card-value" id="days-tracked">--</span>
+        <span class="card-label">Days Tracked</span>
+      </div>
+    </section>
+
+    <!-- Model Market Share -->
+    <section class="chart-section">
+      <h2>Model Market Share</h2>
+      <div class="chart-row">
+        <div class="chart-box chart-box-small">
+          <h3>Overall Share</h3>
+          <canvas id="chart-share-doughnut"></canvas>
+        </div>
+        <div class="chart-box chart-box-large">
+          <h3>Commits Over Time</h3>
+          <canvas id="chart-share-time"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- Top 10 Repos -->
+    <section class="chart-section">
+      <h2>Top 10 Repos by AI Commits</h2>
+      <div class="chart-box">
+        <canvas id="chart-top-repos" height="300"></canvas>
+      </div>
+      <div class="table-wrapper">
+        <table id="table-top-repos">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Repository</th>
+              <th>Language</th>
+              <th>Stars</th>
+              <th>AI Commits</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- AI vs Human -->
+    <section class="chart-section">
+      <h2>AI vs Human Commits</h2>
+      <p class="section-subtitle">Repos ranked by highest AI commit share — estimated from weekly commit activity</p>
+      <div class="chart-box">
+        <canvas id="chart-ai-vs-human" height="300"></canvas>
+      </div>
+    </section>
+
+    <!-- Rising Repos -->
+    <section class="chart-section">
+      <h2>Top 10 Rising Repos <span class="badge">Last 7 Days</span></h2>
+      <div class="table-wrapper">
+        <table id="table-rising-repos">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Repository</th>
+              <th>Language</th>
+              <th>Stars</th>
+              <th>Recent</th>
+              <th>All Time</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Language Breakdown -->
+    <section class="chart-section">
+      <h2>Language Breakdown</h2>
+      <div class="chart-box">
+        <canvas id="chart-languages" height="350"></canvas>
+      </div>
+    </section>
+
+    <!-- Methodology -->
+    <section class="methodology">
+      <h3>Methodology</h3>
+      <p>
+        This dashboard detects AI-assisted commits by searching for <code>Co-Authored-By</code> git trailers
+        containing known AI tool email addresses. Currently tracked:
+        <strong>Claude</strong> (Anthropic),
+        <strong>Cursor</strong>,
+        <strong>Aider</strong>, and
+        <strong>OpenAI Codex CLI</strong>.
+        Only repos with 50+ stars are included to filter noise.
+      </p>
+      <p class="note">
+        Note: GitHub Copilot does not add Co-Authored-By trailers to commits, so it is not represented here.
+        Some tools allow users to disable attribution, so actual usage may be higher than shown.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>Data sourced from the <a href="https://docs.github.com/en/rest/search/search#search-commits" target="_blank" rel="noopener">GitHub Commit Search API</a>. Updated daily.</p>
+      <p><a href="https://github.com/Leonardl27/ai-commit-tracker" target="_blank" rel="noopener">View on GitHub</a></p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

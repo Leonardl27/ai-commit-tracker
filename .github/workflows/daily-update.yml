@@ -1,0 +1,63 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 6 AM UTC daily
+  workflow_dispatch:
+    inputs:
+      backfill_days:
+        description: 'Number of days to backfill (0 = yesterday only)'
+        required: false
+        default: '0'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: daily-update
+      cancel-in-progress: false
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Collect data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BACKFILL="${{ github.event.inputs.backfill_days }}"
+          if [ -n "$BACKFILL" ] && [ "$BACKFILL" -gt 0 ] 2>/dev/null; then
+            python scripts/collect.py --backfill "$BACKFILL"
+          else
+            python scripts/collect.py
+          fi
+
+      - name: Generate summary
+        run: python scripts/generate.py
+
+      - name: Commit data updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "data: daily update $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
