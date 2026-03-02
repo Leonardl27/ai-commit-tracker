@@ -1,18 +1,27 @@
 {
-  "last_updated": "2026-03-02T02:03:24.582619+00:00",
+  "last_updated": "2026-03-02T06:31:43.642928+00:00",
   "model_share_over_time": [
     {
       "date": "2026-03-01",
-      "claude": 16,
-      "openai_codex": 2,
-      "gemini": 24
+      "claude": 26,
+      "openai_codex": 3,
+      "gemini": 25
     }
   ],
   "top_repos": [
     {
+      "repo": "abbaye/WpfHexEditorControl",
+      "total": 9,
+      "stars": 873,
+      "language": "C#",
+      "by_model": {
+        "claude": 9
+      }
+    },
+    {
       "repo": "steveyegge/beads",
       "total": 3,
-      "stars": 17799,
+      "stars": 17815,
       "language": "Go",
       "by_model": {
         "claude": 3
@@ -39,7 +48,7 @@
     {
       "repo": "steveyegge/gastown",
       "total": 2,
-      "stars": 10683,
+      "stars": 10693,
       "language": "Go",
       "by_model": {
         "claude": 2
@@ -57,7 +66,7 @@
     {
       "repo": "langgenius/dify",
       "total": 2,
-      "stars": 130808,
+      "stars": 130843,
       "language": "TypeScript",
       "by_model": {
         "gemini": 2
@@ -66,7 +75,7 @@
     {
       "repo": "CodeWithCJ/SparkyFitness",
       "total": 2,
-      "stars": 2819,
+      "stars": 2821,
       "language": "TypeScript",
       "by_model": {
         "gemini": 2
@@ -75,7 +84,7 @@
     {
       "repo": "nearai/ironclaw",
       "total": 2,
-      "stars": 3958,
+      "stars": 3969,
       "language": "Rust",
       "by_model": {
         "gemini": 2
@@ -86,15 +95,6 @@
       "total": 1,
       "stars": 86,
       "language": "Vue",
-      "by_model": {
-        "claude": 1
-      }
-    },
-    {
-      "repo": "silships/figma-cli",
-      "total": 1,
-      "stars": 196,
-      "language": "JavaScript",
       "by_model": {
         "claude": 1
       }
@@ -102,10 +102,20 @@
   ],
   "rising_repos": [
     {
+      "repo": "abbaye/WpfHexEditorControl",
+      "recent": 9,
+      "total": 9,
+      "stars": 873,
+      "language": "C#",
+      "by_model": {
+        "claude": 9
+      }
+    },
+    {
       "repo": "steveyegge/beads",
       "recent": 3,
       "total": 3,
-      "stars": 17799,
+      "stars": 17815,
       "language": "Go",
       "by_model": {
         "claude": 3
@@ -135,7 +145,7 @@
       "repo": "steveyegge/gastown",
       "recent": 2,
       "total": 2,
-      "stars": 10683,
+      "stars": 10693,
       "language": "Go",
       "by_model": {
         "claude": 2
@@ -155,7 +165,7 @@
       "repo": "langgenius/dify",
       "recent": 2,
       "total": 2,
-      "stars": 130808,
+      "stars": 130843,
       "language": "TypeScript",
       "by_model": {
         "gemini": 2
@@ -165,7 +175,7 @@
       "repo": "CodeWithCJ/SparkyFitness",
       "recent": 2,
       "total": 2,
-      "stars": 2819,
+      "stars": 2821,
       "language": "TypeScript",
       "by_model": {
         "gemini": 2
@@ -175,7 +185,7 @@
       "repo": "nearai/ironclaw",
       "recent": 2,
       "total": 2,
-      "stars": 3958,
+      "stars": 3969,
       "language": "Rust",
       "by_model": {
         "gemini": 2
@@ -190,28 +200,9 @@
       "by_model": {
         "claude": 1
       }
-    },
-    {
-      "repo": "silships/figma-cli",
-      "recent": 1,
-      "total": 1,
-      "stars": 196,
-      "language": "JavaScript",
-      "by_model": {
-        "claude": 1
-      }
     }
   ],
   "ai_vs_human": [
-    {
-      "repo": "AventurasTeam/Aventuras",
-      "ai_commits": 2,
-      "human_commits": 0,
-      "total_commits": 2,
-      "ai_percentage": 100.0,
-      "stars": 100,
-      "language": "TypeScript"
-    },
     {
       "repo": "bdlukaa/fluent_ui",
       "ai_commits": 1,
@@ -222,49 +213,67 @@
       "language": "Dart"
     },
     {
-      "repo": "BrainWise-DEV/POSNext",
+      "repo": "AventurasTeam/Aventuras",
+      "ai_commits": 2,
+      "human_commits": 0,
+      "total_commits": 2,
+      "ai_percentage": 100.0,
+      "stars": 100,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "sky-map-team/stardroid",
+      "ai_commits": 3,
+      "human_commits": 0,
+      "total_commits": 3,
+      "ai_percentage": 100.0,
+      "stars": 1598,
+      "language": "Java"
+    },
+    {
+      "repo": "toshimaru/rubocop-rails_config",
       "ai_commits": 1,
       "human_commits": 0,
       "total_commits": 1,
       "ai_percentage": 100.0,
-      "stars": 86,
-      "language": "Vue"
+      "stars": 151,
+      "language": "Ruby"
     },
     {
-      "repo": "alchemiststudiosDOTai/tinyAgent",
+      "repo": "BrainWise-DEV/POSNext",
       "ai_commits": 1,
       "human_commits": 1,
       "total_commits": 2,
       "ai_percentage": 50.0,
-      "stars": 84,
-      "language": "Python"
+      "stars": 86,
+      "language": "Vue"
+    },
+    {
+      "repo": "open-spaced-repetition/ts-fsrs",
+      "ai_commits": 1,
+      "human_commits": 1,
+      "total_commits": 2,
+      "ai_percentage": 50.0,
+      "stars": 580,
+      "language": "TypeScript"
     },
     {
       "repo": "openai/codex",
       "ai_commits": 1,
-      "human_commits": 3,
-      "total_commits": 4,
-      "ai_percentage": 25.0,
-      "stars": 62548,
-      "language": "Rust"
-    },
-    {
-      "repo": "flutter/flutter",
-      "ai_commits": 1,
       "human_commits": 4,
       "total_commits": 5,
       "ai_percentage": 20.0,
-      "stars": 175395,
-      "language": "Dart"
+      "stars": 62580,
+      "language": "Rust"
     },
     {
-      "repo": "orieg/php-judy",
+      "repo": "entireio/cli",
       "ai_commits": 1,
       "human_commits": 6,
       "total_commits": 7,
       "ai_percentage": 14.3,
-      "stars": 74,
-      "language": "PHP"
+      "stars": 3220,
+      "language": "Go"
     },
     {
       "repo": "always-further/nono",
@@ -272,29 +281,24 @@
       "human_commits": 6,
       "total_commits": 7,
       "ai_percentage": 14.3,
-      "stars": 679,
+      "stars": 681,
       "language": "Rust"
     },
     {
-      "repo": "nearai/ironclaw",
-      "ai_commits": 2,
-      "human_commits": 13,
-      "total_commits": 15,
-      "ai_percentage": 13.3,
-      "stars": 3958,
-      "language": "Rust"
-    },
-    {
-      "repo": "IsmaelMartinez/teams-for-linux",
+      "repo": "flutter/flutter",
       "ai_commits": 1,
-      "human_commits": 7,
-      "total_commits": 8,
-      "ai_percentage": 12.5,
-      "stars": 4454,
-      "language": "JavaScript"
+      "human_commits": 6,
+      "total_commits": 7,
+      "ai_percentage": 14.3,
+      "stars": 175397,
+      "language": "Dart"
     }
   ],
   "language_breakdown": {
+    "C#": {
+      "claude": 10,
+      "gemini": 1
+    },
     "TypeScript": {
       "claude": 1,
       "gemini": 9
@@ -321,10 +325,6 @@
       "claude": 1,
       "gemini": 1
     },
-    "C#": {
-      "claude": 1,
-      "gemini": 1
-    },
     "Dart": {
       "gemini": 2
     },
@@ -334,18 +334,24 @@
     "HCL": {
       "claude": 1
     },
+    "C++": {
+      "claude": 1
+    },
     "Ruby": {
       "claude": 1
     },
     "PHP": {
       "gemini": 1
+    },
+    "Verilog": {
+      "gemini": 1
     }
   },
   "totals": {
-    "commits": 42,
-    "repos": 32,
+    "commits": 53,
+    "repos": 35,
     "models": 3,
     "days_tracked": 1,
-    "today": 42
+    "today": 54
   }
 }

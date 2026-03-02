@@ -15,7 +15,7 @@
       "model": "claude",
       "date": "2026-03-02T00:59:09.000+01:00",
       "language": "JavaScript",
-      "stars": 196
+      "stars": 197
     },
     {
       "sha": "8cd7b0661ed281f72a1f0869f2511d9ce5f2e54d",
@@ -31,7 +31,7 @@
       "model": "claude",
       "date": "2026-03-01T15:58:18.000-08:00",
       "language": "Go",
-      "stars": 17799
+      "stars": 17815
     },
     {
       "sha": "f1ffa94d2d45e44396622ee45136510c5640705f",
@@ -40,6 +40,14 @@
       "date": "2026-03-02T08:58:11.000+09:00",
       "language": "HCL",
       "stars": 65
+    },
+    {
+      "sha": "afc0077a79eefe08a3fd99ffa696089129b3c70c",
+      "repo": "ClickHouse/ClickHouse",
+      "model": "claude",
+      "date": "2026-03-02T00:58:02.000+01:00",
+      "language": "C++",
+      "stars": 46125
     },
     {
       "sha": "f247351abea29a29ed9bd6c4516a03a88344c2a6",
@@ -55,7 +63,7 @@
       "model": "claude",
       "date": "2026-03-01T15:57:31.000-08:00",
       "language": "Go",
-      "stars": 10683
+      "stars": 10693
     },
     {
       "sha": "2335da51b4856d7644117da33ffc1a8b19d34b93",
@@ -63,7 +71,7 @@
       "model": "claude",
       "date": "2026-03-02T10:57:25.000+11:00",
       "language": "Go",
-      "stars": 3215
+      "stars": 3220
     },
     {
       "sha": "8dd26603d4cf21193f05357f6b1933c81181bf49",
@@ -95,7 +103,7 @@
       "model": "claude",
       "date": "2026-03-01T15:55:04.000-08:00",
       "language": "Go",
-      "stars": 17799
+      "stars": 17815
     },
     {
       "sha": "7ca84d3394635a384afda9fe647acee972845976",
@@ -106,12 +114,36 @@
       "stars": 6243
     },
     {
+      "sha": "77a42c93d713e3cc6fc6a3ab03d330c05bb73cc9",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:54:45.000-05:00",
+      "language": "C#",
+      "stars": 873
+    },
+    {
+      "sha": "8bb6106cafebbe8f631b402c47041c6bac730da6",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:54:40.000-05:00",
+      "language": "C#",
+      "stars": 873
+    },
+    {
       "sha": "a3f0f35d1b457c3b91fa671c3b4731a7ba2ec213",
       "repo": "steveyegge/gastown",
       "model": "claude",
       "date": "2026-03-01T15:54:36.000-08:00",
       "language": "Go",
-      "stars": 10683
+      "stars": 10693
+    },
+    {
+      "sha": "9b7a307b0f5796d49cf1348fa5f938d049296c9d",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:54:34.000-05:00",
+      "language": "C#",
+      "stars": 873
     },
     {
       "sha": "b2370e4eaa2babaf8fdb36cd5d616c74f544dff2",
@@ -119,7 +151,39 @@
       "model": "claude",
       "date": "2026-03-01T15:54:32.000-08:00",
       "language": "Go",
-      "stars": 17799
+      "stars": 17815
+    },
+    {
+      "sha": "d21576abe0ee04c5e0f450c1cdc6cb38e914ab31",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:54:28.000-05:00",
+      "language": "C#",
+      "stars": 873
+    },
+    {
+      "sha": "60e437b4668fd1cb6ff0f7434937e7ff8c1eebaa",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:54:23.000-05:00",
+      "language": "C#",
+      "stars": 873
+    },
+    {
+      "sha": "39450832b798eb2da7853891aa2296d688dd4808",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:54:18.000-05:00",
+      "language": "C#",
+      "stars": 873
+    },
+    {
+      "sha": "7c3a515518eac519a505c3364f3610a2e3db8ee1",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:54:14.000-05:00",
+      "language": "C#",
+      "stars": 873
     },
     {
       "sha": "1337c8bfbebfca2a0e40238999e002b531d27492",
@@ -130,12 +194,28 @@
       "stars": 1384
     },
     {
+      "sha": "5e497785177b69203b54961bbd9cf411a72b3d41",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:54:04.000-05:00",
+      "language": "C#",
+      "stars": 873
+    },
+    {
+      "sha": "aff2e0a7760e3b3dceb3941d665ce80ffc3b9889",
+      "repo": "abbaye/WpfHexEditorControl",
+      "model": "claude",
+      "date": "2026-03-01T18:53:57.000-05:00",
+      "language": "C#",
+      "stars": 873
+    },
+    {
       "sha": "0aeb55bf0858a15e2456f246f0e56dcea8432740",
       "repo": "openai/codex",
       "model": "openai_codex",
       "date": "2026-03-01T13:54:12.000-08:00",
       "language": "Rust",
-      "stars": 62548
+      "stars": 62580
     },
     {
       "sha": "dbe1dbb3386a48ba57ebebda5fb8b286e9b206ed",
@@ -143,7 +223,7 @@
       "model": "openai_codex",
       "date": "2026-03-01T11:48:47.000+08:00",
       "language": "Rust",
-      "stars": 280
+      "stars": 287
     },
     {
       "sha": "9735c0c70189b5f78854a247f455dc6f6d6790cc",
@@ -159,7 +239,7 @@
       "model": "gemini",
       "date": "2026-03-01T23:34:44.000Z",
       "language": "Dart",
-      "stars": 175395
+      "stars": 175397
     },
     {
       "sha": "3cbd988f9d67b417fc3ca98cd83b1c8aad17289b",
@@ -167,7 +247,7 @@
       "model": "gemini",
       "date": "2026-03-01T17:17:34.000-06:00",
       "language": "Rust",
-      "stars": 25147
+      "stars": 25158
     },
     {
       "sha": "c261d52f3d6316c1c8509297276b895770fa192b",
@@ -183,7 +263,7 @@
       "model": "gemini",
       "date": "2026-03-01T22:32:29.000Z",
       "language": "JavaScript",
-      "stars": 4454
+      "stars": 4453
     },
     {
       "sha": "56b475831704f77353905252946e4210b4ac53b3",
@@ -207,7 +287,15 @@
       "model": "gemini",
       "date": "2026-03-02T01:58:02.000+08:00",
       "language": "TypeScript",
-      "stars": 130808
+      "stars": 130843
+    },
+    {
+      "sha": "e294555cc721866ac555d845a0becb76691c6a76",
+      "repo": "The-OpenROAD-Project/OpenROAD",
+      "model": "gemini",
+      "date": "2026-03-01T18:56:59.000+01:00",
+      "language": "Verilog",
+      "stars": 2455
     },
     {
       "sha": "be67f90780082905f26d6b0df3d68c388c7cc366",
@@ -223,7 +311,7 @@
       "model": "gemini",
       "date": "2026-03-01T11:32:47.000Z",
       "language": "Rust",
-      "stars": 679
+      "stars": 681
     },
     {
       "sha": "fc0b9ff73ce2f11b267956e2e03a1379460bf634",
@@ -247,7 +335,7 @@
       "model": "gemini",
       "date": "2026-03-01T10:25:52.000+01:00",
       "language": "TypeScript",
-      "stars": 2819
+      "stars": 2821
     },
     {
       "sha": "2e73739709f08761e77a0fe4b66edbb7eac27e6a",
@@ -263,7 +351,7 @@
       "model": "gemini",
       "date": "2026-03-01T08:53:32.000Z",
       "language": "Rust",
-      "stars": 3958
+      "stars": 3969
     },
     {
       "sha": "36fad7256d463e3e762f6e94c2b51e6081c3fa2a",
@@ -271,7 +359,7 @@
       "model": "gemini",
       "date": "2026-03-01T16:24:19.000+08:00",
       "language": "TypeScript",
-      "stars": 130808
+      "stars": 130843
     },
     {
       "sha": "75774a74f8964bbbb563aafba5fdcfe0c213075d",
@@ -287,7 +375,7 @@
       "model": "gemini",
       "date": "2026-02-28T21:12:09.000-08:00",
       "language": "C#",
-      "stars": 7619
+      "stars": 7622
     },
     {
       "sha": "8751a5a9bc6a8881d0cff9727c356d1b72ccd698",
@@ -295,7 +383,7 @@
       "model": "gemini",
       "date": "2026-02-28T19:58:22.000-08:00",
       "language": "Rust",
-      "stars": 3958
+      "stars": 3969
     },
     {
       "sha": "306eeb138f8769c0c2561617db1f2bd5bf0c0007",
@@ -319,7 +407,7 @@
       "model": "gemini",
       "date": "2026-02-28T21:32:27.000-05:00",
       "language": "TypeScript",
-      "stars": 2819
+      "stars": 2821
     },
     {
       "sha": "ac2228f4644379a9dcdcce3da89d70e645861158",
@@ -339,68 +427,83 @@
     }
   ],
   "totals": {
-    "claude": 16,
-    "openai_codex": 2,
-    "gemini": 24
+    "claude": 26,
+    "openai_codex": 3,
+    "gemini": 25
   },
-  "repos_tracked": 32,
+  "repos_tracked": 35,
   "repo_activity": {
-    "zfogg/ascii-chat": {
-      "weekly_total": 251
-    },
-    "always-further/nono": {
-      "weekly_total": 7
-    },
-    "langgenius/dify": {
-      "weekly_total": 29
-    },
-    "nearai/ironclaw": {
-      "weekly_total": 15
-    },
-    "open-lm-engine/lm-engine": {
-      "weekly_total": 0
-    },
     "LykosAI/StabilityMatrix": {
       "weekly_total": 0
     },
     "flutter/flutter": {
-      "weekly_total": 5
+      "weekly_total": 7
     },
-    "alchemiststudiosDOTai/tinyAgent": {
-      "weekly_total": 2
+    "ShareX/XerahS": {
+      "weekly_total": 27
+    },
+    "open-lm-engine/lm-engine": {
+      "weekly_total": 0
     },
     "AventurasTeam/Aventuras": {
       "weekly_total": 2
     },
-    "franciscoBSalgueiro/en-croissant": {
-      "weekly_total": 8
-    },
-    "CodeWithCJ/SparkyFitness": {
-      "weekly_total": 31
-    },
-    "orieg/php-judy": {
+    "always-further/nono": {
       "weekly_total": 7
     },
+    "steveyegge/gastown": {
+      "weekly_total": 93
+    },
+    "silships/figma-cli": {
+      "weekly_total": 11
+    },
+    "CloudWaddie/LMArenaBridge": {
+      "weekly_total": 13
+    },
     "BrainWise-DEV/POSNext": {
+      "weekly_total": 2
+    },
+    "open-spaced-repetition/ts-fsrs": {
+      "weekly_total": 2
+    },
+    "nearai/ironclaw": {
+      "weekly_total": 18
+    },
+    "jdx/mise": {
+      "weekly_total": 21
+    },
+    "Provenance-Emu/Provenance": {
+      "weekly_total": 22
+    },
+    "ClickHouse/ClickHouse": {
+      "weekly_total": 244
+    },
+    "diegosouzapw/OmniRoute": {
+      "weekly_total": 21
+    },
+    "openai/codex": {
+      "weekly_total": 5
+    },
+    "orieg/php-judy": {
+      "weekly_total": 13
+    },
+    "toshimaru/rubocop-rails_config": {
       "weekly_total": 1
-    },
-    "steveyegge/beads": {
-      "weekly_total": 100
-    },
-    "IsmaelMartinez/teams-for-linux": {
-      "weekly_total": 8
     },
     "bdlukaa/fluent_ui": {
       "weekly_total": 1
     },
-    "openai/codex": {
-      "weekly_total": 4
+    "The-OpenROAD-Project/OpenROAD": {
+      "weekly_total": 17
     },
-    "Provenance-Emu/Provenance": {
-      "weekly_total": 10
+    "sky-map-team/stardroid": {
+      "weekly_total": 3
     },
     "tphakala/birdnet-go": {
       "weekly_total": 11
+    },
+    "entireio/cli": {
+      "weekly_total": 7
     }
   }
 }
