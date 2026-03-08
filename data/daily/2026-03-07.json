@@ -1,0 +1,374 @@
+{
+  "date": "2026-03-07",
+  "commits": [
+    {
+      "sha": "84bc389e4f2c6ee963576d8c036ed4a6a3cf1e71",
+      "repo": "whistlegraph/aesthetic-computer",
+      "model": "claude",
+      "date": "2026-03-07T15:59:37.000-08:00",
+      "language": "JavaScript",
+      "stars": 88
+    },
+    {
+      "sha": "e0c82c7a63e63d2f6e033274d152afc68ecb060b",
+      "repo": "johnmarktaylor91/torchlens",
+      "model": "claude",
+      "date": "2026-03-07T18:59:09.000-05:00",
+      "language": "Python",
+      "stars": 636
+    },
+    {
+      "sha": "5543dd1ddc3d6c01e7b19b4c49c8e5b2daf30d02",
+      "repo": "JasonHoku/ComfyUI-Ultimate-Auto-Sampler-Config-Grid-Testing-Suite",
+      "model": "claude",
+      "date": "2026-03-07T15:58:21.000-08:00",
+      "language": "Python",
+      "stars": 72
+    },
+    {
+      "sha": "6735b608c6ded50e5b09a1b17177234cacca5eeb",
+      "repo": "Dicklesworthstone/pi_agent_rust",
+      "model": "claude",
+      "date": "2026-03-07T17:57:21.000-06:00",
+      "language": "Rust",
+      "stars": 508
+    },
+    {
+      "sha": "49573256d4ffa5c402b751891662b4195552180c",
+      "repo": "PinW/whisper-key-local",
+      "model": "claude",
+      "date": "2026-03-08T07:57:15.000+08:00",
+      "language": "Python",
+      "stars": 102
+    },
+    {
+      "sha": "5f3b176b179ce668babe49f670649efeeb0cc9b7",
+      "repo": "Dicklesworthstone/pi_agent_rust",
+      "model": "claude",
+      "date": "2026-03-07T17:57:12.000-06:00",
+      "language": "Rust",
+      "stars": 508
+    },
+    {
+      "sha": "16625de8416bbddcac5ba94db5e32895b20bc5a4",
+      "repo": "Dicklesworthstone/pi_agent_rust",
+      "model": "claude",
+      "date": "2026-03-07T17:57:01.000-06:00",
+      "language": "Rust",
+      "stars": 508
+    },
+    {
+      "sha": "c7aa1868090ea6d78f2814b0ef98b1b8748d3f05",
+      "repo": "stillwater-sc/universal",
+      "model": "claude",
+      "date": "2026-03-07T18:56:59.000-05:00",
+      "language": "C++",
+      "stars": 488
+    },
+    {
+      "sha": "fe5d0623cf92c691e08fd43ee8497fabe10eebbb",
+      "repo": "Dicklesworthstone/pi_agent_rust",
+      "model": "claude",
+      "date": "2026-03-07T17:56:48.000-06:00",
+      "language": "Rust",
+      "stars": 508
+    },
+    {
+      "sha": "7630329490015d21c6dfe9afc8cbad4c1af2c60c",
+      "repo": "Dicklesworthstone/pi_agent_rust",
+      "model": "claude",
+      "date": "2026-03-07T17:56:35.000-06:00",
+      "language": "Rust",
+      "stars": 508
+    },
+    {
+      "sha": "ec6a5fb230dc043f2a84f7e47c9fa916d1b46f90",
+      "repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "model": "claude",
+      "date": "2026-03-07T16:55:24.000-07:00",
+      "language": "Python",
+      "stars": 1540
+    },
+    {
+      "sha": "8c9ebeb1e92f00ea5a57f86195dbfc4e56b14bf7",
+      "repo": "ShareX/XerahS",
+      "model": "claude",
+      "date": "2026-03-08T07:55:07.000+08:00",
+      "language": "C#",
+      "stars": 207
+    },
+    {
+      "sha": "2db5f180e5c61e3bfc21cdb2e1b0f8b95e97071e",
+      "repo": "danielrosehill/Claude-Code-Repos-Index",
+      "model": "claude",
+      "date": "2026-03-08T01:54:08.000+02:00",
+      "language": "Python",
+      "stars": 110
+    },
+    {
+      "sha": "e3218bbd0fec27618fa197b0c6211bc998fa8079",
+      "repo": "danielrosehill/Claude-Code-Repos-Index",
+      "model": "claude",
+      "date": "2026-03-08T01:54:03.000+02:00",
+      "language": "Python",
+      "stars": 110
+    },
+    {
+      "sha": "491f90ffeb182b9663febcdbfaea6ba09c1b88c3",
+      "repo": "danielrosehill/Claude-Code-Repos-Index",
+      "model": "claude",
+      "date": "2026-03-08T01:54:03.000+02:00",
+      "language": "Python",
+      "stars": 110
+    },
+    {
+      "sha": "8bf7a818b1a66dbe8309635a81cacf81f4c06adb",
+      "repo": "danielrosehill/Claude-Code-Repos-Index",
+      "model": "claude",
+      "date": "2026-03-08T01:54:03.000+02:00",
+      "language": "Python",
+      "stars": 110
+    },
+    {
+      "sha": "92f7541624810406d5c3d1c424147bcfa458efce",
+      "repo": "openai/codex",
+      "model": "openai_codex",
+      "date": "2026-03-07T23:34:56.000Z",
+      "language": "Rust",
+      "stars": 63774
+    },
+    {
+      "sha": "9e17302faf68d029e20bcdb422dd891fb3e3904d",
+      "repo": "getsentry/XcodeBuildMCP",
+      "model": "openai_codex",
+      "date": "2026-03-07T21:17:50.000Z",
+      "language": "TypeScript",
+      "stars": 4616
+    },
+    {
+      "sha": "367bec1aab60c4386da0ab73d1b80d510c8dd4e2",
+      "repo": "getsentry/XcodeBuildMCP",
+      "model": "openai_codex",
+      "date": "2026-03-07T21:17:50.000Z",
+      "language": "TypeScript",
+      "stars": 4616
+    },
+    {
+      "sha": "fbc21e4fb9cae32a7e42c1d8af8e456811e8bf8b",
+      "repo": "getsentry/XcodeBuildMCP",
+      "model": "openai_codex",
+      "date": "2026-03-07T21:17:50.000Z",
+      "language": "TypeScript",
+      "stars": 4616
+    },
+    {
+      "sha": "e84ee33cc02e693a3cf66204c72cb37e8dda3ed6",
+      "repo": "openai/codex",
+      "model": "openai_codex",
+      "date": "2026-03-07T05:40:10.000-08:00",
+      "language": "Rust",
+      "stars": 63774
+    },
+    {
+      "sha": "a5d84a9c581b2aef832c1ad7e2ab14dcf2d871ca",
+      "repo": "leemysw/feishu-docx",
+      "model": "openai_codex",
+      "date": "2026-03-07T09:56:34.000+08:00",
+      "language": "Python",
+      "stars": 65
+    },
+    {
+      "sha": "fb4b38f682a8d1bc6d2fb92b7c0eb059aec1c07e",
+      "repo": "leemysw/feishu-docx",
+      "model": "openai_codex",
+      "date": "2026-03-07T09:52:25.000+08:00",
+      "language": "Python",
+      "stars": 65
+    },
+    {
+      "sha": "6dcaac768b79787627bf2de0788cd007e66ba571",
+      "repo": "hao-ai-lab/FastVideo",
+      "model": "gemini",
+      "date": "2026-03-07T11:51:28.000-08:00",
+      "language": "Python",
+      "stars": 3127
+    },
+    {
+      "sha": "e8dbb38d3f6485677e210f36731e7ad28a02beff",
+      "repo": "doobidoo/mcp-memory-service",
+      "model": "gemini",
+      "date": "2026-03-07T19:45:04.000+01:00",
+      "language": "Python",
+      "stars": 1468
+    },
+    {
+      "sha": "45bd30e29d1e2f642c4d5b60562fcb5531e8164e",
+      "repo": "sgl-project/sglang",
+      "model": "gemini",
+      "date": "2026-03-07T20:14:46.000+03:00",
+      "language": "Python",
+      "stars": 24215
+    },
+    {
+      "sha": "47327bde5d1a3ab3a2f6b060839658aee42ffd46",
+      "repo": "xmake-io/xmake-docs",
+      "model": "gemini",
+      "date": "2026-03-07T23:14:47.000+08:00",
+      "language": "JavaScript",
+      "stars": 59
+    },
+    {
+      "sha": "425e84e1d75b83efb2be05b61001f7f6f4eb7ece",
+      "repo": "doobidoo/mcp-memory-service",
+      "model": "gemini",
+      "date": "2026-03-07T13:03:05.000+01:00",
+      "language": "Python",
+      "stars": 1468
+    },
+    {
+      "sha": "815ff6d6c49017cf7213a7c185560a20667eb1ed",
+      "repo": "bjarneo/cliamp",
+      "model": "gemini",
+      "date": "2026-03-07T08:09:40.000+01:00",
+      "language": "Go",
+      "stars": 697
+    },
+    {
+      "sha": "9bdacd9089b1eccf9d18692a3fb767ca4be28d4c",
+      "repo": "meshery/meshery",
+      "model": "gemini",
+      "date": "2026-03-07T11:33:10.000+05:30",
+      "language": "HTML",
+      "stars": 10031
+    },
+    {
+      "sha": "e8683dfeba02ba34d4d087804eca35d01cf00767",
+      "repo": "Beyond-Imagination/express-cargo",
+      "model": "gemini",
+      "date": "2026-03-07T14:21:42.000+09:00",
+      "language": "TypeScript",
+      "stars": 108
+    },
+    {
+      "sha": "1344f96d42bdd604e9d773a5b91368ceda2ba732",
+      "repo": "Mr-Quin/danmaku-anywhere",
+      "model": "gemini",
+      "date": "2026-03-06T20:33:53.000-08:00",
+      "language": "TypeScript",
+      "stars": 480
+    },
+    {
+      "sha": "0fd09e01504c53a89fdeea83c6061b3986eb5c99",
+      "repo": "google-gemini/gemini-cli",
+      "model": "gemini",
+      "date": "2026-03-07T03:29:38.000Z",
+      "language": "TypeScript",
+      "stars": 96841
+    },
+    {
+      "sha": "a62b4fed9f165094aec9c233ba06479797658e3d",
+      "repo": "quantumlib/ReCirq",
+      "model": "gemini",
+      "date": "2026-03-07T01:22:16.000Z",
+      "language": "Python",
+      "stars": 302
+    },
+    {
+      "sha": "9bd8587bf7564bc7fc74ed1d9147528390fda590",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-03-07T01:18:26.000Z",
+      "language": "Dart",
+      "stars": 175469
+    },
+    {
+      "sha": "c0a305dfeb0848ccd06763753eb11ace8d72e7e6",
+      "repo": "apache/tvm",
+      "model": "gemini",
+      "date": "2026-03-06T19:39:34.000-05:00",
+      "language": "Python",
+      "stars": 13164
+    },
+    {
+      "sha": "56f4819d3d0a9e7d762074e6f2604658a21ab5ee",
+      "repo": "CodeWithCJ/SparkyFitness",
+      "model": "gemini",
+      "date": "2026-03-06T19:09:27.000-05:00",
+      "language": "TypeScript",
+      "stars": 2857
+    },
+    {
+      "sha": "dae251bec51325ae94d9c0de39100a576d28e1f8",
+      "repo": "CodeWithCJ/SparkyFitness",
+      "model": "gemini",
+      "date": "2026-03-06T19:09:10.000-05:00",
+      "language": "TypeScript",
+      "stars": 2857
+    }
+  ],
+  "totals": {
+    "claude": 16,
+    "openai_codex": 7,
+    "gemini": 15
+  },
+  "repos_tracked": 25,
+  "repo_activity": {
+    "getsentry/XcodeBuildMCP": {
+      "weekly_total": 38
+    },
+    "meshery/meshery": {
+      "weekly_total": 2
+    },
+    "openai/codex": {
+      "weekly_total": 0
+    },
+    "Dicklesworthstone/pi_agent_rust": {
+      "weekly_total": 0
+    },
+    "leemysw/feishu-docx": {
+      "weekly_total": 0
+    },
+    "whistlegraph/aesthetic-computer": {
+      "weekly_total": 0
+    },
+    "CodeWithCJ/SparkyFitness": {
+      "weekly_total": 0
+    },
+    "JasonHoku/ComfyUI-Ultimate-Auto-Sampler-Config-Grid-Testing-Suite": {
+      "weekly_total": 0
+    },
+    "sgl-project/sglang": {
+      "weekly_total": 5
+    },
+    "google-gemini/gemini-cli": {
+      "weekly_total": 0
+    },
+    "xmake-io/xmake-docs": {
+      "weekly_total": 1
+    },
+    "stillwater-sc/universal": {
+      "weekly_total": 0
+    },
+    "apache/tvm": {
+      "weekly_total": 0
+    },
+    "flutter/flutter": {
+      "weekly_total": 0
+    },
+    "johnmarktaylor91/torchlens": {
+      "weekly_total": 3
+    },
+    "jeremylongshore/claude-code-plugins-plus-skills": {
+      "weekly_total": 2
+    },
+    "ShareX/XerahS": {
+      "weekly_total": 19
+    },
+    "danielrosehill/Claude-Code-Repos-Index": {
+      "weekly_total": 28
+    },
+    "doobidoo/mcp-memory-service": {
+      "weekly_total": 0
+    }
+  }
+}
