@@ -1,0 +1,650 @@
+{
+  "date": "2026-03-10",
+  "commits": [
+    {
+      "sha": "aa4c4a6b93a9340ddb5d9c6356968f08c697729d",
+      "repo": "JuliaIO/Zarr.jl",
+      "model": "claude",
+      "date": "2026-03-10T19:59:26.000-04:00",
+      "language": "Julia",
+      "stars": 133
+    },
+    {
+      "sha": "c2a57e7348c2fc6fb806d094f6b35be973ab4728",
+      "repo": "mintlify/docs",
+      "model": "claude",
+      "date": "2026-03-10T16:59:02.000-07:00",
+      "language": "MDX",
+      "stars": 355
+    },
+    {
+      "sha": "f6aa22c026a3760de52d57ba21f7b2668494a95a",
+      "repo": "alexgreensh/token-optimizer",
+      "model": "claude",
+      "date": "2026-03-11T01:58:55.000+02:00",
+      "language": "Python",
+      "stars": 57
+    },
+    {
+      "sha": "0a47fbe99508c6f5c161e2d443c448dc984a9b77",
+      "repo": "ROCm/rocm-libraries",
+      "model": "claude",
+      "date": "2026-03-10T18:58:37.000-05:00",
+      "language": "Assembly",
+      "stars": 273
+    },
+    {
+      "sha": "144cf6bc5b4bf3a5af03ae894b1827d6e95abef1",
+      "repo": "Dicklesworthstone/frankenterm",
+      "model": "claude",
+      "date": "2026-03-10T19:58:36.000-04:00",
+      "language": "Rust",
+      "stars": 69
+    },
+    {
+      "sha": "f82a4e15f5dd8efd25b1341e0a9e120b9510fd35",
+      "repo": "rommapp/romm",
+      "model": "claude",
+      "date": "2026-03-10T19:58:14.000-04:00",
+      "language": "Python",
+      "stars": 8044
+    },
+    {
+      "sha": "7edcc1197bb80a5db555d76a93a3cd4c20c8cee0",
+      "repo": "jongwony/epistemic-protocols",
+      "model": "claude",
+      "date": "2026-03-11T08:57:44.000+09:00",
+      "language": "JavaScript",
+      "stars": 56
+    },
+    {
+      "sha": "9cc68cda7c16de612c622a3bfb2d6ad956ba9115",
+      "repo": "NVIDIA/OSMO",
+      "model": "claude",
+      "date": "2026-03-10T16:57:41.000-07:00",
+      "language": "TypeScript",
+      "stars": 106
+    },
+    {
+      "sha": "b01bae6c4849820865136e64b1a53588413bdd18",
+      "repo": "brontoguana/krasis",
+      "model": "claude",
+      "date": "2026-03-10T23:57:36.000Z",
+      "language": "Rust",
+      "stars": 52
+    },
+    {
+      "sha": "e9364d39035c57646ab57f0fbda4c5dd76ce7006",
+      "repo": "whawkinsiv/solo-founder-superpowers",
+      "model": "claude",
+      "date": "2026-03-10T16:57:33.000-07:00",
+      "language": "Shell",
+      "stars": 150
+    },
+    {
+      "sha": "d489933868f4ca5501293f724acc09a5ab306491",
+      "repo": "zlib-ng/zlib-ng",
+      "model": "claude",
+      "date": "2026-03-11T00:56:48.000+01:00",
+      "language": "C",
+      "stars": 1954
+    },
+    {
+      "sha": "9d83a6f814454a6b2f8374c16c571c31d58252c7",
+      "repo": "BerriAI/litellm",
+      "model": "claude",
+      "date": "2026-03-10T16:55:48.000-07:00",
+      "language": "Python",
+      "stars": 38585
+    },
+    {
+      "sha": "95c36a226fda0916c572b166dcd7aa7cf3eebc9b",
+      "repo": "HarukaMa/aleo-explorer",
+      "model": "claude",
+      "date": "2026-03-11T08:55:45.000+09:00",
+      "language": "Python",
+      "stars": 131
+    },
+    {
+      "sha": "5699f954395aea6ed9651e781f9d8c6c731b36d8",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "claude",
+      "date": "2026-03-10T19:55:35.000-04:00",
+      "language": "C",
+      "stars": 64
+    },
+    {
+      "sha": "4c8808dd68cceb070d370f17f8723092fdc11b5b",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "claude",
+      "date": "2026-03-10T19:55:35.000-04:00",
+      "language": "C",
+      "stars": 64
+    },
+    {
+      "sha": "d3d122400e99f202e3c5463803d9d634e59fb580",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "claude",
+      "date": "2026-03-10T19:55:35.000-04:00",
+      "language": "C",
+      "stars": 64
+    },
+    {
+      "sha": "5cbe1fab2f98678027cdf9262da2dd0d193c922c",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "claude",
+      "date": "2026-03-10T19:55:35.000-04:00",
+      "language": "C",
+      "stars": 64
+    },
+    {
+      "sha": "9fc6186bcee7538b6293fd6a7f2a1ceefa1c974c",
+      "repo": "griptape-ai/griptape-nodes",
+      "model": "claude",
+      "date": "2026-03-10T23:54:58.000Z",
+      "language": "Python",
+      "stars": 67
+    },
+    {
+      "sha": "283dd97e8fdfb61ae592305c1595b44e645989d7",
+      "repo": "reearth/reearth-visualizer",
+      "model": "claude",
+      "date": "2026-03-11T08:54:40.000+09:00",
+      "language": "TypeScript",
+      "stars": 430
+    },
+    {
+      "sha": "04978cec328e05a192ab9e523f6bfbb0591cd798",
+      "repo": "coinbase/x402",
+      "model": "claude",
+      "date": "2026-03-10T16:54:37.000-07:00",
+      "language": "TypeScript",
+      "stars": 5626
+    },
+    {
+      "sha": "b412ea26c23e01225a560e3092fa0bb90d4184bb",
+      "repo": "chardet/chardet",
+      "model": "claude",
+      "date": "2026-03-10T19:54:15.000-04:00",
+      "language": "Python",
+      "stars": 2422
+    },
+    {
+      "sha": "2a226faac364a05b188a3afcbbdc45b35b395ff3",
+      "repo": "chainguard-dev/melange",
+      "model": "claude",
+      "date": "2026-03-10T23:53:12.000Z",
+      "language": "Go",
+      "stars": 577
+    },
+    {
+      "sha": "bf936fa0c199a00bc09467e8f772ec56278791fa",
+      "repo": "openai/codex",
+      "model": "openai_codex",
+      "date": "2026-03-10T16:25:08.000-07:00",
+      "language": "Rust",
+      "stars": 64509
+    },
+    {
+      "sha": "44bfd2f12e89d88ed2ea157e0bab3132633ae91a",
+      "repo": "openai/codex",
+      "model": "openai_codex",
+      "date": "2026-03-10T16:24:55.000-07:00",
+      "language": "Rust",
+      "stars": 64509
+    },
+    {
+      "sha": "2895d3571b148309a8a567764c31fb444a130dcb",
+      "repo": "openai/codex",
+      "model": "openai_codex",
+      "date": "2026-03-10T14:04:04.000-07:00",
+      "language": "Rust",
+      "stars": 64509
+    },
+    {
+      "sha": "5d96f6a88f9f4e4679312f2e8f91368dd127c30a",
+      "repo": "dependabot/dependabot-core",
+      "model": "openai_codex",
+      "date": "2026-03-10T14:49:15.000-05:00",
+      "language": "Ruby",
+      "stars": 5453
+    },
+    {
+      "sha": "19b69b90a0e41dc0290c9e1f85e1daedbed4562c",
+      "repo": "ZhangHanDong/agent-spec",
+      "model": "openai_codex",
+      "date": "2026-03-11T00:12:23.000+08:00",
+      "language": "Rust",
+      "stars": 52
+    },
+    {
+      "sha": "6da601f0cbf4602f37a2d346d06a10dbf6292f84",
+      "repo": "getsentry/sentry",
+      "model": "openai_codex",
+      "date": "2026-03-10T07:08:09.000-03:00",
+      "language": "Python",
+      "stars": 43320
+    },
+    {
+      "sha": "d69e16cfe02a79f3c14fe1fed1297f515ba3bfab",
+      "repo": "ZhangHanDong/agent-spec",
+      "model": "openai_codex",
+      "date": "2026-03-10T17:14:58.000+08:00",
+      "language": "Rust",
+      "stars": 52
+    },
+    {
+      "sha": "c35de4eac045dd0a9f05f0aa5af08108c744a7d5",
+      "repo": "hasura/graphql-engine",
+      "model": "openai_codex",
+      "date": "2026-03-10T03:39:19.000Z",
+      "language": "TypeScript",
+      "stars": 31915
+    },
+    {
+      "sha": "78c94d3d59b1ef0290c9713607497c7c0e035bdd",
+      "repo": "mikeyobrien/ralph-orchestrator",
+      "model": "openai_codex",
+      "date": "2026-03-09T20:40:45.000-05:00",
+      "language": "Rust",
+      "stars": 2154
+    },
+    {
+      "sha": "5b5acda9e35f6831b818f50220d391914dca0bdb",
+      "repo": "mikeyobrien/ralph-orchestrator",
+      "model": "openai_codex",
+      "date": "2026-03-09T20:25:40.000-05:00",
+      "language": "Rust",
+      "stars": 2154
+    },
+    {
+      "sha": "89caf2b978b71a84b433905791725a912a690ae4",
+      "repo": "sky-map-team/stardroid",
+      "model": "gemini",
+      "date": "2026-03-10T19:18:17.000-04:00",
+      "language": "Java",
+      "stars": 1611
+    },
+    {
+      "sha": "3235dc27f8c26668ed46fffed8f7e50ceaac6838",
+      "repo": "openconfig/featureprofiles",
+      "model": "gemini",
+      "date": "2026-03-10T15:22:12.000-07:00",
+      "language": "Go",
+      "stars": 62
+    },
+    {
+      "sha": "97600c71740b7f4ae87dac8cc918c3fd05216e47",
+      "repo": "firebase/firebase-tools",
+      "model": "gemini",
+      "date": "2026-03-10T21:54:51.000Z",
+      "language": "TypeScript",
+      "stars": 4357
+    },
+    {
+      "sha": "e40c91feb1136346d5e8bb9c64d97d11e282d9e3",
+      "repo": "kalbasit/ncps",
+      "model": "gemini",
+      "date": "2026-03-10T21:53:43.000Z",
+      "language": "Go",
+      "stars": 279
+    },
+    {
+      "sha": "7ab6d2e5784f264558b7aca6f23e771361dbea3a",
+      "repo": "googleapis/sdk-platform-java",
+      "model": "gemini",
+      "date": "2026-03-10T17:35:02.000-04:00",
+      "language": "Java",
+      "stars": 89
+    },
+    {
+      "sha": "d04a241d7cb91f31e93891bab753fb0d6d0e5471",
+      "repo": "googleapis/google-cloud-python",
+      "model": "gemini",
+      "date": "2026-03-10T14:18:43.000-07:00",
+      "language": "Python",
+      "stars": 5231
+    },
+    {
+      "sha": "3c16f5517b84321717525e27b9ef07743eeda16a",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-03-10T21:14:45.000Z",
+      "language": "Dart",
+      "stars": 175492
+    },
+    {
+      "sha": "a643267e6bf368f0ae83a17caf0a369c095ab0df",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-03-10T20:44:07.000Z",
+      "language": "Dart",
+      "stars": 5151
+    },
+    {
+      "sha": "63808e33458cf82ad7d66525950d688fe817e048",
+      "repo": "firebase/firebase-tools",
+      "model": "gemini",
+      "date": "2026-03-10T20:21:10.000Z",
+      "language": "TypeScript",
+      "stars": 4357
+    },
+    {
+      "sha": "5caa192cfc0700b70c1cb3537f603a8ba04b732a",
+      "repo": "google-gemini/gemini-cli",
+      "model": "gemini",
+      "date": "2026-03-10T20:15:03.000Z",
+      "language": "TypeScript",
+      "stars": 97207
+    },
+    {
+      "sha": "f0cb25fd5686538f69385cc35abe6ce964024378",
+      "repo": "firebase/firebase-functions-python",
+      "model": "gemini",
+      "date": "2026-03-10T13:14:31.000-07:00",
+      "language": "Python",
+      "stars": 165
+    },
+    {
+      "sha": "8dd142a7133fda5fc8dc1c3be9e21f19a1b76bd6",
+      "repo": "jianyu-li/yet-another-media-player",
+      "model": "gemini",
+      "date": "2026-03-10T12:55:15.000-07:00",
+      "language": "JavaScript",
+      "stars": 154
+    },
+    {
+      "sha": "c20d2f64ecc54c86f2653da2aa3d662f9e2fce63",
+      "repo": "CodeWithCJ/SparkyFitness",
+      "model": "gemini",
+      "date": "2026-03-10T20:29:59.000+01:00",
+      "language": "TypeScript",
+      "stars": 2870
+    },
+    {
+      "sha": "ad99aa9a2a12286d2edba858ba382c27e1c8b996",
+      "repo": "googleworkspace/cli",
+      "model": "gemini",
+      "date": "2026-03-10T13:23:53.000-06:00",
+      "language": "Rust",
+      "stars": 18428
+    },
+    {
+      "sha": "2c9bc7ecd99a86b5bba0448ca6a0289cf3ebee3c",
+      "repo": "a2aproject/A2A",
+      "model": "gemini",
+      "date": "2026-03-10T11:44:17.000-07:00",
+      "language": "Shell",
+      "stars": 22417
+    },
+    {
+      "sha": "efd4116e63b3e2519f77ad101dfc648bad283f7b",
+      "repo": "meshery/meshery",
+      "model": "gemini",
+      "date": "2026-03-10T12:23:33.000-05:00",
+      "language": "HTML",
+      "stars": 10051
+    },
+    {
+      "sha": "4943694edc9ae99f23af2fbb784300e29b911b77",
+      "repo": "skypilot-org/skypilot",
+      "model": "gemini",
+      "date": "2026-03-10T10:19:57.000-07:00",
+      "language": "Python",
+      "stars": 9563
+    },
+    {
+      "sha": "477a0ee3044eff3cc1524e69f24ab6c31a8881fb",
+      "repo": "a2aproject/A2A",
+      "model": "gemini",
+      "date": "2026-03-10T13:16:01.000-04:00",
+      "language": "Shell",
+      "stars": 22417
+    },
+    {
+      "sha": "320b13c25183e0907c62360e2936b6a9c50e2f3c",
+      "repo": "gemini-cli-extensions/workspace",
+      "model": "gemini",
+      "date": "2026-03-10T09:27:55.000-07:00",
+      "language": "TypeScript",
+      "stars": 436
+    },
+    {
+      "sha": "601c408aec293911c676beb431d2490c09f70674",
+      "repo": "a2aproject/A2A",
+      "model": "gemini",
+      "date": "2026-03-10T17:06:43.000+01:00",
+      "language": "Shell",
+      "stars": 22417
+    },
+    {
+      "sha": "9db591bda44a730d22e3c518da71e13615fd7ac2",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-03-10T16:02:33.000Z",
+      "language": "Dart",
+      "stars": 175492
+    },
+    {
+      "sha": "86ae9adf66a3d005376eed57a46a0af594f03320",
+      "repo": "samanhappy/mcphub",
+      "model": "gemini",
+      "date": "2026-03-10T22:36:38.000+08:00",
+      "language": "TypeScript",
+      "stars": 1862
+    },
+    {
+      "sha": "f1655fe2989a4d91ff4fa74c751d12ba05503803",
+      "repo": "nekomangaorg/Neko",
+      "model": "gemini",
+      "date": "2026-03-10T06:50:21.000-04:00",
+      "language": "Kotlin",
+      "stars": 2695
+    },
+    {
+      "sha": "e880abda6c1428c040ccfc21f99b30ccf2b52496",
+      "repo": "google/ground-android",
+      "model": "gemini",
+      "date": "2026-03-10T10:56:18.000+01:00",
+      "language": "Kotlin",
+      "stars": 285
+    },
+    {
+      "sha": "e1df0fad2b2c99e473bfdf41a9a88b685b5f9201",
+      "repo": "langgenius/dify",
+      "model": "gemini",
+      "date": "2026-03-10T15:45:20.000+08:00",
+      "language": "TypeScript",
+      "stars": 132228
+    },
+    {
+      "sha": "d4204c8ee487654e7404a12c8b413919c065d03b",
+      "repo": "skypilot-org/skypilot",
+      "model": "gemini",
+      "date": "2026-03-10T15:10:10.000+08:00",
+      "language": "Python",
+      "stars": 9563
+    },
+    {
+      "sha": "256f254b0fcdcf62c323b3bccabfa2bb7dd1cbe7",
+      "repo": "modelscope/easydistill",
+      "model": "gemini",
+      "date": "2026-03-10T14:21:37.000+08:00",
+      "language": "Python",
+      "stars": 289
+    },
+    {
+      "sha": "b346b2bec867b357770961ce58ede8b6b4765cff",
+      "repo": "modelscope/easydistill",
+      "model": "gemini",
+      "date": "2026-03-10T14:21:18.000+08:00",
+      "language": "Python",
+      "stars": 289
+    },
+    {
+      "sha": "9ea81276f2f86de12370914d95c3be473e5775ce",
+      "repo": "modelscope/easydistill",
+      "model": "gemini",
+      "date": "2026-03-10T14:20:43.000+08:00",
+      "language": "Python",
+      "stars": 289
+    },
+    {
+      "sha": "8dd0a8088f11adf4da24f07f5becf5247a924b5e",
+      "repo": "googleapis/python-storage",
+      "model": "gemini",
+      "date": "2026-03-10T10:55:03.000+05:30",
+      "language": "Python",
+      "stars": 500
+    },
+    {
+      "sha": "840d2ae14d25230579a58aa4305f8506672a0a45",
+      "repo": "FlowiseAI/Flowise",
+      "model": "gemini",
+      "date": "2026-03-10T13:04:34.000+08:00",
+      "language": "TypeScript",
+      "stars": 50598
+    },
+    {
+      "sha": "da35d084eb019797ea7c1ef74ffac588af0e84ad",
+      "repo": "radixark/miles",
+      "model": "gemini",
+      "date": "2026-03-09T21:55:19.000-07:00",
+      "language": "Python",
+      "stars": 966
+    },
+    {
+      "sha": "4565e79f78578f2383368b70a2f94cfed2fe5a94",
+      "repo": "firebase/firebase-ios-sdk",
+      "model": "gemini",
+      "date": "2026-03-10T00:51:04.000-04:00",
+      "language": "C++",
+      "stars": 6546
+    },
+    {
+      "sha": "93493562e8e5e43032c81aafed06e9b4ac4d17b1",
+      "repo": "kvcache-ai/Mooncake",
+      "model": "gemini",
+      "date": "2026-03-10T11:20:34.000+08:00",
+      "language": "C++",
+      "stars": 4900
+    },
+    {
+      "sha": "8aa3ea404b252d2b6278fdef3af9ef38be1d01ac",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-03-10T03:01:41.000Z",
+      "language": "Dart",
+      "stars": 175492
+    },
+    {
+      "sha": "a3d44e315201d275687d86de3a5728da35919947",
+      "repo": "hiyouga/LlamaFactory",
+      "model": "gemini",
+      "date": "2026-03-10T10:55:16.000+08:00",
+      "language": "Python",
+      "stars": 68181
+    },
+    {
+      "sha": "f0e32b2cf6bb5d6217f0030ea4e77a8c4ed11fd6",
+      "repo": "looplj/axonhub",
+      "model": "gemini",
+      "date": "2026-03-10T10:54:42.000+08:00",
+      "language": "Go",
+      "stars": 2374
+    },
+    {
+      "sha": "7e2c710db42fa2f616ae94cff0f845eecf165082",
+      "repo": "jd-opensource/xllm",
+      "model": "gemini",
+      "date": "2026-03-10T09:28:50.000+08:00",
+      "language": "C++",
+      "stars": 1078
+    },
+    {
+      "sha": "fbf93571899d4da22d8395db240eac8f5ee44a6f",
+      "repo": "GoogleCloudPlatform/khi",
+      "model": "gemini",
+      "date": "2026-03-10T09:20:52.000+09:00",
+      "language": "Go",
+      "stars": 2031
+    }
+  ],
+  "totals": {
+    "claude": 22,
+    "openai_codex": 10,
+    "gemini": 39
+  },
+  "repos_tracked": 56,
+  "repo_activity": {
+    "sky-map-team/stardroid": {
+      "weekly_total": 7
+    },
+    "getsentry/sentry": {
+      "weekly_total": 211
+    },
+    "BerriAI/litellm": {
+      "weekly_total": 206
+    },
+    "GoogleCloudPlatform/khi": {
+      "weekly_total": 3
+    },
+    "skypilot-org/skypilot": {
+      "weekly_total": 23
+    },
+    "flutter/packages": {
+      "weekly_total": 13
+    },
+    "googleworkspace/cli": {
+      "weekly_total": 32
+    },
+    "coinbase/x402": {
+      "weekly_total": 22
+    },
+    "JuliaIO/Zarr.jl": {
+      "weekly_total": 3
+    },
+    "brontoguana/krasis": {
+      "weekly_total": 3
+    },
+    "ZhangHanDong/agent-spec": {
+      "weekly_total": 24
+    },
+    "ROCm/rocm-libraries": {
+      "weekly_total": 78
+    },
+    "meshery/meshery": {
+      "weekly_total": 219
+    },
+    "SynchronetBBS/sbbs": {
+      "weekly_total": 142
+    },
+    "hasura/graphql-engine": {
+      "weekly_total": 4
+    },
+    "dependabot/dependabot-core": {
+      "weekly_total": 36
+    },
+    "jd-opensource/xllm": {
+      "weekly_total": 14
+    },
+    "a2aproject/A2A": {
+      "weekly_total": 3
+    },
+    "openai/codex": {
+      "weekly_total": 100
+    },
+    "NVIDIA/OSMO": {
+      "weekly_total": 20
+    },
+    "googleapis/google-cloud-python": {
+      "weekly_total": 37
+    },
+    "flutter/flutter": {
+      "weekly_total": 48
+    },
+    "hiyouga/LlamaFactory": {
+      "weekly_total": 6
+    }
+  }
+}
