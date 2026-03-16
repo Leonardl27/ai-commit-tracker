@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T06:34:45.575884+00:00",
+  "last_updated": "2026-03-16T06:44:57.630206+00:00",
   "model_share_over_time": [
     {
       "date": "2026-03-01",
@@ -84,6 +84,12 @@
       "claude": 11,
       "openai_codex": 3,
       "gemini": 26
+    },
+    {
+      "date": "2026-03-15",
+      "claude": 12,
+      "openai_codex": 0,
+      "gemini": 12
     }
   ],
   "top_repos": [
@@ -133,6 +139,15 @@
       }
     },
     {
+      "repo": "nekomangaorg/Neko",
+      "total": 13,
+      "stars": 2698,
+      "language": "Kotlin",
+      "by_model": {
+        "gemini": 13
+      }
+    },
+    {
       "repo": "sky-map-team/stardroid",
       "total": 12,
       "stars": 1612,
@@ -142,12 +157,13 @@
       }
     },
     {
-      "repo": "nekomangaorg/Neko",
+      "repo": "nearai/ironclaw",
       "total": 11,
-      "stars": 2698,
-      "language": "Kotlin",
+      "stars": 10138,
+      "language": "Rust",
       "by_model": {
-        "gemini": 11
+        "gemini": 10,
+        "claude": 1
       }
     },
     {
@@ -167,26 +183,17 @@
       "by_model": {
         "gemini": 10
       }
-    },
-    {
-      "repo": "abbaye/WpfHexEditorControl",
-      "total": 9,
-      "stars": 873,
-      "language": "C#",
-      "by_model": {
-        "claude": 9
-      }
     }
   ],
   "rising_repos": [
     {
       "repo": "openai/codex",
-      "recent": 37,
+      "recent": 35,
       "total": 60,
       "stars": 65313,
       "language": "Rust",
       "by_model": {
-        "openai_codex": 37
+        "openai_codex": 35
       }
     },
     {
@@ -220,16 +227,6 @@
       }
     },
     {
-      "repo": "nekomangaorg/Neko",
-      "recent": 8,
-      "total": 11,
-      "stars": 2698,
-      "language": "Kotlin",
-      "by_model": {
-        "gemini": 8
-      }
-    },
-    {
       "repo": "Dicklesworthstone/asupersync",
       "recent": 7,
       "total": 7,
@@ -240,23 +237,43 @@
       }
     },
     {
-      "repo": "whistlegraph/aesthetic-computer",
-      "recent": 5,
-      "total": 7,
-      "stars": 88,
-      "language": "JavaScript",
+      "repo": "nekomangaorg/Neko",
+      "recent": 6,
+      "total": 13,
+      "stars": 2698,
+      "language": "Kotlin",
       "by_model": {
-        "claude": 5
+        "gemini": 6
       }
     },
     {
-      "repo": "sgl-project/sglang",
-      "recent": 5,
-      "total": 13,
-      "stars": 24456,
-      "language": "Python",
+      "repo": "moeru-ai/airi",
+      "recent": 6,
+      "total": 6,
+      "stars": 33919,
+      "language": "TypeScript",
       "by_model": {
-        "gemini": 5
+        "gemini": 6
+      }
+    },
+    {
+      "repo": "TriliumNext/Trilium",
+      "recent": 6,
+      "total": 6,
+      "stars": 35058,
+      "language": "TypeScript",
+      "by_model": {
+        "gemini": 6
+      }
+    },
+    {
+      "repo": "nearai/ironclaw",
+      "recent": 6,
+      "total": 11,
+      "stars": 10138,
+      "language": "Rust",
+      "by_model": {
+        "gemini": 6
       }
     },
     {
@@ -267,16 +284,6 @@
       "language": "C++",
       "by_model": {
         "claude": 5
-      }
-    },
-    {
-      "repo": "moeru-ai/airi",
-      "recent": 5,
-      "total": 5,
-      "stars": 33637,
-      "language": "TypeScript",
-      "by_model": {
-        "gemini": 5
       }
     }
   ],
@@ -320,9 +327,9 @@
     {
       "repo": "sky-map-team/stardroid",
       "ai_commits": 12,
-      "human_commits": 9,
-      "total_commits": 21,
-      "ai_percentage": 57.1,
+      "human_commits": 10,
+      "total_commits": 22,
+      "ai_percentage": 54.5,
       "stars": 1612,
       "language": "Java"
     },
@@ -336,22 +343,22 @@
       "language": "Python"
     },
     {
-      "repo": "p-e-w/heretic",
-      "ai_commits": 2,
-      "human_commits": 2,
-      "total_commits": 4,
+      "repo": "toshimaru/rubocop-rails_config",
+      "ai_commits": 1,
+      "human_commits": 1,
+      "total_commits": 2,
       "ai_percentage": 50.0,
-      "stars": 13060,
-      "language": "Python"
+      "stars": 151,
+      "language": "Ruby"
     },
     {
-      "repo": "leemysw/feishu-docx",
-      "ai_commits": 3,
-      "human_commits": 3,
-      "total_commits": 6,
+      "repo": "bdlukaa/fluent_ui",
+      "ai_commits": 1,
+      "human_commits": 1,
+      "total_commits": 2,
       "ai_percentage": 50.0,
-      "stars": 79,
-      "language": "Python"
+      "stars": 3396,
+      "language": "Dart"
     },
     {
       "repo": "loveholidays/ripley",
@@ -363,30 +370,30 @@
       "language": "Go"
     },
     {
-      "repo": "firebase/snippets-node",
+      "repo": "containers/toolbox",
       "ai_commits": 1,
       "human_commits": 1,
       "total_commits": 2,
       "ai_percentage": 50.0,
-      "stars": 396,
-      "language": "JavaScript"
+      "stars": 3263,
+      "language": "Shell"
     }
   ],
   "language_breakdown": {
     "Python": {
-      "claude": 61,
-      "gemini": 150,
+      "claude": 65,
+      "gemini": 152,
       "openai_codex": 18
     },
     "TypeScript": {
-      "claude": 41,
-      "gemini": 113,
+      "claude": 44,
+      "gemini": 116,
       "openai_codex": 9
     },
     "Rust": {
       "openai_codex": 70,
-      "gemini": 36,
-      "claude": 40
+      "gemini": 38,
+      "claude": 41
     },
     "Dart": {
       "gemini": 80,
@@ -398,31 +405,31 @@
       "openai_codex": 1
     },
     "JavaScript": {
-      "claude": 20,
+      "claude": 21,
       "gemini": 20,
       "openai_codex": 1
     },
     "C++": {
       "claude": 11,
-      "gemini": 19
+      "gemini": 21
     },
     "Java": {
       "gemini": 20,
       "claude": 3,
       "openai_codex": 1
     },
-    "C#": {
-      "claude": 18,
-      "gemini": 3
-    },
     "Kotlin": {
-      "gemini": 15,
-      "claude": 1,
+      "gemini": 17,
+      "claude": 2,
       "openai_codex": 4
     },
     "C": {
-      "claude": 17,
+      "claude": 19,
       "gemini": 2
+    },
+    "C#": {
+      "claude": 18,
+      "gemini": 3
     },
     "Shell": {
       "claude": 9,
@@ -435,7 +442,7 @@
     "Ruby": {
       "claude": 2,
       "openai_codex": 4,
-      "gemini": 6
+      "gemini": 7
     },
     "Swift": {
       "openai_codex": 5,
@@ -443,10 +450,10 @@
     }
   },
   "totals": {
-    "commits": 930,
-    "repos": 400,
+    "commits": 954,
+    "repos": 411,
     "models": 3,
-    "days_tracked": 14,
-    "today": 40
+    "days_tracked": 15,
+    "today": 24
   }
 }
