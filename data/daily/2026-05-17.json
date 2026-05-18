@@ -1,0 +1,401 @@
+{
+  "date": "2026-05-17",
+  "commits": [
+    {
+      "sha": "21782ccae5b35cbc22a3266038612374ee131614",
+      "repo": "SynkraAI/aiox-core",
+      "model": "claude",
+      "date": "2026-05-17T20:59:56.000-03:00",
+      "language": "JavaScript",
+      "stars": 2886
+    },
+    {
+      "sha": "003c2dcd771944211b97969e543d4be0f4206a9b",
+      "repo": "utopusc/livinity-io",
+      "model": "claude",
+      "date": "2026-05-17T16:59:34.000-07:00",
+      "language": "TypeScript",
+      "stars": 144
+    },
+    {
+      "sha": "baf1057c514acfdf3520b7b286cc76b52170eb56",
+      "repo": "DanielXMoore/Civet",
+      "model": "claude",
+      "date": "2026-05-17T16:59:33.000-07:00",
+      "language": "C",
+      "stars": 1941
+    },
+    {
+      "sha": "b910a36c808a9d03056fac42ed56681aebe50ab5",
+      "repo": "OSideMedia/higgsfield-ai-prompt-skill",
+      "model": "claude",
+      "date": "2026-05-17T16:58:20.000-07:00",
+      "language": "Python",
+      "stars": 74
+    },
+    {
+      "sha": "eb588dfa975710b33915dca0e4b2688d9ee36223",
+      "repo": "utopusc/livinity-io",
+      "model": "claude",
+      "date": "2026-05-17T16:58:00.000-07:00",
+      "language": "TypeScript",
+      "stars": 144
+    },
+    {
+      "sha": "9aefea72366317ad5652fce8b46cab79a5244226",
+      "repo": "JKHeadley/instar",
+      "model": "claude",
+      "date": "2026-05-17T16:56:41.000-07:00",
+      "language": "TypeScript",
+      "stars": 60
+    },
+    {
+      "sha": "3172d3bd1ddfbe738f7f25feec7b3c8dfc3587ed",
+      "repo": "roborev-dev/roborev",
+      "model": "openai_codex",
+      "date": "2026-05-17T18:48:21.000-05:00",
+      "language": "Go",
+      "stars": 1132
+    },
+    {
+      "sha": "e6b5008b1df186ef18336208aed4f9e63e2d6ad2",
+      "repo": "softmaple/softmaple",
+      "model": "openai_codex",
+      "date": "2026-05-18T07:16:44.000+08:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "84f08d01ab9fae1610bb17cf93ed4acd0d605787",
+      "repo": "ahastudio/til",
+      "model": "openai_codex",
+      "date": "2026-05-18T08:01:25.000+09:00",
+      "language": "Shell",
+      "stars": 167
+    },
+    {
+      "sha": "19f8db643b50d8d3224820613fe388279205bf26",
+      "repo": "softmaple/softmaple",
+      "model": "openai_codex",
+      "date": "2026-05-18T06:50:25.000+08:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "745b30b647dd9ba02dd49a8a8f61d7b4c261b0fb",
+      "repo": "vitest-dev/vitest",
+      "model": "openai_codex",
+      "date": "2026-05-18T00:48:20.000+02:00",
+      "language": "TypeScript",
+      "stars": 16546
+    },
+    {
+      "sha": "c04a43e75541711c6ad02f91989b3382269c6201",
+      "repo": "softmaple/softmaple",
+      "model": "openai_codex",
+      "date": "2026-05-18T05:55:52.000+08:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "7aba2b6abe3687eee235dea2fb31f4ca3cee5324",
+      "repo": "brycewang-stanford/StatsPAI",
+      "model": "openai_codex",
+      "date": "2026-05-17T14:43:13.000-07:00",
+      "language": "Python",
+      "stars": 193
+    },
+    {
+      "sha": "f3463d8c241836de4f5f468969b384d0dd299179",
+      "repo": "softmaple/softmaple",
+      "model": "openai_codex",
+      "date": "2026-05-18T05:36:53.000+08:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "0769e727ca0b139334e07df7959392fc231bf242",
+      "repo": "asheshgoplani/agent-deck",
+      "model": "openai_codex",
+      "date": "2026-05-17T23:03:45.000+02:00",
+      "language": "Go",
+      "stars": 2435
+    },
+    {
+      "sha": "6f8c899471a205ba702dc497f09f10f4c23f6788",
+      "repo": "OMARVII/claude-alloy",
+      "model": "openai_codex",
+      "date": "2026-05-17T20:01:33.000+02:00",
+      "language": "Shell",
+      "stars": 123
+    },
+    {
+      "sha": "5697f4c72c624705ca2dbaba685ffa084ce543e8",
+      "repo": "OMARVII/claude-alloy",
+      "model": "openai_codex",
+      "date": "2026-05-17T20:01:33.000+02:00",
+      "language": "Shell",
+      "stars": 123
+    },
+    {
+      "sha": "5bbd3b825b852b3ff5d49b40d5e6f2b0d77e3489",
+      "repo": "softmaple/softmaple",
+      "model": "openai_codex",
+      "date": "2026-05-18T01:19:08.000+08:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "ab3e753c7c073e4d900cc090fdf9de183563f0cf",
+      "repo": "cameroncooke/AXe",
+      "model": "openai_codex",
+      "date": "2026-05-17T18:11:14.000+01:00",
+      "language": "Swift",
+      "stars": 1990
+    },
+    {
+      "sha": "0ad62e13ae2fe51ec78e8179f299b3343a70d081",
+      "repo": "cameroncooke/AXe",
+      "model": "openai_codex",
+      "date": "2026-05-17T18:11:14.000+01:00",
+      "language": "Swift",
+      "stars": 1990
+    },
+    {
+      "sha": "0c8ad37d74f73a1077596518eb2582ca29a1de5b",
+      "repo": "softmaple/softmaple",
+      "model": "openai_codex",
+      "date": "2026-05-18T00:32:37.000+08:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "6da99ab7f98a0c73023324f1d0d302908bc54b5a",
+      "repo": "base/base",
+      "model": "openai_codex",
+      "date": "2026-05-17T14:26:25.000Z",
+      "language": "Rust",
+      "stars": 471
+    },
+    {
+      "sha": "8a7e3b6b94bcedfd6dcc04348cb18714de645161",
+      "repo": "aui-framework/aui",
+      "model": "gemini",
+      "date": "2026-05-18T02:48:16.000+03:00",
+      "language": "C++",
+      "stars": 560
+    },
+    {
+      "sha": "20e66adae39c86bcbcc10679250dd9c22905a03f",
+      "repo": "unslothai/unsloth",
+      "model": "gemini",
+      "date": "2026-05-18T00:42:30.000+04:00",
+      "language": "Python",
+      "stars": 64492
+    },
+    {
+      "sha": "7b992c3b8f957996ea37fd267a4c856d24046663",
+      "repo": "meshery/schemas",
+      "model": "gemini",
+      "date": "2026-05-17T14:53:35.000-05:00",
+      "language": "TypeScript",
+      "stars": 68
+    },
+    {
+      "sha": "aaa7f07090526639c019b61a492df2cba68d578c",
+      "repo": "Navideck/universal_ble",
+      "model": "gemini",
+      "date": "2026-05-17T21:22:13.000+02:00",
+      "language": "Dart",
+      "stars": 144
+    },
+    {
+      "sha": "bf9110ebd3f62b7ff1a4cc57c911272a5b04f77f",
+      "repo": "seaweedfs/seaweedfs",
+      "model": "gemini",
+      "date": "2026-05-17T11:10:37.000-07:00",
+      "language": "Go",
+      "stars": 32339
+    },
+    {
+      "sha": "cd26634b2c1836be134215b10cc724bc110d217a",
+      "repo": "frankiejun/wxpush",
+      "model": "gemini",
+      "date": "2026-05-17T23:40:04.000+08:00",
+      "language": "JavaScript",
+      "stars": 1209
+    },
+    {
+      "sha": "4ae607368d9846b53cde9f43b65324343485e60c",
+      "repo": "web-infra-dev/rsbuild",
+      "model": "gemini",
+      "date": "2026-05-17T21:23:12.000+08:00",
+      "language": "TypeScript",
+      "stars": 3305
+    },
+    {
+      "sha": "755194245fbc2c433509b76b0dfb39a10d4f3b77",
+      "repo": "homeassistant-ai/ha-mcp",
+      "model": "gemini",
+      "date": "2026-05-17T09:22:26.000-04:00",
+      "language": "Python",
+      "stars": 2936
+    },
+    {
+      "sha": "fd20fd2e0f82a64d9924b6188bbc4283c98054e9",
+      "repo": "homeassistant-ai/ha-mcp",
+      "model": "gemini",
+      "date": "2026-05-17T08:40:44.000-04:00",
+      "language": "Python",
+      "stars": 2936
+    },
+    {
+      "sha": "9c8022d95c47d78dae9ac8be8ecdda790ab1106a",
+      "repo": "Juwan-Hwang/Zephyr",
+      "model": "gemini",
+      "date": "2026-05-17T20:22:55.000+08:00",
+      "language": "JavaScript",
+      "stars": 237
+    },
+    {
+      "sha": "ab56e4a9edaeae839d6b229429b30e36605b26a7",
+      "repo": "unslothai/unsloth",
+      "model": "gemini",
+      "date": "2026-05-17T04:16:09.000-07:00",
+      "language": "Python",
+      "stars": 64492
+    },
+    {
+      "sha": "5cf36ab7194dc402913ae017a011fdc769ad5093",
+      "repo": "gdsfactory/kfactory",
+      "model": "gemini",
+      "date": "2026-05-17T18:38:30.000+08:00",
+      "language": "Python",
+      "stars": 64
+    },
+    {
+      "sha": "3f622b138cde03c3f6fd2768c12f402a3d35ab1d",
+      "repo": "matz/spinel",
+      "model": "gemini",
+      "date": "2026-05-17T19:35:27.000+09:00",
+      "language": "Ruby",
+      "stars": 1550
+    },
+    {
+      "sha": "854ba7498cccb2f87578a1dfbeeecf0da1013fb0",
+      "repo": "fzyzcjy/flutter_rust_bridge",
+      "model": "gemini",
+      "date": "2026-05-17T18:06:33.000+08:00",
+      "language": "Dart",
+      "stars": 5234
+    },
+    {
+      "sha": "f80d3164d9aa94e19b34c12e06f69a3f0fdb1c67",
+      "repo": "ding113/claude-code-hub",
+      "model": "gemini",
+      "date": "2026-05-17T17:44:55.000+08:00",
+      "language": "TypeScript",
+      "stars": 2860
+    },
+    {
+      "sha": "2e2f6a19fefd462cc929870fd1b621b5efb39277",
+      "repo": "ai-shifu/ai-shifu",
+      "model": "gemini",
+      "date": "2026-05-17T17:25:44.000+08:00",
+      "language": "Python",
+      "stars": 286
+    },
+    {
+      "sha": "32411e43ec1fadc5f9bb4e4cac420265ee0ee880",
+      "repo": "sipyourdrink-ltd/bernstein",
+      "model": "gemini",
+      "date": "2026-05-17T11:58:03.000+03:00",
+      "language": "Python",
+      "stars": 396
+    },
+    {
+      "sha": "bc8b09c132a7465dcccbb9d66f49107a2fa2aaa6",
+      "repo": "colmap/colmap",
+      "model": "gemini",
+      "date": "2026-05-17T10:44:23.000+02:00",
+      "language": "C++",
+      "stars": 11702
+    },
+    {
+      "sha": "3c322848ee569eb128df1a6e7ae3c8be110d9c3d",
+      "repo": "TriliumNext/Trilium",
+      "model": "gemini",
+      "date": "2026-05-17T10:11:05.000+03:00",
+      "language": "TypeScript",
+      "stars": 36085
+    },
+    {
+      "sha": "c1e917cb0fadb16b9b5596ebf703eb32bd9b3237",
+      "repo": "ai-shifu/ai-shifu",
+      "model": "gemini",
+      "date": "2026-05-17T10:56:12.000+08:00",
+      "language": "Python",
+      "stars": 286
+    },
+    {
+      "sha": "3fd8f9ac96044788f2aafd3feffbc2f2370f6894",
+      "repo": "teng-lin/notebooklm-py",
+      "model": "gemini",
+      "date": "2026-05-16T22:29:54.000-04:00",
+      "language": "Python",
+      "stars": 13446
+    },
+    {
+      "sha": "8c38938a46fbbdce57ec4996febbdc20c2d797e0",
+      "repo": "Giskard-AI/giskard-oss",
+      "model": "gemini",
+      "date": "2026-05-17T09:01:54.000+07:00",
+      "language": "Python",
+      "stars": 5352
+    },
+    {
+      "sha": "368130275dad06206be703bc46d56ede15f731c6",
+      "repo": "Mdr-C-Tutorial/C",
+      "model": "gemini",
+      "date": "2026-05-17T09:55:08.000+08:00",
+      "language": "C",
+      "stars": 67
+    },
+    {
+      "sha": "b8e7be7641652ef8a56146677247fa6fd2f93e3b",
+      "repo": "QVerisAI/qveris-agent-toolkit",
+      "model": "gemini",
+      "date": "2026-05-17T09:36:03.000+08:00",
+      "language": "JavaScript",
+      "stars": 225
+    },
+    {
+      "sha": "26b24565ffa905c14b50ad918fc47ce5579cdba5",
+      "repo": "kvcache-ai/Mooncake",
+      "model": "gemini",
+      "date": "2026-05-17T09:28:38.000+08:00",
+      "language": "C++",
+      "stars": 5358
+    }
+  ],
+  "totals": {
+    "claude": 6,
+    "openai_codex": 16,
+    "gemini": 25
+  },
+  "repos_tracked": 36,
+  "repo_activity": {
+    "Giskard-AI/giskard-oss": {
+      "weekly_total": 8
+    },
+    "seaweedfs/seaweedfs": {
+      "weekly_total": 10
+    },
+    "TriliumNext/Trilium": {
+      "weekly_total": 25
+    },
+    "fzyzcjy/flutter_rust_bridge": {
+      "weekly_total": 27
+    }
+  }
+}
