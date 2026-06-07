@@ -1,0 +1,693 @@
+{
+  "date": "2026-06-06",
+  "commits": [
+    {
+      "sha": "b3eaadea6e0dd720339752a305870900ea3fd799",
+      "repo": "freud14/poutyne",
+      "model": "claude",
+      "date": "2026-06-06T19:59:54.000-04:00",
+      "language": "Python",
+      "stars": 578
+    },
+    {
+      "sha": "59242398946df92090cf992759a8d5c69544f817",
+      "repo": "Rdiger-36/bambulab-ams-spoolman-filamentstatus",
+      "model": "claude",
+      "date": "2026-06-07T01:59:50.000+02:00",
+      "language": "JavaScript",
+      "stars": 224
+    },
+    {
+      "sha": "23ffdc907e118ed476345d359d237d86a6e04f03",
+      "repo": "Wide-Moat/open-computer-use",
+      "model": "claude",
+      "date": "2026-06-07T02:56:49.000+03:00",
+      "language": "Python",
+      "stars": 91
+    },
+    {
+      "sha": "7e466cacef0ccd8df584de5f8f4d11aba883cd60",
+      "repo": "MCPJam/inspector",
+      "model": "claude",
+      "date": "2026-06-06T16:56:45.000-07:00",
+      "language": "TypeScript",
+      "stars": 1995
+    },
+    {
+      "sha": "cd3534d8a7a4438d448be376bf6bf1971700aba6",
+      "repo": "AmrDab/clawdcursor",
+      "model": "claude",
+      "date": "2026-06-06T16:55:35.000-07:00",
+      "language": "TypeScript",
+      "stars": 341
+    },
+    {
+      "sha": "1dcdda1cfdb27a56c7e296d553702d10f4d1c0c4",
+      "repo": "hmislk/hmis",
+      "model": "openai_codex",
+      "date": "2026-06-07T05:12:29.000+05:30",
+      "language": "HTML",
+      "stars": 214
+    },
+    {
+      "sha": "8cacdb70397235ef370f0a45d40a85ee62223c4b",
+      "repo": "airbnb/viaduct",
+      "model": "openai_codex",
+      "date": "2026-06-06T20:17:11.000Z",
+      "language": "Kotlin",
+      "stars": 159
+    },
+    {
+      "sha": "841ca6b9cd10a33e144ac0306ef1673630254641",
+      "repo": "patrykandpatrick/vico",
+      "model": "openai_codex",
+      "date": "2026-06-06T21:26:47.000+02:00",
+      "language": "Kotlin",
+      "stars": 3088
+    },
+    {
+      "sha": "0364e73209f2081cea98f533b253203d0c335f3f",
+      "repo": "airbnb/viaduct",
+      "model": "openai_codex",
+      "date": "2026-06-06T18:17:25.000Z",
+      "language": "Kotlin",
+      "stars": 159
+    },
+    {
+      "sha": "9d912067a744195ea8539859daa89d18143115c1",
+      "repo": "aethersdr/AetherSDR",
+      "model": "openai_codex",
+      "date": "2026-06-06T10:25:16.000-07:00",
+      "language": "C++",
+      "stars": 153
+    },
+    {
+      "sha": "dfdbebdce56ee960097800a45ed43cb929e9eaeb",
+      "repo": "patrykandpatrick/vico",
+      "model": "openai_codex",
+      "date": "2026-06-06T19:02:52.000+02:00",
+      "language": "Kotlin",
+      "stars": 3088
+    },
+    {
+      "sha": "7cd47a4e277d42fd9b5ef03f34301cc1ddad6b4d",
+      "repo": "aethersdr/AetherSDR",
+      "model": "openai_codex",
+      "date": "2026-06-06T09:49:09.000-07:00",
+      "language": "C++",
+      "stars": 153
+    },
+    {
+      "sha": "01c7571ad2a941100f62c1d56c2468b8d2e724e0",
+      "repo": "patrykandpatrick/vico",
+      "model": "openai_codex",
+      "date": "2026-06-06T18:49:03.000+02:00",
+      "language": "Kotlin",
+      "stars": 3088
+    },
+    {
+      "sha": "c40fc4c94c41496e85601bab6413936b6515a660",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-07T00:26:00.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "10a1afdb3838505e71572599c8b1834c49aed9ec",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-07T00:26:00.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "87ed6da752b9cb7dc890942986d86539baa06d6a",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-07T00:26:00.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "204585bc21796139d9c8681d16a70b4c340c0890",
+      "repo": "aethersdr/AetherSDR",
+      "model": "openai_codex",
+      "date": "2026-06-06T09:19:51.000-07:00",
+      "language": "C++",
+      "stars": 153
+    },
+    {
+      "sha": "d346d1c853e4c771094a66482c8c65462a079b47",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-06-07T00:17:50.000+08:00",
+      "language": "TypeScript",
+      "stars": 57
+    },
+    {
+      "sha": "014fcb749129dd078344f0b72f1978035c0c0049",
+      "repo": "aethersdr/AetherSDR",
+      "model": "openai_codex",
+      "date": "2026-06-06T10:44:18.000-05:00",
+      "language": "C++",
+      "stars": 153
+    },
+    {
+      "sha": "d78dd0ef39929dbe5ba76a9734f6923898e46b57",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T21:33:45.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "6b9f715e8b502ded9e559c492cafa04ba69b7487",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T21:33:45.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "c8cee1867d485f4f4bdf9fbb06c8b4f92621d60b",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T18:04:44.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "19113c0f8c5f1ee96f4467082a6644d3af333eeb",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T18:04:44.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "4bd683847c399624b7b3d4524b22fd7e99bf91bd",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T18:04:44.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "371626cd367fe210fbe5a5607e9ee169b0253620",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T18:04:44.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "143920a09b3907ccbd277d03ec5736a9216d9b55",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T17:28:35.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "9ebd639b54fdb93ffa5f8fa57d6a625b955c88d5",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T17:28:35.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "369f16ea3b4ae96eaed837b922511adc57072bbc",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T17:28:35.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "39936038843e3deea0cd566c5aa98ea54464155f",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T17:28:35.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "3d407e53ef918f69aa7a33dac51cca02ceb6def8",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T17:28:35.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "7bc3614a6c13523e9b2e32184ef8742ee2433f1d",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-06-06T12:41:05.000+08:00",
+      "language": "TypeScript",
+      "stars": 57
+    },
+    {
+      "sha": "fe56d00c9805086b7ed72f9f7798594f4ba15196",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "d4914e14f0349a0c7b00d7f298340a341a32c182",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "7ea27775a1bf339f7a41c4a0db90131606f8fd56",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "a0054fa528a965fab5963a95978b4599e6ce598c",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "fe78057efd70e1481c1de658f289e64e757045a0",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "0f866de5339d4876d00d88422ca25f200f829f87",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "fd3a00fc2c108286df189a119e307460569d1c77",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "3a19de3bf3b0fc268b1ce6026c130b94becd706f",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "eb959dbbd427f44c642ebc659aada8521a716836",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "015e84398077bd5c9895fe1e54f7427a005d9009",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "f8a1c1dab4aa3f6364add5b63159b10fef924cd6",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "183785c4fe1f238b22d53ee8bbdd0f7e3b021535",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "865f91512ae115d99df43a7a0624fc92a65e7eef",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "a363be4b198dc4e929da21705405ee2e48d88b9a",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "3a82d71e291d980225f6d3d04f90466c2c4b00c7",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "8402fa99152204b88f88320a66434ab3410efd3c",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "6cb3a6116930ce8a6349175b6867db4e69637420",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "6214ae6db2b51945d3bad10575e9a1232977770f",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "a1d9fe63418dd487b072c27a2895f6e040e48fc9",
+      "repo": "ethanhq/cc-fleet",
+      "model": "openai_codex",
+      "date": "2026-06-06T11:19:32.000+08:00",
+      "language": "Go",
+      "stars": 108
+    },
+    {
+      "sha": "2f108f9fd970ed73df7e984d3a661acc02f33abc",
+      "repo": "openai/codex",
+      "model": "openai_codex",
+      "date": "2026-06-05T18:06:29.000-07:00",
+      "language": "Rust",
+      "stars": 89215
+    },
+    {
+      "sha": "c3141926387585b53a2045e9ee6777f55ddf67ed",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-06-06T08:48:50.000+08:00",
+      "language": "TypeScript",
+      "stars": 57
+    },
+    {
+      "sha": "161be98a86b42c3f5e540f4c3c8d42cae87d350a",
+      "repo": "ahastudio/til",
+      "model": "openai_codex",
+      "date": "2026-06-06T09:23:33.000+09:00",
+      "language": "Shell",
+      "stars": 169
+    },
+    {
+      "sha": "e4dcb90dd05367f9b8689ce47a1a3e8273398c97",
+      "repo": "zigcc/awesome-zig",
+      "model": "gemini",
+      "date": "2026-06-07T07:34:01.000+08:00",
+      "language": "Makefile",
+      "stars": 2327
+    },
+    {
+      "sha": "60194397a9723faed88e1abeaa903e3865daba43",
+      "repo": "sven-n/MuMain",
+      "model": "gemini",
+      "date": "2026-06-06T22:04:40.000+02:00",
+      "language": "C++",
+      "stars": 230
+    },
+    {
+      "sha": "8a91e059e58549628fe26e3747b0d35368a38290",
+      "repo": "jeremyckahn/farmhand",
+      "model": "gemini",
+      "date": "2026-06-06T12:45:18.000-05:00",
+      "language": "TypeScript",
+      "stars": 131
+    },
+    {
+      "sha": "a367810c890ee4b43ed43eb20387bc3fd0a9903b",
+      "repo": "graphql-hive/console",
+      "model": "gemini",
+      "date": "2026-06-06T19:29:25.000+02:00",
+      "language": "TypeScript",
+      "stars": 478
+    },
+    {
+      "sha": "e0d279191ab411a38b7edb0849bca4523af609f5",
+      "repo": "gosuda/portal-tunnel",
+      "model": "gemini",
+      "date": "2026-06-06T22:09:08.000+09:00",
+      "language": "Go",
+      "stars": 259
+    },
+    {
+      "sha": "aff3fac80863518f6d0959fe48bc70819112763b",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-06-06T15:25:09.000+03:00",
+      "language": "Rust",
+      "stars": 12408
+    },
+    {
+      "sha": "04accab056862b97cdb28b868c7c8f40bec0bcbd",
+      "repo": "gofiber/fiber",
+      "model": "gemini",
+      "date": "2026-06-06T07:53:04.000-04:00",
+      "language": "Go",
+      "stars": 39815
+    },
+    {
+      "sha": "1463d76072b119787afd88a4a7634169e5511e7b",
+      "repo": "middleapi/orpc",
+      "model": "gemini",
+      "date": "2026-06-06T18:30:46.000+07:00",
+      "language": "TypeScript",
+      "stars": 5281
+    },
+    {
+      "sha": "f54348ff9eee463a90e29ba33751727f233a2cb6",
+      "repo": "teng-lin/notebooklm-py",
+      "model": "gemini",
+      "date": "2026-06-06T04:12:44.000-04:00",
+      "language": "Python",
+      "stars": 16024
+    },
+    {
+      "sha": "cd7fd6f5d98d17e46c3e7f4708187b0d89e3c42b",
+      "repo": "LMCache/LMCache",
+      "model": "gemini",
+      "date": "2026-06-06T08:00:14.000Z",
+      "language": "Python",
+      "stars": 8435
+    },
+    {
+      "sha": "cb5b2e7d0f981a849d73dd6ea19772775750af76",
+      "repo": "NeteaseCloudMusicApiEnhanced/api-enhanced",
+      "model": "gemini",
+      "date": "2026-06-06T15:22:25.000+08:00",
+      "language": "JavaScript",
+      "stars": 1093
+    },
+    {
+      "sha": "e578268912d0267ee84797072eb0d49a6c5af346",
+      "repo": "teng-lin/notebooklm-py",
+      "model": "gemini",
+      "date": "2026-06-06T03:20:03.000-04:00",
+      "language": "Python",
+      "stars": 16024
+    },
+    {
+      "sha": "6a1435d1fef997fbbfaf4e477c41f6e50ab64eb4",
+      "repo": "teng-lin/notebooklm-py",
+      "model": "gemini",
+      "date": "2026-06-06T02:38:58.000-04:00",
+      "language": "Python",
+      "stars": 16024
+    },
+    {
+      "sha": "caeb449cd62cf5e3903cb24c5f410f953ca4f7cd",
+      "repo": "sgl-project/sglang",
+      "model": "gemini",
+      "date": "2026-06-05T22:39:40.000-07:00",
+      "language": "Python",
+      "stars": 28883
+    },
+    {
+      "sha": "b816f50200b8f349639916c3a2527ee6d31da143",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-06T09:26:29.000+05:30",
+      "language": "TypeScript",
+      "stars": 98
+    },
+    {
+      "sha": "a4c62e54135a67c79043aa51bd3afdee6b2a2e84",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-06T09:26:20.000+05:30",
+      "language": "TypeScript",
+      "stars": 98
+    },
+    {
+      "sha": "6f5b7b3d2ca8e8a3b08f0549929def03509d94ad",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-06T09:26:11.000+05:30",
+      "language": "TypeScript",
+      "stars": 98
+    },
+    {
+      "sha": "ea6e8845b8eeb27c60f3b286b69f0d23b452d2a6",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-06T09:25:59.000+05:30",
+      "language": "TypeScript",
+      "stars": 98
+    },
+    {
+      "sha": "d474032fbdf14fdd317031934f20086b67006250",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-06T09:05:58.000+05:30",
+      "language": "TypeScript",
+      "stars": 98
+    },
+    {
+      "sha": "fa6621f068cdb5f4650409c89449cf62cc58b019",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-06T09:05:03.000+05:30",
+      "language": "TypeScript",
+      "stars": 98
+    },
+    {
+      "sha": "5f6444552cd0a6dacb265e426817d379bb02a68c",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-06T09:03:57.000+05:30",
+      "language": "TypeScript",
+      "stars": 98
+    },
+    {
+      "sha": "67d9850fe62d396e27c0d244cf084074862f77ea",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-06T09:03:18.000+05:30",
+      "language": "TypeScript",
+      "stars": 98
+    },
+    {
+      "sha": "fa7ad82cb6f2cc75ef43dfad75ba950cc62b5c64",
+      "repo": "The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "model": "gemini",
+      "date": "2026-06-06T03:30:08.000Z",
+      "language": "Verilog",
+      "stars": 647
+    },
+    {
+      "sha": "1ff6f57f677afec1896d8f4642d9a55f27eea724",
+      "repo": "open-lm-engine/lm-engine",
+      "model": "gemini",
+      "date": "2026-06-05T20:23:35.000-07:00",
+      "language": "Python",
+      "stars": 174
+    },
+    {
+      "sha": "bb5640edb57e502f95dee94ae76e760255be5b0d",
+      "repo": "jellydn/zed-101-setup",
+      "model": "gemini",
+      "date": "2026-06-06T10:09:48.000+08:00",
+      "language": "TypeScript",
+      "stars": 1354
+    },
+    {
+      "sha": "3bfeda5970478a6e98a5d1710b82c2aca10a8263",
+      "repo": "GoogleCloudPlatform/DataflowTemplates",
+      "model": "gemini",
+      "date": "2026-06-05T17:19:35.000-07:00",
+      "language": "Java",
+      "stars": 1294
+    }
+  ],
+  "totals": {
+    "claude": 5,
+    "openai_codex": 48,
+    "gemini": 26
+  },
+  "repos_tracked": 30,
+  "repo_activity": {
+    "patrykandpatrick/vico": {
+      "weekly_total": 2
+    },
+    "hmislk/hmis": {
+      "weekly_total": 43
+    },
+    "freud14/poutyne": {
+      "weekly_total": 0
+    },
+    "GoogleCloudPlatform/DataflowTemplates": {
+      "weekly_total": 0
+    },
+    "AmrDab/clawdcursor": {
+      "weekly_total": 0
+    },
+    "open-lm-engine/lm-engine": {
+      "weekly_total": 0
+    },
+    "jellydn/zed-101-setup": {
+      "weekly_total": 0
+    },
+    "gofiber/fiber": {
+      "weekly_total": 0
+    },
+    "sgl-project/sglang": {
+      "weekly_total": 8
+    },
+    "NeteaseCloudMusicApiEnhanced/api-enhanced": {
+      "weekly_total": 0
+    },
+    "gosuda/portal-tunnel": {
+      "weekly_total": 2
+    },
+    "openai/codex": {
+      "weekly_total": 0
+    },
+    "graphql-hive/console": {
+      "weekly_total": 0
+    },
+    "ahastudio/til": {
+      "weekly_total": 1
+    },
+    "The-OpenROAD-Project/OpenROAD-flow-scripts": {
+      "weekly_total": 0
+    },
+    "middleapi/orpc": {
+      "weekly_total": 0
+    }
+  }
+}
