@@ -1,0 +1,878 @@
+{
+  "date": "2026-06-25",
+  "commits": [
+    {
+      "sha": "8405e574be1d587081e50dbb559eb9ac65cc1058",
+      "repo": "rommapp/romm",
+      "model": "claude",
+      "date": "2026-06-25T19:59:52.000-04:00",
+      "language": "Python",
+      "stars": 9061
+    },
+    {
+      "sha": "02f507bb0045c21b2a927e1e0905446e8a395978",
+      "repo": "tig/winprint",
+      "model": "claude",
+      "date": "2026-06-25T16:59:43.000-07:00",
+      "language": "C#",
+      "stars": 88
+    },
+    {
+      "sha": "32a4ddf258bdeaba62dc97e0bceabc4042f96271",
+      "repo": "Comfy-Org/workflow_templates",
+      "model": "claude",
+      "date": "2026-06-25T16:59:42.000-07:00",
+      "language": "Python",
+      "stars": 585
+    },
+    {
+      "sha": "d33cb33899cf483e71e4d4edb9ceceaece3aae43",
+      "repo": "dustinlyons/nixos-config",
+      "model": "claude",
+      "date": "2026-06-25T19:58:54.000-04:00",
+      "language": "Nix",
+      "stars": 3551
+    },
+    {
+      "sha": "181dee5d0770dc2458cfa4543baf0146c5bfe555",
+      "repo": "kenlasko/monize",
+      "model": "claude",
+      "date": "2026-06-25T23:58:32.000Z",
+      "language": "TypeScript",
+      "stars": 123
+    },
+    {
+      "sha": "1499a69e9acaf5b4a88524ad18ca0a2b567096e0",
+      "repo": "youngbryan97/aura",
+      "model": "claude",
+      "date": "2026-06-25T16:58:25.000-07:00",
+      "language": "Python",
+      "stars": 62
+    },
+    {
+      "sha": "f818586b7d9e89c6c529ea6317b85a9bbe731c1f",
+      "repo": "rommapp/romm",
+      "model": "claude",
+      "date": "2026-06-25T19:58:13.000-04:00",
+      "language": "Python",
+      "stars": 9061
+    },
+    {
+      "sha": "b857e4af7b89a80c1764115349b6adae06a5d851",
+      "repo": "IrosTheBeggar/mStream",
+      "model": "claude",
+      "date": "2026-06-25T19:58:11.000-04:00",
+      "language": "JavaScript",
+      "stars": 2351
+    },
+    {
+      "sha": "69f666273d15d2d18ca5ef25fb9167b8607e4aac",
+      "repo": "max-sixty/worktrunk",
+      "model": "claude",
+      "date": "2026-06-25T16:57:58.000-07:00",
+      "language": "Rust",
+      "stars": 5594
+    },
+    {
+      "sha": "7fa66d1a6c600fb1c019cc906ff0086c7ffdc21b",
+      "repo": "frandallfarmer/neohabitat",
+      "model": "claude",
+      "date": "2026-06-25T16:57:41.000-07:00",
+      "language": "JavaScript",
+      "stars": 246
+    },
+    {
+      "sha": "577fb4c9e4861d83873d1accfb420853187fba22",
+      "repo": "timtoole02/Camelid",
+      "model": "claude",
+      "date": "2026-06-25T16:57:38.000-07:00",
+      "language": "Rust",
+      "stars": 94
+    },
+    {
+      "sha": "02fc525d8cd2d096b400e3238ac2592fb7759401",
+      "repo": "yurukusa/cc-safe-setup",
+      "model": "claude",
+      "date": "2026-06-26T08:57:36.000+09:00",
+      "language": "Shell",
+      "stars": 53
+    },
+    {
+      "sha": "3dbd2c353e180b662e1707cf8ac2ffe7e0e09069",
+      "repo": "krelltunez/lastGLANCE",
+      "model": "claude",
+      "date": "2026-06-25T23:57:34.000Z",
+      "language": "TypeScript",
+      "stars": 73
+    },
+    {
+      "sha": "96548819d480b8e64adc66c755914d4bd48cd7c3",
+      "repo": "nirholas/three.ws",
+      "model": "claude",
+      "date": "2026-06-25T23:57:21.000Z",
+      "language": "JavaScript",
+      "stars": 72
+    },
+    {
+      "sha": "555011e6db32c96ca366cf81ab98a596b3c9c988",
+      "repo": "nirholas/three.ws",
+      "model": "claude",
+      "date": "2026-06-25T23:57:01.000Z",
+      "language": "JavaScript",
+      "stars": 72
+    },
+    {
+      "sha": "f5c352c8eeadcb887a73e840feb9bff6a2c33524",
+      "repo": "Mnexa-AI/e2a",
+      "model": "claude",
+      "date": "2026-06-25T16:56:18.000-07:00",
+      "language": "Go",
+      "stars": 163
+    },
+    {
+      "sha": "abd6c80343eb2b1285ab0236848dff60ce3e989b",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T01:51:29.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "ee2fb3b69ccb354f4ae68724a1521fdc81d2ed40",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T01:49:00.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "dc027e9ff31b2c369baddd1a6afa6e614008b228",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T01:43:57.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "ea87dba67286f071f4c4c21c67b83e84ce9c39be",
+      "repo": "stripe/stripe-android",
+      "model": "openai_codex",
+      "date": "2026-06-25T19:34:42.000-04:00",
+      "language": "Kotlin",
+      "stars": 1502
+    },
+    {
+      "sha": "01d1b95531c05e92fcce6bd78b61d9a6a7bfcff7",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T01:32:28.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "6571e37bc90838e4a71a4156540118541783c556",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T01:15:08.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "cf65db82666061a8a9cd1575dde974d108c61f32",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:54:59.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "ca81541ab7ebaea072ba994056e7166083eadcb3",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:49:14.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "cb02a1953eb3e86cfb9f95b9ab8b029d623b7ad7",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:42:19.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "8d8e325805875103118128e1cc8a056dd795e6e7",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:38:44.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "14193d7d9157a97807b2b85e17a03ea554b9dd63",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:23:53.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "59ef962c4cb7913e159c1f28d12b2cf084a598fe",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:19:04.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "35d0c52f970c4ddefbafaa335930d02ae998bb30",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:18:51.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "5c2b77957f8ccacd8c1b208b844ebfc37bb91e08",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:18:43.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "746458e089097d1b1e952ee81831b9ecc7911f1c",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:02:58.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "9f3c93b9719e2d37cd76f515bf7c86a3210776e6",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-26T00:00:14.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "6ad7a76db2eea53debe6068c38c3894c2be3031f",
+      "repo": "aquaproj/aqua-registry",
+      "model": "openai_codex",
+      "date": "2026-06-26T06:52:26.000+09:00",
+      "language": "YAML",
+      "stars": 348
+    },
+    {
+      "sha": "73da812f9747085ade7972e88c05f827247e4302",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-25T23:47:49.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "7ef15039cafcb0a0e249579d9ca00c8f183baaf0",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-25T22:53:27.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "7c981cd0cc1977bf2b8add6f8cd6526c6ce847ad",
+      "repo": "pgjdbc/pgjdbc",
+      "model": "openai_codex",
+      "date": "2026-06-25T23:42:32.000+03:00",
+      "language": "Java",
+      "stars": 1722
+    },
+    {
+      "sha": "912eaaf9b19a32c6cee43227bc0d3c38bc2cbfcb",
+      "repo": "getsentry/sentry-mcp",
+      "model": "openai_codex",
+      "date": "2026-06-25T13:04:12.000-07:00",
+      "language": "TypeScript",
+      "stars": 743
+    },
+    {
+      "sha": "28b1314cb945d5eaefc3ff4e424769313acff38f",
+      "repo": "Advance-Technologies-Foundation/clio",
+      "model": "openai_codex",
+      "date": "2026-06-25T21:44:02.000+02:00",
+      "language": "C#",
+      "stars": 53
+    },
+    {
+      "sha": "7471f7d8a512ed06b1b030c5b293282b60b42eaa",
+      "repo": "getsentry/junior",
+      "model": "openai_codex",
+      "date": "2026-06-25T10:15:51.000-07:00",
+      "language": "TypeScript",
+      "stars": 242
+    },
+    {
+      "sha": "adf50f92835a3562d00775e7293745c017ce4ef2",
+      "repo": "getsentry/sentry",
+      "model": "openai_codex",
+      "date": "2026-06-25T12:24:29.000-04:00",
+      "language": "Python",
+      "stars": 44170
+    },
+    {
+      "sha": "eaf62d3c26a11fd83fad2dde64ba88a1c32e14a6",
+      "repo": "getsentry/sentry",
+      "model": "openai_codex",
+      "date": "2026-06-25T12:06:50.000-04:00",
+      "language": "Python",
+      "stars": 44170
+    },
+    {
+      "sha": "0932878c683350c51d4aa6f1efe13e46cb977b64",
+      "repo": "getsentry/junior",
+      "model": "openai_codex",
+      "date": "2026-06-25T08:54:54.000-07:00",
+      "language": "TypeScript",
+      "stars": 242
+    },
+    {
+      "sha": "b06965c41583c69f37a6232889896656d3573964",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-06-25T16:37:48.000+08:00",
+      "language": "TypeScript",
+      "stars": 77
+    },
+    {
+      "sha": "6f7d0050297a5ae04dbdbce58f8114d33b1deb7a",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-06-25T15:17:24.000+08:00",
+      "language": "TypeScript",
+      "stars": 77
+    },
+    {
+      "sha": "984953f54ebab84339c294e2e9ea9edb119d0347",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-06-25T15:14:30.000+08:00",
+      "language": "TypeScript",
+      "stars": 77
+    },
+    {
+      "sha": "d5e4369fad4ce50fd8504a27a349908346767d93",
+      "repo": "aviatesk/JETLS.jl",
+      "model": "openai_codex",
+      "date": "2026-06-25T14:18:32.000+09:00",
+      "language": "Julia",
+      "stars": 291
+    },
+    {
+      "sha": "7f18284706634473047b073ba4cc028baa60cbfb",
+      "repo": "ahastudio/til",
+      "model": "openai_codex",
+      "date": "2026-06-25T14:06:35.000+09:00",
+      "language": "Shell",
+      "stars": 177
+    },
+    {
+      "sha": "5654c628c705d719bdb248108cf2f30f680b3eda",
+      "repo": "aviatesk/JETLS.jl",
+      "model": "openai_codex",
+      "date": "2026-06-25T13:21:00.000+09:00",
+      "language": "Julia",
+      "stars": 291
+    },
+    {
+      "sha": "f5f82d4fe0ff7097819e1a690e064297fb639680",
+      "repo": "aviatesk/JETLS.jl",
+      "model": "openai_codex",
+      "date": "2026-06-25T10:19:21.000+09:00",
+      "language": "Julia",
+      "stars": 291
+    },
+    {
+      "sha": "35f87de534d24fae5019a67763548fa6408a105f",
+      "repo": "69gg/Undefined",
+      "model": "openai_codex",
+      "date": "2026-06-25T08:54:07.000+08:00",
+      "language": "Python",
+      "stars": 225
+    },
+    {
+      "sha": "83f26432e677a9e4f705d142a51cb18cd40c75e1",
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "model": "openai_codex",
+      "date": "2026-06-24T20:05:56.000-04:00",
+      "language": "Rust",
+      "stars": 1135
+    },
+    {
+      "sha": "c1f7d920c272d617db162c66439f65e1725ca465",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-06-25T16:34:09.000-07:00",
+      "language": "Dart",
+      "stars": 5245
+    },
+    {
+      "sha": "dc83d0d391e973109be924bbcf726441af754df4",
+      "repo": "flashinfer-ai/flashinfer",
+      "model": "gemini",
+      "date": "2026-06-25T15:49:26.000-07:00",
+      "language": "Python",
+      "stars": 5859
+    },
+    {
+      "sha": "6c66560d3de876ebb40b32818c76ca6b92f222fe",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-06-25T21:18:05.000Z",
+      "language": "Dart",
+      "stars": 177571
+    },
+    {
+      "sha": "fecdd91c1826ffaffd97bcd1bf5ca03f01d93c14",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-06-25T21:04:11.000Z",
+      "language": "Dart",
+      "stars": 177571
+    },
+    {
+      "sha": "2207141e63dec48bc31c42ba86b920119094ca48",
+      "repo": "clayauld/asus-merlin-cloudflare-ddns",
+      "model": "gemini",
+      "date": "2026-06-25T12:55:57.000-08:00",
+      "language": "Shell",
+      "stars": 91
+    },
+    {
+      "sha": "4777ae8d3ff7fdedde8d72f8a8e2e14dd5318d00",
+      "repo": "gobii-ai/gobii-platform",
+      "model": "gemini",
+      "date": "2026-06-25T16:36:27.000-04:00",
+      "language": "Python",
+      "stars": 467
+    },
+    {
+      "sha": "2c9d52529f5b7ea455174ac0f7ed21fb1c8f5967",
+      "repo": "gobii-ai/gobii-platform",
+      "model": "gemini",
+      "date": "2026-06-25T16:36:22.000-04:00",
+      "language": "Python",
+      "stars": 467
+    },
+    {
+      "sha": "aed6d8e2fad7eb8a180e9e0c23d0eb03caa872cd",
+      "repo": "meshery/meshery",
+      "model": "gemini",
+      "date": "2026-06-26T01:57:35.000+05:30",
+      "language": "TypeScript",
+      "stars": 11294
+    },
+    {
+      "sha": "695109e9f7f2f00d12f752210ca852ce2b125411",
+      "repo": "snw-mint/fluent-new-tab",
+      "model": "gemini",
+      "date": "2026-06-25T17:11:16.000-03:00",
+      "language": "TypeScript",
+      "stars": 50
+    },
+    {
+      "sha": "219612d40530751495a422ca52fd9e6dd3632e15",
+      "repo": "meshery/meshery",
+      "model": "gemini",
+      "date": "2026-06-26T01:01:17.000+05:30",
+      "language": "TypeScript",
+      "stars": 11294
+    },
+    {
+      "sha": "a24818bdf8fbf9735f3f7c8ebd6423533b829475",
+      "repo": "meshery/meshery",
+      "model": "gemini",
+      "date": "2026-06-26T01:00:51.000+05:30",
+      "language": "TypeScript",
+      "stars": 11294
+    },
+    {
+      "sha": "88dcd58c9879244e3944f17888fc271215f23029",
+      "repo": "ArcadeData/arcadedb",
+      "model": "gemini",
+      "date": "2026-06-25T14:46:59.000-04:00",
+      "language": "Java",
+      "stars": 970
+    },
+    {
+      "sha": "421eebdb31d526a6d5ba27c433cf2803d7619be3",
+      "repo": "googleapis/google-cloud-python",
+      "model": "gemini",
+      "date": "2026-06-25T11:35:19.000-07:00",
+      "language": "Python",
+      "stars": 5329
+    },
+    {
+      "sha": "e6539a5af9d1bc50ebc3fae29a50bf317d5deeb9",
+      "repo": "vllm-project/aibrix",
+      "model": "gemini",
+      "date": "2026-06-25T11:21:24.000-07:00",
+      "language": "Go",
+      "stars": 4888
+    },
+    {
+      "sha": "4c4e2332c745a2fd4c52ffd3751a28be17a656ba",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-06-25T17:05:19.000Z",
+      "language": "Dart",
+      "stars": 5245
+    },
+    {
+      "sha": "8d606a1bfdfd7f2862139f295600b22fef288afe",
+      "repo": "meshery/schemas",
+      "model": "gemini",
+      "date": "2026-06-25T21:14:35.000+05:30",
+      "language": "TypeScript",
+      "stars": 68
+    },
+    {
+      "sha": "3f7f6753ea5c4978e542b7289194ad61f66e39bc",
+      "repo": "openconfig/public",
+      "model": "gemini",
+      "date": "2026-06-25T21:00:13.000+05:30",
+      "language": "Shell",
+      "stars": 983
+    },
+    {
+      "sha": "31c5b40a7bbde2d672409bd63a7cb838978e807f",
+      "repo": "openconfig/featureprofiles",
+      "model": "gemini",
+      "date": "2026-06-25T15:25:04.000+01:00",
+      "language": "Go",
+      "stars": 64
+    },
+    {
+      "sha": "9632f9093af033dc3ad689afd3e3bb7040782b21",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-06-25T17:12:56.000+03:00",
+      "language": "Rust",
+      "stars": 12480
+    },
+    {
+      "sha": "8f9f800c514ec7ea45546ad1bdf3736eb2466a5b",
+      "repo": "HMCL-dev/HMCL",
+      "model": "gemini",
+      "date": "2026-06-25T21:54:05.000+08:00",
+      "language": "Java",
+      "stars": 9469
+    },
+    {
+      "sha": "64f518e42332114198d9d6de699e840981b490e2",
+      "repo": "openconfig/featureprofiles",
+      "model": "gemini",
+      "date": "2026-06-25T18:52:35.000+05:30",
+      "language": "Go",
+      "stars": 64
+    },
+    {
+      "sha": "359eec5a7d3eb5d2ae0b4f479226a49f12590679",
+      "repo": "flutter/website",
+      "model": "gemini",
+      "date": "2026-06-25T06:16:03.000-07:00",
+      "language": "Dart",
+      "stars": 3081
+    },
+    {
+      "sha": "e68853162249b7a55f560f9a203d49984665c854",
+      "repo": "googleapis/google-cloud-python",
+      "model": "gemini",
+      "date": "2026-06-25T09:08:26.000-04:00",
+      "language": "Python",
+      "stars": 5329
+    },
+    {
+      "sha": "d59eaf034a0f7e5335fbb83a92f5328114c57f47",
+      "repo": "project-koku/koku",
+      "model": "gemini",
+      "date": "2026-06-25T10:17:57.000Z",
+      "language": "Python",
+      "stars": 311
+    },
+    {
+      "sha": "42756c3e913cf7f4e327eeb0b9a909d632195ea7",
+      "repo": "Navideck/universal_ble",
+      "model": "gemini",
+      "date": "2026-06-25T14:19:39.000+05:30",
+      "language": "Dart",
+      "stars": 152
+    },
+    {
+      "sha": "8f74e176ca7a8d1609a374c33ecd59039b0a0aca",
+      "repo": "langgenius/dify",
+      "model": "gemini",
+      "date": "2026-06-25T07:27:16.000Z",
+      "language": "TypeScript",
+      "stars": 146617
+    },
+    {
+      "sha": "af20e8e78b1ca7296f9d0ec34f90dad82c7abe52",
+      "repo": "android/snippets",
+      "model": "gemini",
+      "date": "2026-06-25T12:54:20.000+05:30",
+      "language": "Kotlin",
+      "stars": 1068
+    },
+    {
+      "sha": "cc6965de3c9a439d6e891a9eba552a479dbfb5fe",
+      "repo": "openconfig/featureprofiles",
+      "model": "gemini",
+      "date": "2026-06-25T12:44:01.000+05:30",
+      "language": "Go",
+      "stars": 64
+    },
+    {
+      "sha": "3c402b41e27d797179abf67f53854a7b70e3bad3",
+      "repo": "fsspec/gcsfs",
+      "model": "gemini",
+      "date": "2026-06-25T14:26:54.000+08:00",
+      "language": "Python",
+      "stars": 391
+    },
+    {
+      "sha": "1569b93140c14c1261dd47f3e0e7bdc889280ddf",
+      "repo": "unicode-org/icu4x",
+      "model": "gemini",
+      "date": "2026-06-24T23:01:57.000-07:00",
+      "language": "Rust",
+      "stars": 1823
+    },
+    {
+      "sha": "d6edec5432a1c2d305306061ca9f5d3a44ca3ed5",
+      "repo": "RobThePCGuy/Claude-Patent-Creator",
+      "model": "gemini",
+      "date": "2026-06-25T00:11:57.000-05:00",
+      "language": "Python",
+      "stars": 144
+    },
+    {
+      "sha": "f4afa0449cac61c27381d2e969034c0126d5c2d5",
+      "repo": "seaweedfs/seaweedfs-operator",
+      "model": "gemini",
+      "date": "2026-06-24T20:34:00.000-07:00",
+      "language": "Go",
+      "stars": 311
+    },
+    {
+      "sha": "1da63805e0a5842376ea01be6ff7e07e77080c42",
+      "repo": "LMCache/LMCache",
+      "model": "gemini",
+      "date": "2026-06-24T20:10:11.000-07:00",
+      "language": "Python",
+      "stars": 9870
+    },
+    {
+      "sha": "01c84223bb02c6d0f5721b27cea2d3c5b1d55c51",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-06-25T08:33:59.000+05:30",
+      "language": "TypeScript",
+      "stars": 103
+    },
+    {
+      "sha": "59752546396daf439907eb0bc72c646edcbeb34c",
+      "repo": "fluid-cloudnative/fluid",
+      "model": "gemini",
+      "date": "2026-06-25T10:58:30.000+08:00",
+      "language": "Go",
+      "stars": 1943
+    },
+    {
+      "sha": "7f89073301300b0cca379519ce0733f0e7e2a17a",
+      "repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "model": "gemini",
+      "date": "2026-06-24T21:51:29.000-05:00",
+      "language": "Python",
+      "stars": 2435
+    },
+    {
+      "sha": "cabba248a368d21d43e26e77d385de03a1bca2b8",
+      "repo": "antgroup/vsag",
+      "model": "gemini",
+      "date": "2026-06-25T10:44:01.000+08:00",
+      "language": "C++",
+      "stars": 485
+    },
+    {
+      "sha": "c1271147c6dd2bfc60ac0c9502bed7e5a8c6af19",
+      "repo": "ArcadeData/arcadedb",
+      "model": "gemini",
+      "date": "2026-06-24T21:08:06.000-04:00",
+      "language": "Java",
+      "stars": 970
+    }
+  ],
+  "totals": {
+    "claude": 16,
+    "openai_codex": 35,
+    "gemini": 38
+  },
+  "repos_tracked": 55,
+  "repo_activity": {
+    "meshery/meshery": {
+      "weekly_total": 334
+    },
+    "googleapis/google-cloud-python": {
+      "weekly_total": 41
+    },
+    "kenlasko/monize": {
+      "weekly_total": 67
+    },
+    "vllm-project/aibrix": {
+      "weekly_total": 15
+    },
+    "timtoole02/Camelid": {
+      "weekly_total": 85
+    },
+    "openconfig/featureprofiles": {
+      "weekly_total": 21
+    },
+    "tig/winprint": {
+      "weekly_total": 58
+    },
+    "fluid-cloudnative/fluid": {
+      "weekly_total": 31
+    },
+    "seaweedfs/seaweedfs-operator": {
+      "weekly_total": 39
+    },
+    "Advance-Technologies-Foundation/clio": {
+      "weekly_total": 59
+    },
+    "project-koku/koku": {
+      "weekly_total": 11
+    },
+    "gobii-ai/gobii-platform": {
+      "weekly_total": 87
+    },
+    "ArcadeData/arcadedb": {
+      "weekly_total": 65
+    },
+    "flutter/flutter": {
+      "weekly_total": 88
+    },
+    "aquaproj/aqua-registry": {
+      "weekly_total": 272
+    },
+    "snw-mint/fluent-new-tab": {
+      "weekly_total": 5
+    },
+    "android/snippets": {
+      "weekly_total": 14
+    },
+    "antgroup/vsag": {
+      "weekly_total": 16
+    },
+    "frandallfarmer/neohabitat": {
+      "weekly_total": 50
+    },
+    "stripe/stripe-android": {
+      "weekly_total": 38
+    },
+    "IrosTheBeggar/mStream": {
+      "weekly_total": 36
+    },
+    "pgjdbc/pgjdbc": {
+      "weekly_total": 36
+    },
+    "ahastudio/til": {
+      "weekly_total": 81
+    },
+    "flutter/packages": {
+      "weekly_total": 23
+    },
+    "max-sixty/worktrunk": {
+      "weekly_total": 95
+    },
+    "meshery/schemas": {
+      "weekly_total": 43
+    },
+    "langgenius/dify": {
+      "weekly_total": 218
+    },
+    "openconfig/public": {
+      "weekly_total": 2
+    },
+    "flashinfer-ai/flashinfer": {
+      "weekly_total": 21
+    },
+    "rommapp/romm": {
+      "weekly_total": 189
+    },
+    "HMCL-dev/HMCL": {
+      "weekly_total": 12
+    },
+    "youngbryan97/aura": {
+      "weekly_total": 163
+    },
+    "yurukusa/cc-safe-setup": {
+      "weekly_total": 48
+    },
+    "Mnexa-AI/e2a": {
+      "weekly_total": 47
+    },
+    "fsspec/gcsfs": {
+      "weekly_total": 24
+    },
+    "krelltunez/lastGLANCE": {
+      "weekly_total": 29
+    },
+    "getsentry/junior": {
+      "weekly_total": 10
+    },
+    "nearai/ironclaw": {
+      "weekly_total": 72
+    },
+    "dustinlyons/nixos-config": {
+      "weekly_total": 3
+    },
+    "jeremylongshore/claude-code-plugins-plus-skills": {
+      "weekly_total": 13
+    },
+    "getsentry/sentry-mcp": {
+      "weekly_total": 6
+    },
+    "Navideck/universal_ble": {
+      "weekly_total": 7
+    },
+    "getsentry/sentry": {
+      "weekly_total": 497
+    },
+    "RobThePCGuy/Claude-Patent-Creator": {
+      "weekly_total": 9
+    },
+    "aviatesk/JETLS.jl": {
+      "weekly_total": 25
+    },
+    "fitlab-ai/agent-infra": {
+      "weekly_total": 29
+    },
+    "clayauld/asus-merlin-cloudflare-ddns": {
+      "weekly_total": 1
+    },
+    "ajay-dhangar/algo": {
+      "weekly_total": 73
+    },
+    "69gg/Undefined": {
+      "weekly_total": 6
+    },
+    "Dicklesworthstone/destructive_command_guard": {
+      "weekly_total": 10
+    },
+    "LMCache/LMCache": {
+      "weekly_total": 35
+    }
+  }
+}
