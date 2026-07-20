@@ -1,0 +1,1425 @@
+{
+  "date": "2026-07-19",
+  "commits": [
+    {
+      "sha": "04b4573c4d59f6d09f40a6f11ea5706df98c7e69",
+      "repo": "FreiFahren/FreiFahren",
+      "model": "claude",
+      "date": "2026-07-19T16:59:36.000-07:00",
+      "language": "TypeScript",
+      "stars": 68
+    },
+    {
+      "sha": "0750c81bb426324e0bfbff606f058164dcd3e8aa",
+      "repo": "mixpeek/amux",
+      "model": "claude",
+      "date": "2026-07-19T19:59:16.000-04:00",
+      "language": "HTML",
+      "stars": 304
+    },
+    {
+      "sha": "01a1503c36a5c20ee97bf5ae8f1c64dfaab5a0a6",
+      "repo": "kizuna-ai-lab/sokuji",
+      "model": "claude",
+      "date": "2026-07-20T08:59:01.000+09:00",
+      "language": "TypeScript",
+      "stars": 1010
+    },
+    {
+      "sha": "36d07b3453fda9b40d0d63e2729697e195d09645",
+      "repo": "ComputerByte/hermex-android",
+      "model": "claude",
+      "date": "2026-07-19T16:58:44.000-07:00",
+      "language": "Kotlin",
+      "stars": 55
+    },
+    {
+      "sha": "c25dc67eed75d47aec79d36302603bdac2a7eae1",
+      "repo": "ryantsai/KKTerm",
+      "model": "claude",
+      "date": "2026-07-19T23:58:40.000Z",
+      "language": "TypeScript",
+      "stars": 420
+    },
+    {
+      "sha": "5dba5c65dabb90f1effb1d10160a6bc43d96b56b",
+      "repo": "GatherPress/gatherpress",
+      "model": "claude",
+      "date": "2026-07-19T19:58:03.000-04:00",
+      "language": "PHP",
+      "stars": 124
+    },
+    {
+      "sha": "7975bed2c30d282ea782f26488887b9651146559",
+      "repo": "get-convex/convex-evals",
+      "model": "claude",
+      "date": "2026-07-20T07:57:47.000+08:00",
+      "language": "TypeScript",
+      "stars": 125
+    },
+    {
+      "sha": "65ce31e8203963d80ed0292446f673822b34ba37",
+      "repo": "hoangsonww/Moodify-Emotion-Music-App",
+      "model": "claude",
+      "date": "2026-07-19T16:57:37.000-07:00",
+      "language": "JavaScript",
+      "stars": 75
+    },
+    {
+      "sha": "186e2fe8ef528fc8b3ab346838655dfb5e9576a0",
+      "repo": "ailia-ai/ailia-models",
+      "model": "claude",
+      "date": "2026-07-20T08:57:27.000+09:00",
+      "language": "Python",
+      "stars": 2357
+    },
+    {
+      "sha": "db922c4dcfe57482a76ff499848287adc38e4375",
+      "repo": "receptron/mulmoclaude",
+      "model": "claude",
+      "date": "2026-07-20T08:57:05.000+09:00",
+      "language": "TypeScript",
+      "stars": 297
+    },
+    {
+      "sha": "d05a5d04a16b41a702a770204619d2e94795ecdb",
+      "repo": "receptron/mulmoclaude",
+      "model": "claude",
+      "date": "2026-07-20T08:56:58.000+09:00",
+      "language": "TypeScript",
+      "stars": 297
+    },
+    {
+      "sha": "445a83bb1b63400f64033a3182929e0e8ca16743",
+      "repo": "krelltunez/dayGLANCE",
+      "model": "claude",
+      "date": "2026-07-19T23:56:35.000Z",
+      "language": "JavaScript",
+      "stars": 101
+    },
+    {
+      "sha": "0ea941c90e8f6b5970fefa62cecbe4aa7e0a9566",
+      "repo": "snstac/aryaos",
+      "model": "claude",
+      "date": "2026-07-19T16:56:18.000-07:00",
+      "language": "CSS",
+      "stars": 71
+    },
+    {
+      "sha": "9167ea28e29bfd9686469db9391efeb70793dcad",
+      "repo": "knaufinator/6DOF-Rotary-Stewart-Motion-Simulator",
+      "model": "claude",
+      "date": "2026-07-19T19:55:30.000-04:00",
+      "language": "C++",
+      "stars": 361
+    },
+    {
+      "sha": "4d92f41f0ea1033755c6a58dcbe3da1c814a3de5",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T08:30:21.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "57eb1280a33e4da62d93364d3d95a34504484b10",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T06:33:49.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "293b4a0dd0a48fdc02bc417db08dd3f37bfff128",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T17:05:18.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "6d5032ddff4500878c4e210fdf138e2f276b8c52",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T16:28:17.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "596a7c4244736f48a92b169dbf97586b2379ae29",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T05:23:47.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "b252c42d8aeb661e76a3954e0714ac3bf357dd61",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T16:20:33.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "8d3edb02e8b2ce4c3853914baba05c08721dc49a",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T16:12:07.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "151f6993da4a89be8577159480ce59290eee4930",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T05:08:57.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "f56a1ff1d1f3b79c4cd61c962b4384d1a3aa4809",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T16:02:45.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "558388fd770a3707ed5f6cabdbd1b59c88a97439",
+      "repo": "emp-toolkit/emp-ot",
+      "model": "openai_codex",
+      "date": "2026-07-19T14:51:23.000-05:00",
+      "language": "C++",
+      "stars": 188
+    },
+    {
+      "sha": "73886f9d8d8507216cdf7aed40fcac50b5e6970a",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:49:32.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "6c09071ae20ae8d08f24191908858d1d9aedf477",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:42:20.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "a8fa135e2940d7542d803ab3cec9143128fae277",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:42:10.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "44e1e15e3c38817fffcf9a4efb5c6b348f8da684",
+      "repo": "yutto-dev/yutto",
+      "model": "openai_codex",
+      "date": "2026-07-19T19:36:19.000Z",
+      "language": "Python",
+      "stars": 1932
+    },
+    {
+      "sha": "3e5ea94e13fc40f66633e807c9fb07cd3b3c2cef",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:33:22.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "e8d5754b7f126d0a2e4c532eb4baffc9aa92566f",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:29:34.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "e5193d5397d23b3e586b2a7cf37b8a7025610838",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:23:44.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "1ca9a7c2d626fbe600ea029d91ab6bc6c091c84c",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:18:48.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "a934ce6072c4612539b034112470043d1dbd03d9",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:14:41.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "74cf19a2287bab607fbd34e6b22e35fbe6a3b22c",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:14:41.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "da1410992608c36f92b04c75a236f4e590394cb0",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:14:40.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "78c47f4897fa64b70557d6b56c78fa83e043b474",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:14:40.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "a2f4eb2ee033025d48d8e66eb6d37c59eb406656",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T15:14:40.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "97f335927dd7d38caaf5e80d93fca70edddd5423",
+      "repo": "emp-toolkit/emp-tool",
+      "model": "openai_codex",
+      "date": "2026-07-19T14:04:56.000-05:00",
+      "language": "C++",
+      "stars": 244
+    },
+    {
+      "sha": "3516e68f1ffd68bf4a26e0dd1d8e388252d90685",
+      "repo": "emp-toolkit/emp-tool",
+      "model": "openai_codex",
+      "date": "2026-07-19T14:04:42.000-05:00",
+      "language": "C++",
+      "stars": 244
+    },
+    {
+      "sha": "4dfa49bc9277cd891ad2f583d06dc796ffb66501",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T03:57:05.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "8fb1237ff250b85e08ec9b9a1a8e9e135711f8a9",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T03:47:05.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "3a28ff2c6f8b78566eb75eef702c72791c1a0575",
+      "repo": "yutto-dev/yutto",
+      "model": "openai_codex",
+      "date": "2026-07-19T18:41:21.000Z",
+      "language": "Python",
+      "stars": 1932
+    },
+    {
+      "sha": "e34c671b538ef08fee22109b0c3985563df7790a",
+      "repo": "kenn-io/middleman",
+      "model": "openai_codex",
+      "date": "2026-07-19T11:27:45.000-07:00",
+      "language": "Go",
+      "stars": 140
+    },
+    {
+      "sha": "83935b3a64d92d2ddba7bd112bb5fde523a476e2",
+      "repo": "emp-toolkit/emp-tool",
+      "model": "openai_codex",
+      "date": "2026-07-19T13:19:43.000-05:00",
+      "language": "C++",
+      "stars": 244
+    },
+    {
+      "sha": "eee3da824febf8e9ff1a3f1544a5d8f6b4b63bd4",
+      "repo": "emp-toolkit/emp-tool",
+      "model": "openai_codex",
+      "date": "2026-07-19T13:19:34.000-05:00",
+      "language": "C++",
+      "stars": 244
+    },
+    {
+      "sha": "53dc211299776ce958bcc58178a1a13526abf06f",
+      "repo": "emp-toolkit/emp-tool",
+      "model": "openai_codex",
+      "date": "2026-07-19T13:19:27.000-05:00",
+      "language": "C++",
+      "stars": 244
+    },
+    {
+      "sha": "855221968562d01654fb66c8b48d0c1b3bd9b58e",
+      "repo": "emp-toolkit/emp-tool",
+      "model": "openai_codex",
+      "date": "2026-07-19T13:19:06.000-05:00",
+      "language": "C++",
+      "stars": 244
+    },
+    {
+      "sha": "f242e04dd72aee6838f479284c1c36d20af8bfe7",
+      "repo": "LeagueAkari/LeagueAkari",
+      "model": "openai_codex",
+      "date": "2026-07-20T01:57:42.000+08:00",
+      "language": "TypeScript",
+      "stars": 3722
+    },
+    {
+      "sha": "bc3228561963a7a6b2f7a557b765bb79721c1515",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T02:53:12.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "ee6f982934c010984354aefeb55ebbf74b2c9529",
+      "repo": "LeagueAkari/LeagueAkari",
+      "model": "openai_codex",
+      "date": "2026-07-20T01:43:22.000+08:00",
+      "language": "TypeScript",
+      "stars": 3722
+    },
+    {
+      "sha": "34641a3fb81883abfe693b49419a1511e73c3a6d",
+      "repo": "emp-toolkit/emp-tool",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:35:02.000-05:00",
+      "language": "C++",
+      "stars": 244
+    },
+    {
+      "sha": "f6e5ce8eef286f137a90324ba0b944272a7257b4",
+      "repo": "LeagueAkari/LeagueAkari",
+      "model": "openai_codex",
+      "date": "2026-07-20T01:24:51.000+08:00",
+      "language": "TypeScript",
+      "stars": 3722
+    },
+    {
+      "sha": "5173ecb996996dddae312886ab5203dd818507e9",
+      "repo": "jabrena/plinth",
+      "model": "openai_codex",
+      "date": "2026-07-19T18:56:58.000+02:00",
+      "language": "Java",
+      "stars": 418
+    },
+    {
+      "sha": "4dacd2cc440b783ef684b271df0ee3f72cc841e7",
+      "repo": "LeagueAkari/LeagueAkari",
+      "model": "openai_codex",
+      "date": "2026-07-20T00:37:36.000+08:00",
+      "language": "TypeScript",
+      "stars": 3722
+    },
+    {
+      "sha": "4893b156553612e83157a34a9bc95ca9780101c4",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:57.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "81ab6d872552f58b9e865a202c17b824848e4fb5",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:57.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "27cfa8a83dd64d51932a65f6fa52f8c9259b9039",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:57.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "17d42bb8d47838ee9b99037571e9756d8a9cfa20",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:56.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "18a6c1b598763a14e508722c577d6cb670953a0a",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:56.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "757e4e3313679c366747c35411f3aa800c9a8fe7",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:56.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "c97924540b81e05079330cb5b45175a1dbf336a2",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:56.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "18566cfa9a000da6a7c06113b0cb6ce128ec31ef",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:56.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "11d04f312ebf17c9954dcb16153420debffcfab3",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:56.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "efc8c15aa023d5de7bec3e7a4997f870253b4e04",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:56.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "33c6b514b5505241f3cf7d666c32fa2be4867479",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:55.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "6cb0f4a5d0cbdafb0eeebb9b107a568555f06105",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:55.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "2afcc048698ccd782767d48709172244778014fb",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:55.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "514458c7a94fc3970b174f26f12a5e386f74b703",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:55.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "86562f55ac003f4ac4256fee42ae3b909fb0c720",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:55.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "a4abcbd3d70efae9752a948d0c556b8ffb337852",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:55.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "a51e13fee68a1ca689b960d65433158aabbcfe22",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:55.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "69eb27cff1897ede5f7b0a7bd655eb66bdb9b63b",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:55.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "5d4a6bffbf8a60b0eb4c6bea4348a89cf3cd215c",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:54.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "7753d5e8cea0b4b17eb91a0da5bec424de065b1a",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:54.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "ab3d4f431c06281e52f70352f18eda8a3b90835f",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:54.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "d1fb59a2c6e231499dbf4fb963e88a2b395553ea",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:54.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "abe2d18006574a94c029ecc5cb8d0ada3533673e",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:54.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "4321703a8d1d6f27f193f82770df969d5de6311a",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:54.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "243c3b71f345f7ce3438d41bafa2a48ac75f0a82",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:54.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "8e5eeb4ddba42dbb24f6db8e4275a68ae8138b10",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:54.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "61b2828129c1b646710de71f89750fc6e2fe66bc",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:53.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "f6c2d167a2b6edb6b42a5fb7d31039375c67c1de",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:53.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "f3aa4822b0d2e3a20eddbe047d4f9e019c25ff39",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:53.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "acf41005f2b3310caeb3b45dc49dd41a8a8dc5a4",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:53.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "9eeadbe269960f6ede7015349e64b41430f1b6df",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:53.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "23d06fac25801bec718b94c823b82af7125b89a9",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:53.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "d88e53984776ce78fcc3dd54f1812bfde774b237",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:52.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "533ae20b36027e4ff01a2b5dc583f325921085c8",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:52.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "d911e96e2a79d00910f58004c6b4f196a3f7625e",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:52.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "cd1d01aae27a6450d86a30f0f6641c9edd8e5c0b",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:52.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "a0661b412b9e1077430dceaee9e66d66e0a58159",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:52.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "31eb31d2ba9ad5da0e5596eb01bf1a501661a7f3",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:52.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "f536d46bb6c0fb0a086bdbd49dc30264c26811cd",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:52.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "e334b9a09615c795e9c833bac8d411fd66e2e222",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:51.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "9d752b760d16933a8d3f15ee5f2dac768261879c",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:51.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "84bbd726f70aa8b780361bad523ebe13365029ef",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:51.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "1125462de99586c673f85bf43cb2eb2600d1d33d",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:51.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "75193b0f0a12bd068cc58e23c99d2616a050f304",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:51.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "4821ddfb4538ab67c4101bdbc0a5aee826231c96",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:51.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "c60fd2412b32a6165ea41972595084c8da9c1d02",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:51.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "732aba8b284cbb58efd8c3ca0210ffc04959ae86",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:50.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "d78ac0c41d281073c90027994c8fdc53f2ae48d3",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:50.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "1a8556bdb26516479bbedc4c041f2dc9931ce5ac",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:50.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "ff0ce7092350d4b658a1b77257bd1bb9f50427f1",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:50.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "c30da4fab5ef664307a12fa4923fb129c3b26c53",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:50.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "e12b64eba50c5078c5293cd676daad4612d1247d",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:49.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "d863c4abbdb282aacaa1532bd23bed30b2a842ac",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:49.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "a8d3f9c38d9b77027c5c8a4ad5458e19463fc9c4",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:42.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "86629edacb3f3533dca534b0a9b2d6af2b70c6f6",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:42.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "1338901bb992cc66d24c9e873861f1972466d32a",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:42.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "9e158d6a3f50990daa0f1cad7919b800d1f0b170",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:42.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "431082e1a40991221e317f23a31429448fe36e52",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:41.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "5fee9abefbe4c05cab969af8ce038f2c675aa113",
+      "repo": "SynchronetBBS/sbbs",
+      "model": "openai_codex",
+      "date": "2026-07-19T12:23:41.000-04:00",
+      "language": "C++",
+      "stars": 105
+    },
+    {
+      "sha": "bd9d1b1024f6db71448c39629a3e7929dfef4def",
+      "repo": "LeagueAkari/LeagueAkari",
+      "model": "openai_codex",
+      "date": "2026-07-20T00:23:06.000+08:00",
+      "language": "TypeScript",
+      "stars": 3722
+    },
+    {
+      "sha": "2a43a3af847a2c284864c70965a4b97a0d152b17",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T01:16:00.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "80da3b00b2ec3f598cf09c09e8e764d34f8d3a96",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-20T00:52:48.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "657e8ca426dabfe08a55f50b60a7d0c77d8633ab",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-07-19T23:48:23.000+08:00",
+      "language": "TypeScript",
+      "stars": 83
+    },
+    {
+      "sha": "b91430b035b917148c63e158448e2cb34959a75d",
+      "repo": "yutto-dev/yutto",
+      "model": "openai_codex",
+      "date": "2026-07-19T23:47:06.000+08:00",
+      "language": "Python",
+      "stars": 1932
+    },
+    {
+      "sha": "4f06818635fd40132b084e70feab01b2638a9997",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-19T23:38:30.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "bfe5b31108efeb11e14885fb0ff2bee8b3649519",
+      "repo": "emp-toolkit/emp-tool",
+      "model": "openai_codex",
+      "date": "2026-07-19T09:24:51.000-05:00",
+      "language": "C++",
+      "stars": 244
+    },
+    {
+      "sha": "7cecee1b0fe6b2268dc7bd09ece9b46e2fd294f2",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-19T23:11:28.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "0b639385bd7c86532432b59e40548d6c17d4acfe",
+      "repo": "SylphxAI/pdf-reader-mcp",
+      "model": "openai_codex",
+      "date": "2026-07-19T13:38:11.000+01:00",
+      "language": "TypeScript",
+      "stars": 831
+    },
+    {
+      "sha": "77a43449f91c25de21601bf0f6c9da15aba53338",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-07-19T21:02:10.000+09:00",
+      "language": "TypeScript",
+      "stars": 618
+    },
+    {
+      "sha": "e056bc09bdf8acb91e49d90eb3b5d1aaacd2092f",
+      "repo": "69gg/Undefined",
+      "model": "openai_codex",
+      "date": "2026-07-19T19:35:55.000+08:00",
+      "language": "Python",
+      "stars": 244
+    },
+    {
+      "sha": "8d3c79029ae61834287d60909cb08ed9ad4eca04",
+      "repo": "LeagueAkari/LeagueAkari",
+      "model": "openai_codex",
+      "date": "2026-07-19T19:18:09.000+08:00",
+      "language": "TypeScript",
+      "stars": 3722
+    },
+    {
+      "sha": "679e39468c90b426c4d8f9f25525c410b0d6225d",
+      "repo": "ahastudio/til",
+      "model": "openai_codex",
+      "date": "2026-07-19T19:43:49.000+09:00",
+      "language": "Shell",
+      "stars": 181
+    },
+    {
+      "sha": "9d982b60f26a811ef15faa845196143c4f4afc73",
+      "repo": "SylphxAI/pdf-reader-mcp",
+      "model": "openai_codex",
+      "date": "2026-07-19T11:36:28.000+01:00",
+      "language": "TypeScript",
+      "stars": 831
+    },
+    {
+      "sha": "107b04ba19085c7601b0178e6bdb66516b57994c",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-07-19T18:13:50.000+08:00",
+      "language": "TypeScript",
+      "stars": 83
+    },
+    {
+      "sha": "61686bdd5c34dbc8513c28a2a74ad29e678cfefd",
+      "repo": "daymade/claude-code-skills",
+      "model": "openai_codex",
+      "date": "2026-07-19T18:11:32.000+08:00",
+      "language": "Python",
+      "stars": 1281
+    },
+    {
+      "sha": "044c57579aceeca3bc228351cc532cf4f35357fa",
+      "repo": "aviatesk/JETLS.jl",
+      "model": "openai_codex",
+      "date": "2026-07-19T17:48:34.000+09:00",
+      "language": "Julia",
+      "stars": 295
+    },
+    {
+      "sha": "088498085b34e12bbc447f338522f2550f286476",
+      "repo": "LeagueAkari/LeagueAkari",
+      "model": "openai_codex",
+      "date": "2026-07-19T16:26:18.000+08:00",
+      "language": "TypeScript",
+      "stars": 3722
+    },
+    {
+      "sha": "722f505241c1d162ddcc9d800a065f230344a333",
+      "repo": "LeagueAkari/LeagueAkari",
+      "model": "openai_codex",
+      "date": "2026-07-19T16:25:52.000+08:00",
+      "language": "TypeScript",
+      "stars": 3722
+    },
+    {
+      "sha": "0eed344065a200cc41a1615aae310fd32258375d",
+      "repo": "diegosouzapw/OmniRoute",
+      "model": "gemini",
+      "date": "2026-07-19T20:52:35.000-03:00",
+      "language": "TypeScript",
+      "stars": 20580
+    },
+    {
+      "sha": "232d56abc1e874c048d685c9f27a88e57a5b01dc",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T23:31:57.000+01:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "f3bce0e9ca306948c85a1e6cef80b538550c6571",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T23:09:32.000+01:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "c486eac3318daa0b14fc6dce8ecd72a49e8cdc92",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T12:35:19.000-07:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "c2d5b3aed46b73271fda206e73c98d1b9ea2b328",
+      "repo": "packit/ogr",
+      "model": "gemini",
+      "date": "2026-07-19T19:25:11.000Z",
+      "language": "Python",
+      "stars": 57
+    },
+    {
+      "sha": "a6d58fb71daf911b110d995095f899f3cf86c59d",
+      "repo": "pytoyoda/pytoyoda",
+      "model": "gemini",
+      "date": "2026-07-19T20:29:03.000+02:00",
+      "language": "Python",
+      "stars": 78
+    },
+    {
+      "sha": "5ce9a68dcc47049e83b3ef5c7d513b3928c9bd49",
+      "repo": "pytoyoda/pytoyoda",
+      "model": "gemini",
+      "date": "2026-07-19T20:29:03.000+02:00",
+      "language": "Python",
+      "stars": 78
+    },
+    {
+      "sha": "28fe6d7bff0ee2d9de91b33a7cd7bf50dfc32618",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-07-19T22:06:32.000+05:30",
+      "language": "TypeScript",
+      "stars": 102
+    },
+    {
+      "sha": "e5283c10f2eac3ff5c90c859d25c01cd1df6026d",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-07-19T22:06:12.000+05:30",
+      "language": "TypeScript",
+      "stars": 102
+    },
+    {
+      "sha": "30e377fbab5ce810959519bec6374f4cda3d8f73",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-07-19T18:06:05.000+05:30",
+      "language": "TypeScript",
+      "stars": 102
+    },
+    {
+      "sha": "19293ae87472018f3ff305ac87a42fe156995662",
+      "repo": "stella/stella",
+      "model": "gemini",
+      "date": "2026-07-19T12:55:20.000+02:00",
+      "language": "TypeScript",
+      "stars": 156
+    },
+    {
+      "sha": "39e6aba3195d981bcb7999829546743799d0bc8c",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-07-19T13:43:08.000+05:30",
+      "language": "TypeScript",
+      "stars": 102
+    },
+    {
+      "sha": "1cdc173fe943e8aa53a1d5bde819463e23456de5",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-07-19T13:42:51.000+05:30",
+      "language": "TypeScript",
+      "stars": 102
+    },
+    {
+      "sha": "77b9b3fb22fe38d72cfca0cdb004fa368ef13508",
+      "repo": "open-lm-engine/accelerated-model-architectures",
+      "model": "gemini",
+      "date": "2026-07-19T01:07:01.000-07:00",
+      "language": "Python",
+      "stars": 91
+    },
+    {
+      "sha": "6b59c1bdf929269ea6a72c4947a210792737cdb6",
+      "repo": "ajay-dhangar/algo",
+      "model": "gemini",
+      "date": "2026-07-19T13:34:20.000+05:30",
+      "language": "TypeScript",
+      "stars": 102
+    },
+    {
+      "sha": "c1f005a522a4ccc7f717adedce53ca40a014fdaf",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T00:33:13.000-07:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "735e55ec48f92f9f5db59352f8d02762ec6d00b9",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T08:06:34.000+01:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "b9dd6ec1ee922dcfea96228c380ef1da8707d645",
+      "repo": "RobThePCGuy/BlueStacks-Root-GUI",
+      "model": "gemini",
+      "date": "2026-07-19T01:31:22.000-05:00",
+      "language": "Python",
+      "stars": 94
+    },
+    {
+      "sha": "ca9027548b4970483fd1441eca6373c299ce771a",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T07:12:09.000+01:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "4fdac3d7b1d3a640ee2094f44aead406739de5d2",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T06:09:53.000+01:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "a7be29642fcd57106d1b1f89cdb44949febe5b79",
+      "repo": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
+      "model": "gemini",
+      "date": "2026-07-19T09:48:39.000+05:30",
+      "language": "Unknown",
+      "stars": 258
+    },
+    {
+      "sha": "e82a98e24f29c92bfaa9b927483bc76f18773181",
+      "repo": "flutter/website",
+      "model": "gemini",
+      "date": "2026-07-18T20:53:07.000-07:00",
+      "language": "Dart",
+      "stars": 3102
+    },
+    {
+      "sha": "3e3a39d021eefe941dcc62d0d2bbf509ee10f4ee",
+      "repo": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
+      "model": "gemini",
+      "date": "2026-07-19T09:20:08.000+05:30",
+      "language": "Unknown",
+      "stars": 258
+    },
+    {
+      "sha": "69b452ea83532263f86a9eca21e4fd0b6d2c9333",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-18T20:11:51.000-07:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "c533e80d3a8231cbe84193c22c02e99f4cda3b93",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-18T20:08:51.000-07:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "97121138bce86c595c761469bff27469fb28ead4",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T03:36:54.000+01:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "290bc0fc9394352f43670c94b4cd798a65d34170",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T03:06:01.000+01:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "dae4203931181c08a22d4a9a934e7b6b64816e33",
+      "repo": "nearai/ironclaw",
+      "model": "gemini",
+      "date": "2026-07-19T02:24:38.000+01:00",
+      "language": "Rust",
+      "stars": 12535
+    },
+    {
+      "sha": "db4ad0a739259a72bb839c1ed69a382a006ffc2b",
+      "repo": "gdsfactory/gdsfactory",
+      "model": "gemini",
+      "date": "2026-07-18T17:59:21.000-07:00",
+      "language": "Python",
+      "stars": 987
+    },
+    {
+      "sha": "d82ca3025386393078daf81efdd6fc9017cafc69",
+      "repo": "diegosouzapw/OmniRoute",
+      "model": "gemini",
+      "date": "2026-07-18T21:19:27.000-03:00",
+      "language": "TypeScript",
+      "stars": 20580
+    },
+    {
+      "sha": "10e5dd81e04fbbe6e4a77f06e5c2311e7503898d",
+      "repo": "diegosouzapw/OmniRoute",
+      "model": "gemini",
+      "date": "2026-07-18T21:18:45.000-03:00",
+      "language": "TypeScript",
+      "stars": 20580
+    }
+  ],
+  "totals": {
+    "claude": 14,
+    "openai_codex": 118,
+    "gemini": 31
+  },
+  "repos_tracked": 38,
+  "repo_activity": {
+    "kizuna-ai-lab/sokuji": {
+      "weekly_total": 33
+    },
+    "open-lm-engine/accelerated-model-architectures": {
+      "weekly_total": 1
+    },
+    "kenn-io/middleman": {
+      "weekly_total": 4
+    },
+    "69gg/Undefined": {
+      "weekly_total": 1
+    },
+    "ailia-ai/ailia-models": {
+      "weekly_total": 3
+    },
+    "ComputerByte/hermex-android": {
+      "weekly_total": 17
+    },
+    "jabrena/plinth": {
+      "weekly_total": 4
+    },
+    "get-convex/convex-evals": {
+      "weekly_total": 3
+    },
+    "yukiyokotani/office-open-xml-viewer": {
+      "weekly_total": 22
+    },
+    "mixpeek/amux": {
+      "weekly_total": 23
+    },
+    "ahastudio/til": {
+      "weekly_total": 53
+    },
+    "gdsfactory/gdsfactory": {
+      "weekly_total": 12
+    },
+    "ajay-dhangar/algo": {
+      "weekly_total": 11
+    },
+    "krelltunez/dayGLANCE": {
+      "weekly_total": 14
+    },
+    "diegosouzapw/OmniRoute": {
+      "weekly_total": 130
+    },
+    "daymade/claude-code-skills": {
+      "weekly_total": 17
+    },
+    "receptron/mulmoclaude": {
+      "weekly_total": 74
+    },
+    "SynchronetBBS/sbbs": {
+      "weekly_total": 114
+    },
+    "RobThePCGuy/BlueStacks-Root-GUI": {
+      "weekly_total": 7
+    },
+    "emp-toolkit/emp-tool": {
+      "weekly_total": 9
+    },
+    "GatherPress/gatherpress": {
+      "weekly_total": 16
+    },
+    "emp-toolkit/emp-ot": {
+      "weekly_total": 4
+    },
+    "pytoyoda/pytoyoda": {
+      "weekly_total": 0
+    },
+    "ryantsai/KKTerm": {
+      "weekly_total": 13
+    },
+    "aviatesk/JETLS.jl": {
+      "weekly_total": 8
+    },
+    "stella/stella": {
+      "weekly_total": 40
+    },
+    "ARUNAGIRINATHAN-K/awesome-ai-agents-2026": {
+      "weekly_total": 3
+    },
+    "nearai/ironclaw": {
+      "weekly_total": 22
+    },
+    "packit/ogr": {
+      "weekly_total": 0
+    },
+    "FreiFahren/FreiFahren": {
+      "weekly_total": 5
+    },
+    "snstac/aryaos": {
+      "weekly_total": 3
+    },
+    "LeagueAkari/LeagueAkari": {
+      "weekly_total": 12
+    },
+    "hoangsonww/Moodify-Emotion-Music-App": {
+      "weekly_total": 1
+    },
+    "knaufinator/6DOF-Rotary-Stewart-Motion-Simulator": {
+      "weekly_total": 9
+    },
+    "SylphxAI/pdf-reader-mcp": {
+      "weekly_total": 52
+    },
+    "fitlab-ai/agent-infra": {
+      "weekly_total": 4
+    }
+  }
+}
