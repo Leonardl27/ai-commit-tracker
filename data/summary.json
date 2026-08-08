@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T07:28:17.955612+00:00",
+  "last_updated": "2026-08-08T07:09:06.554275+00:00",
   "model_share_over_time": [
     {
       "date": "2026-03-01",
@@ -942,16 +942,22 @@
       "claude": 14,
       "openai_codex": 63,
       "gemini": 19
+    },
+    {
+      "date": "2026-08-07",
+      "claude": 13,
+      "openai_codex": 105,
+      "gemini": 18
     }
   ],
   "top_repos": [
     {
       "repo": "flutter/flutter",
-      "total": 637,
-      "stars": 178256,
+      "total": 646,
+      "stars": 178265,
       "language": "Dart",
       "by_model": {
-        "gemini": 637
+        "gemini": 646
       }
     },
     {
@@ -974,29 +980,29 @@
     },
     {
       "repo": "yukiyokotani/office-open-xml-viewer",
-      "total": 300,
-      "stars": 642,
+      "total": 312,
+      "stars": 644,
       "language": "TypeScript",
       "by_model": {
-        "openai_codex": 300
+        "openai_codex": 312
       }
     },
     {
       "repo": "getsentry/sentry",
-      "total": 271,
-      "stars": 44470,
+      "total": 277,
+      "stars": 44486,
       "language": "Python",
       "by_model": {
-        "openai_codex": 271
+        "openai_codex": 277
       }
     },
     {
       "repo": "fitlab-ai/agent-infra",
-      "total": 238,
+      "total": 244,
       "stars": 84,
       "language": "TypeScript",
       "by_model": {
-        "openai_codex": 238
+        "openai_codex": 244
       }
     },
     {
@@ -1040,132 +1046,132 @@
   "rising_repos": [
     {
       "repo": "yukiyokotani/office-open-xml-viewer",
-      "recent": 84,
-      "total": 300,
-      "stars": 642,
+      "recent": 88,
+      "total": 312,
+      "stars": 644,
       "language": "TypeScript",
       "by_model": {
-        "openai_codex": 84
+        "openai_codex": 88
       }
     },
     {
       "repo": "flutter/flutter",
-      "recent": 50,
-      "total": 637,
-      "stars": 178256,
+      "recent": 51,
+      "total": 646,
+      "stars": 178265,
       "language": "Dart",
       "by_model": {
-        "gemini": 50
+        "gemini": 51
       }
     },
     {
       "repo": "dolthub/doltlite",
-      "recent": 40,
-      "total": 58,
+      "recent": 33,
+      "total": 62,
       "stars": 179,
       "language": "C",
       "by_model": {
-        "openai_codex": 39,
+        "openai_codex": 32,
         "claude": 1
       }
     },
     {
-      "repo": "patrykandpatrick/liftapp",
-      "recent": 38,
-      "total": 125,
-      "stars": 94,
-      "language": "Kotlin",
-      "by_model": {
-        "openai_codex": 38
-      }
-    },
-    {
       "repo": "aviatesk/JETLS.jl",
-      "recent": 31,
-      "total": 84,
+      "recent": 30,
+      "total": 87,
       "stars": 298,
       "language": "Julia",
       "by_model": {
-        "openai_codex": 31
+        "openai_codex": 30
       }
     },
     {
-      "repo": "HarperFast/harper",
-      "recent": 22,
-      "total": 62,
-      "stars": 82,
-      "language": "JavaScript",
-      "by_model": {
-        "gemini": 4,
-        "openai_codex": 18
-      }
-    },
-    {
-      "repo": "wingedsheep/argentum-engine",
-      "recent": 19,
-      "total": 32,
-      "stars": 52,
+      "repo": "patrykandpatrick/liftapp",
+      "recent": 29,
+      "total": 126,
+      "stars": 94,
       "language": "Kotlin",
       "by_model": {
-        "openai_codex": 19
-      }
-    },
-    {
-      "repo": "getsentry/sentry",
-      "recent": 17,
-      "total": 271,
-      "stars": 44470,
-      "language": "Python",
-      "by_model": {
-        "openai_codex": 17
+        "openai_codex": 29
       }
     },
     {
       "repo": "unitaryfoundation/clifft",
-      "recent": 14,
-      "total": 18,
+      "recent": 23,
+      "total": 28,
       "stars": 61,
       "language": "C++",
       "by_model": {
-        "openai_codex": 14
+        "openai_codex": 23
       }
     },
     {
-      "repo": "GoogleCloudPlatform/scion",
-      "recent": 12,
-      "total": 39,
-      "stars": 1664,
-      "language": "Go",
+      "repo": "getsentry/sentry",
+      "recent": 21,
+      "total": 277,
+      "stars": 44486,
+      "language": "Python",
       "by_model": {
-        "gemini": 12
+        "openai_codex": 21
+      }
+    },
+    {
+      "repo": "stripe/stripe-android",
+      "recent": 20,
+      "total": 71,
+      "stars": 1532,
+      "language": "Kotlin",
+      "by_model": {
+        "openai_codex": 20
+      }
+    },
+    {
+      "repo": "HarperFast/harper",
+      "recent": 20,
+      "total": 62,
+      "stars": 82,
+      "language": "JavaScript",
+      "by_model": {
+        "gemini": 2,
+        "openai_codex": 18
+      }
+    },
+    {
+      "repo": "fitlab-ai/agent-infra",
+      "recent": 14,
+      "total": 244,
+      "stars": 84,
+      "language": "TypeScript",
+      "by_model": {
+        "openai_codex": 14
       }
     }
   ],
   "ai_vs_human": [
     {
       "repo": "fitlab-ai/agent-infra",
-      "ai_commits": 238,
-      "human_commits": 107,
-      "total_commits": 345,
-      "ai_percentage": 69.0,
+      "ai_commits": 244,
+      "human_commits": 106,
+      "total_commits": 350,
+      "ai_percentage": 69.7,
       "stars": 84,
       "language": "TypeScript"
     },
     {
       "repo": "patrykandpatrick/liftapp",
-      "ai_commits": 125,
-      "human_commits": 61,
-      "total_commits": 186,
-      "ai_percentage": 67.2,
+      "ai_commits": 126,
+      "human_commits": 73,
+      "total_commits": 199,
+      "ai_percentage": 63.3,
       "stars": 94,
       "language": "Kotlin"
     },
     {
       "repo": "zoonk/zoonk",
       "ai_commits": 202,
-      "human_commits": 115,
-      "total_commits": 317,
-      "ai_percentage": 63.7,
+      "human_commits": 117,
+      "total_commits": 319,
+      "ai_percentage": 63.3,
       "stars": 135,
       "language": "TypeScript"
     },
@@ -1181,9 +1187,9 @@
     {
       "repo": "packit/packit",
       "ai_commits": 23,
-      "human_commits": 16,
-      "total_commits": 39,
-      "ai_percentage": 59.0,
+      "human_commits": 17,
+      "total_commits": 40,
+      "ai_percentage": 57.5,
       "stars": 164,
       "language": "Python"
     },
@@ -1199,100 +1205,100 @@
     {
       "repo": "getsentry/sentry-mcp",
       "ai_commits": 75,
-      "human_commits": 89,
-      "total_commits": 164,
-      "ai_percentage": 45.7,
+      "human_commits": 90,
+      "total_commits": 165,
+      "ai_percentage": 45.5,
       "stars": 798,
       "language": "TypeScript"
     },
     {
       "repo": "IsmaelMartinez/teams-for-linux",
       "ai_commits": 20,
-      "human_commits": 24,
-      "total_commits": 44,
-      "ai_percentage": 45.5,
+      "human_commits": 25,
+      "total_commits": 45,
+      "ai_percentage": 44.4,
       "stars": 4737,
       "language": "JavaScript"
     },
     {
       "repo": "flutter/flutter",
-      "ai_commits": 637,
-      "human_commits": 857,
-      "total_commits": 1494,
-      "ai_percentage": 42.6,
-      "stars": 178256,
+      "ai_commits": 646,
+      "human_commits": 875,
+      "total_commits": 1521,
+      "ai_percentage": 42.5,
+      "stars": 178265,
       "language": "Dart"
     },
     {
       "repo": "flutter/packages",
-      "ai_commits": 143,
-      "human_commits": 197,
-      "total_commits": 340,
+      "ai_commits": 144,
+      "human_commits": 198,
+      "total_commits": 342,
       "ai_percentage": 42.1,
-      "stars": 5271,
+      "stars": 5272,
       "language": "Dart"
     }
   ],
   "language_breakdown": {
     "TypeScript": {
-      "claude": 592,
-      "gemini": 1302,
-      "openai_codex": 1666
+      "claude": 597,
+      "gemini": 1303,
+      "openai_codex": 1690
     },
     "Python": {
-      "claude": 535,
+      "claude": 538,
       "gemini": 1674,
-      "openai_codex": 795
+      "openai_codex": 805
     },
     "Rust": {
-      "openai_codex": 641,
-      "gemini": 391,
-      "claude": 349
+      "openai_codex": 664,
+      "gemini": 392,
+      "claude": 352
     },
     "Go": {
       "claude": 147,
-      "gemini": 609,
-      "openai_codex": 483
+      "gemini": 611,
+      "openai_codex": 486
     },
     "Dart": {
-      "gemini": 892,
+      "gemini": 902,
       "openai_codex": 33,
       "claude": 39
+    },
+    "C++": {
+      "claude": 111,
+      "gemini": 259,
+      "openai_codex": 282
     },
     "JavaScript": {
       "claude": 161,
       "gemini": 221,
-      "openai_codex": 264
-    },
-    "C++": {
-      "claude": 111,
-      "gemini": 258,
-      "openai_codex": 269
+      "openai_codex": 267
     },
     "Kotlin": {
       "gemini": 175,
       "claude": 44,
-      "openai_codex": 266
+      "openai_codex": 282
     },
     "Java": {
-      "gemini": 264,
+      "gemini": 266,
       "claude": 40,
       "openai_codex": 56
     },
     "C": {
       "claude": 97,
       "gemini": 83,
-      "openai_codex": 166
+      "openai_codex": 171
     },
     "Swift": {
-      "openai_codex": 276,
+      "openai_codex": 277,
       "claude": 33,
       "gemini": 31
     },
     "Shell": {
       "claude": 46,
       "gemini": 107,
-      "openai_codex": 89
+      "openai_codex": 90
     },
     "HTML": {
       "claude": 49,
@@ -1306,14 +1312,14 @@
     },
     "Julia": {
       "claude": 11,
-      "openai_codex": 118
+      "openai_codex": 121
     }
   },
   "totals": {
-    "commits": 14559,
-    "repos": 2682,
+    "commits": 14694,
+    "repos": 2698,
     "models": 3,
-    "days_tracked": 157,
-    "today": 96
+    "days_tracked": 158,
+    "today": 136
   }
 }
