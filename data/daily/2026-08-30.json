@@ -1,0 +1,945 @@
+{
+  "date": "2026-08-30",
+  "commits": [
+    {
+      "sha": "c8ec65af80e0b821d32367ee732825db423e7074",
+      "repo": "fuddlesworth/PlasmaZones",
+      "model": "claude",
+      "date": "2026-08-30T18:59:55.000-05:00",
+      "language": "C++",
+      "stars": 326
+    },
+    {
+      "sha": "efff2653b9cb4b056f89f8b25ecb86847a0e9818",
+      "repo": "playcanvas/web-components",
+      "model": "claude",
+      "date": "2026-08-31T00:59:37.000+01:00",
+      "language": "TypeScript",
+      "stars": 108
+    },
+    {
+      "sha": "323d107b1fc7ac80ef295a7c8900eb7cdbec5343",
+      "repo": "squid-protocol/gitgalaxy",
+      "model": "claude",
+      "date": "2026-08-30T19:59:33.000-04:00",
+      "language": "Python",
+      "stars": 55
+    },
+    {
+      "sha": "21c300dc5fb202cf12979c7dba9a90dba1470095",
+      "repo": "lgse/strata",
+      "model": "claude",
+      "date": "2026-08-30T17:58:58.000-06:00",
+      "language": "Rust",
+      "stars": 87
+    },
+    {
+      "sha": "eb3f8148726f3725f1de5b3cb546991d2b562df9",
+      "repo": "rtk-ai/rtk",
+      "model": "claude",
+      "date": "2026-08-31T01:58:35.000+02:00",
+      "language": "Rust",
+      "stars": 78023
+    },
+    {
+      "sha": "6a60e40be9d0cefb656c4ae12415c5fd040df954",
+      "repo": "criyle/go-sandbox",
+      "model": "openai_codex",
+      "date": "2026-08-30T23:52:59.000Z",
+      "language": "Go",
+      "stars": 271
+    },
+    {
+      "sha": "9c2b06d4ba36b2000c1ed806f07e85016d6ca627",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-08-30T16:16:24.000-07:00",
+      "language": "Rust",
+      "stars": 1484
+    },
+    {
+      "sha": "88a1fb5f96ab2b8fbbc6e9bbd0ae6d385969d5c4",
+      "repo": "criyle/go-sandbox",
+      "model": "openai_codex",
+      "date": "2026-08-30T23:02:26.000Z",
+      "language": "Go",
+      "stars": 271
+    },
+    {
+      "sha": "6a5e124feb34a8634f280fea437d5f2f5056a34d",
+      "repo": "Deno2026/comfyui-deno-custom-nodes",
+      "model": "openai_codex",
+      "date": "2026-08-31T07:58:56.000+09:00",
+      "language": "Python",
+      "stars": 157
+    },
+    {
+      "sha": "92be7337e18e750239f8377ca9d09c085530638f",
+      "repo": "kenn-io/forge",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:53:53.000-04:00",
+      "language": "Go",
+      "stars": 171
+    },
+    {
+      "sha": "406629e1887354cc663cf55fa7c5f6981365f8f2",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-08-30T15:24:15.000-07:00",
+      "language": "Rust",
+      "stars": 1484
+    },
+    {
+      "sha": "910cd329a0b6c5468264f3a71b8b1b81ee165c7a",
+      "repo": "Deno2026/comfyui-deno-custom-nodes",
+      "model": "openai_codex",
+      "date": "2026-08-31T07:05:17.000+09:00",
+      "language": "Python",
+      "stars": 157
+    },
+    {
+      "sha": "c9bc67a1bfb1a3e5d1829d1d1d64d4a506add802",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-31T00:03:45.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "78c46535c4ce788e238b0c2929645a442fbd07db",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T23:52:54.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "74bb1fc5117e414a22ad1d5c3998e36848744f26",
+      "repo": "patrykandpatrick/vico",
+      "model": "openai_codex",
+      "date": "2026-08-30T23:25:48.000+02:00",
+      "language": "Kotlin",
+      "stars": 3158
+    },
+    {
+      "sha": "37a1b0dfe0c893137717e74c830e756e515fcc38",
+      "repo": "patrykandpatrick/vico",
+      "model": "openai_codex",
+      "date": "2026-08-30T23:18:04.000+02:00",
+      "language": "Kotlin",
+      "stars": 3158
+    },
+    {
+      "sha": "19429f3653ed874971dc1ec2c2f779d1272f9f45",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T23:03:05.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "b9775c3ce8b208a891e30b78decee1c5ee87b63d",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T22:59:47.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "e410f9fd23cd7633a9b84bfd4526c45bd2e9e83b",
+      "repo": "criyle/go-sandbox",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:49:06.000Z",
+      "language": "Go",
+      "stars": 271
+    },
+    {
+      "sha": "54c988c6c57bff3db35d7df1dcacd484e3d9610c",
+      "repo": "vim/vim",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:42:07.000Z",
+      "language": "Vim Script",
+      "stars": 40828
+    },
+    {
+      "sha": "8a3ea5d1f2573b9c476b426775ebfc2ea269fd1d",
+      "repo": "criyle/go-sandbox",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:36:33.000Z",
+      "language": "Go",
+      "stars": 271
+    },
+    {
+      "sha": "364ef365fe440d7e59d5c7a9f8284a679687e935",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T22:27:47.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "b8c03393aa4a1950ede1e5042d8ccfb2c66d66f5",
+      "repo": "wingedsheep/argentum-engine",
+      "model": "openai_codex",
+      "date": "2026-08-31T04:11:29.000+08:00",
+      "language": "Kotlin",
+      "stars": 61
+    },
+    {
+      "sha": "3328c4f386471da5c024209942913f682c3ce5bf",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T22:10:33.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "c9633a08127e8972b8e3eef25f24bc8ae7f12039",
+      "repo": "wingedsheep/argentum-engine",
+      "model": "openai_codex",
+      "date": "2026-08-31T04:02:21.000+08:00",
+      "language": "Kotlin",
+      "stars": 61
+    },
+    {
+      "sha": "4061b73591b9741d21011cfa7115993e422b9321",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T22:01:46.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "5bb99a7ca5a9e9aa5ae9be7618924b730abdf46a",
+      "repo": "Bino5150/lumina",
+      "model": "openai_codex",
+      "date": "2026-08-30T14:56:08.000-05:00",
+      "language": "Python",
+      "stars": 155
+    },
+    {
+      "sha": "a1f5b509d145d83958d59e2e077d83dd3d0c1f11",
+      "repo": "wingedsheep/argentum-engine",
+      "model": "openai_codex",
+      "date": "2026-08-30T21:40:26.000+02:00",
+      "language": "Kotlin",
+      "stars": 61
+    },
+    {
+      "sha": "a0802149e69da288fd6d1af1336af0003193f971",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T21:29:07.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "704cbe6015e3d59cabe04632175d99df2d448999",
+      "repo": "OpenHands/software-agent-sdk",
+      "model": "openai_codex",
+      "date": "2026-08-30T15:24:44.000-04:00",
+      "language": "Python",
+      "stars": 1043
+    },
+    {
+      "sha": "f73271fcf5f4d7d604bfe591b40c8c185d3bd89e",
+      "repo": "Bino5150/lumina",
+      "model": "openai_codex",
+      "date": "2026-08-30T14:19:23.000-05:00",
+      "language": "Python",
+      "stars": 155
+    },
+    {
+      "sha": "1f8fa9aa5c2d6d558dff6250dcf12a04b0ff593b",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T21:08:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "26cbeb94a16005c11d4709efa64f16cee953f9a8",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T21:07:24.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "f0f965505720da15f1f1fe9463b6f7fd51618652",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T21:01:07.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "f068f03f871a3d04a209c656e46e1a9666a3ccb1",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:55:13.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "fdae2ce4e5382af7326c7c38ce5d5a12751ada12",
+      "repo": "TanStack/query",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:52:14.000+02:00",
+      "language": "TypeScript",
+      "stars": 50239
+    },
+    {
+      "sha": "c5dcda6016096b0e448dce09f2be68e2f9542aa6",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:48:32.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "ddfdb9ccad8fd277811d126dffa384eb3a99ff03",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:42:23.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "89ccb0a0d3b4193a43b9ada90486c2a6618c7b75",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:36:50.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "b3bc5caab39af6a3688cff0c27cb3f7cef0ecaa2",
+      "repo": "wingedsheep/argentum-engine",
+      "model": "openai_codex",
+      "date": "2026-08-31T02:35:56.000+08:00",
+      "language": "Kotlin",
+      "stars": 61
+    },
+    {
+      "sha": "fdf88f84338ccb89702302c07ccb3818da281d64",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:34:31.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "9b91a4789f9fdf211c57686296ec5d99ba9324b3",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:29.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "afa1a83068f842c1ad587cdfc622869945933d2a",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:29.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "4c13a56369e96a368eb36043fff52c7e75ea1123",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:29.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "6baabb54d2f7e1156c9bbd3e758435fd6cb5115a",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:10.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "ab3d4bb537556132b26e0b19f0aacfa67a0e077a",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:10.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "c3fe365580b46a4ac65ba1d6947959995d8de3fd",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:10.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "c8f4b34a114f1f8c89c6ee3c36c1c1074fbc1fb7",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:10.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "aa3b1ee5f548abf31f595cd5779b0c84f72a3f8f",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:10.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "c40feceb748361c53d8886b82fe0892d8dd715a4",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:28:10.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "7b7a710089629212c8ab75c4b93b738e781bc8ac",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:25:27.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "a9b81b7216aa2ab764232c9ce68102916690be10",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:05:47.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "15c139222711befa93589c962ac5cf8b77afe088",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T20:00:06.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "d3da7ba549a09ccba2760c9eda22780897a6107a",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:50:57.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "1c4f439c4f23d8cdaaa5a9d259ff1d286b2495a6",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:50:17.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "879a4bd273d00f9b132d7a11b6f1b94fafcb4f9f",
+      "repo": "RfidResearchGroup/proxmark3",
+      "model": "openai_codex",
+      "date": "2026-08-30T10:48:29.000-07:00",
+      "language": "C",
+      "stars": 5999
+    },
+    {
+      "sha": "afe685a9746e8271bc6f0386aa43a50592d497ed",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:48:06.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "4b3d77eb6b1f1d9446aac733df2b8e0654fce1cb",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:41:57.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "b565a034ad7f60fd2ae579ffe2958b52bad2e64d",
+      "repo": "kenn-io/msgvault",
+      "model": "openai_codex",
+      "date": "2026-08-30T13:39:44.000-04:00",
+      "language": "Go",
+      "stars": 2045
+    },
+    {
+      "sha": "60864d337f8d7e3a494a8f58ad1c9af712ee424e",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:35:34.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "d5922008574f12a0cd88e8dfdf5d1349ce3bde09",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:34:57.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "03f0c0ff4fe9663850c408a5aaa44c7e3cd804a6",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:32:36.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "166dea0f730d912deba0e4b2412d3699332fb818",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "15cf0525eb6d92bce3d66dde06377ef0db9760dd",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "b658dc411031fd73bebc05d5fe61064ec36e834c",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "c873749f58c1d8df6f7b2a6b4eb9d33790a9e5cb",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "134d64216abf05c7ae482d7458602a0ee17f6ee5",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "3ee5cc852ad55e4cf8e5cd350b9c8ed84756d116",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "4fcbbf1514d6cc70635fcc72cc022f82600811b6",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "92a800e5314ab6c2a3b1cf51ba60e470bcd5461f",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "de8735a06e6318ae4cd20c29f519028156984b1c",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "8fa7344eb7507e183ae866241392acc5e9dccd0d",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "7b241383dd49e501881f0ddd859dcf895b7eceb0",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "48c24f9ff27ae7e5ff86245dbfe074889fb5eb8b",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "6698040971269a107e42bf485678983a1d9c08d4",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "69a0cb6275cc64c22ebbc281067c80ecb6d32d12",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:29:21.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "fc89d5e1c2f858769ffe7d87edaafe7dc0f1ae1e",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:28:56.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "417446b1b5ad71879a61b4067ec63ac3385e394e",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:28:56.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "5773404e76d5066a59fc9583021e9dd44796f2fd",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:28:56.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "1d1913d69f5ee9b40048feb06d20f76a2049cc97",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:28:56.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "0f65ec989201334174505507f3c2565b5ca77074",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:28:56.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "fe0a884a81f6191b6696081fd460251e9b40675c",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:28:39.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "63e4f17197ed6c881976796c557be5a08b94aece",
+      "repo": "kenn-io/forge",
+      "model": "openai_codex",
+      "date": "2026-08-30T13:26:22.000-04:00",
+      "language": "Go",
+      "stars": 171
+    },
+    {
+      "sha": "0d49986c70f09974379087c9bf4996f28238ddaf",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:26:15.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "d11c3abdeddd4e48ca060ed32584c72bdddbecf7",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:22:56.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "bde0923f16bca27481185f276f59151cb690ee54",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:15:22.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "a80e5b75fa5aeebb0a8e3dc577c63afe833f2806",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:15:22.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "842c0209d7fa548952140c2e7de6404b22fc3647",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:13:28.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "5855c060c7f88efdeec23514a48c1e6351f4597d",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:12:51.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "e27694e7d742d7cbbc02e58345d4cf9865f056d9",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:11:42.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "08aa53d9313fef80167958dc0a12119d3df3c5cc",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T19:04:23.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "17bb92921e07b40c3e0581909c1c184bcad6cff0",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:56:19.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "3a7a36a817c05e2f212e0fbcc787e1430cadb51b",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:53:08.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "8591fb8a5d122c566ee77167ed90049a01de7057",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:46:58.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "4ecc795a3fe0302417f85583f3cb0b50c7279990",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:44:30.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "d47cbc2ec07fd5c0f42864c7d8a630765a3b21a0",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:37:22.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "2116c992803c22225e29b249ab4f47f593b0f5c6",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:35:28.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "6c6996362e7d6560faa55059d592637d1bf4f615",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:29:39.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "e64a363da85f5f793706b043d892a28c1d676c82",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:23:08.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "cf18740754d065fe7fee4f76e7cd90928a32a4d1",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:21:12.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "f6895a5fcb4710481bb44726af4fa57f4172330c",
+      "repo": "vllm-project/vllm",
+      "model": "openai_codex",
+      "date": "2026-08-30T16:19:38.000Z",
+      "language": "Python",
+      "stars": 90587
+    },
+    {
+      "sha": "c9ad1987bc6e81f91b6ff03ffc6cb05b2b56e584",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:17:52.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "ae5fb5718ae867222a6dff974c58d522c80361af",
+      "repo": "ahrefs/ocannl",
+      "model": "openai_codex",
+      "date": "2026-08-30T18:16:47.000+02:00",
+      "language": "OCaml",
+      "stars": 114
+    },
+    {
+      "sha": "7af4ce126f6ae06d2e00cd74e0c993356c934e69",
+      "repo": "ArduPilot/ardupilot",
+      "model": "gemini",
+      "date": "2026-08-31T09:08:58.000+10:00",
+      "language": "C++",
+      "stars": 15776
+    },
+    {
+      "sha": "44cb2d3eb30a8a4a5978a3aa80775448fa8aba2b",
+      "repo": "espnet/espnet",
+      "model": "gemini",
+      "date": "2026-08-30T09:49:55.000-04:00",
+      "language": "Python",
+      "stars": 9946
+    },
+    {
+      "sha": "ec1869a89f0c79099e8c7ab562e96645051352d3",
+      "repo": "GoogleCloudPlatform/scion",
+      "model": "gemini",
+      "date": "2026-08-30T07:51:42.000-04:00",
+      "language": "Go",
+      "stars": 1684
+    },
+    {
+      "sha": "6e0444abdb02bba726ad7355a95f63747ff33e94",
+      "repo": "espnet/espnet",
+      "model": "gemini",
+      "date": "2026-08-29T22:22:59.000-04:00",
+      "language": "Python",
+      "stars": 9946
+    },
+    {
+      "sha": "fa92cbcfb6944052027ac8d610e4dd397844fa99",
+      "repo": "tomakino/lyricon",
+      "model": "gemini",
+      "date": "2026-08-30T08:06:26.000+08:00",
+      "language": "Kotlin",
+      "stars": 737
+    },
+    {
+      "sha": "8f7fa4eb7559c205227e115cb5f9e8b92f11f99e",
+      "repo": "tomakino/lyricon",
+      "model": "gemini",
+      "date": "2026-08-30T08:05:55.000+08:00",
+      "language": "Kotlin",
+      "stars": 737
+    }
+  ],
+  "totals": {
+    "claude": 6,
+    "openai_codex": 98,
+    "gemini": 6
+  },
+  "repos_tracked": 23,
+  "repo_activity": {
+    "vllm-project/vllm": {
+      "weekly_total": 93
+    },
+    "wingedsheep/argentum-engine": {
+      "weekly_total": 392
+    },
+    "kenn-io/forge": {
+      "weekly_total": 5
+    },
+    "playcanvas/web-components": {
+      "weekly_total": 6
+    },
+    "GoogleCloudPlatform/scion": {
+      "weekly_total": 29
+    },
+    "Bino5150/lumina": {
+      "weekly_total": 4
+    },
+    "ArduPilot/ardupilot": {
+      "weekly_total": 2
+    },
+    "tomakino/lyricon": {
+      "weekly_total": 2
+    },
+    "espnet/espnet": {
+      "weekly_total": 55
+    },
+    "patrykandpatrick/vico": {
+      "weekly_total": 2
+    },
+    "Deno2026/comfyui-deno-custom-nodes": {
+      "weekly_total": 4
+    },
+    "ahrefs/ocannl": {
+      "weekly_total": 156
+    },
+    "OpenHands/software-agent-sdk": {
+      "weekly_total": 4
+    },
+    "fuddlesworth/PlasmaZones": {
+      "weekly_total": 37
+    },
+    "lgse/strata": {
+      "weekly_total": 47
+    },
+    "moq-dev/moq": {
+      "weekly_total": 9
+    },
+    "rtk-ai/rtk": {
+      "weekly_total": 15
+    },
+    "vim/vim": {
+      "weekly_total": 17
+    },
+    "kenn-io/msgvault": {
+      "weekly_total": 6
+    },
+    "RfidResearchGroup/proxmark3": {
+      "weekly_total": 58
+    }
+  }
+}
