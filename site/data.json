@@ -1,9 +1,612 @@
 {
-  "last_updated": "2026-03-01T00:00:00Z",
-  "model_share_over_time": [],
-  "top_repos": [],
-  "rising_repos": [],
-  "ai_vs_human": [],
-  "language_breakdown": {},
-  "totals": {"commits": 0, "repos": 0, "models": 0, "days_tracked": 0, "today": 0}
+  "last_updated": "2026-03-01T12:20:29.939281+00:00",
+  "model_share_over_time": [
+    {
+      "date": "2026-01-30",
+      "claude": 33,
+      "openai_codex": 15,
+      "gemini": 7,
+      "cursor": 25
+    },
+    {
+      "date": "2026-01-31",
+      "claude": 21,
+      "openai_codex": 13,
+      "gemini": 16,
+      "cursor": 33
+    },
+    {
+      "date": "2026-02-01",
+      "claude": 26,
+      "openai_codex": 15,
+      "gemini": 13,
+      "cursor": 13
+    },
+    {
+      "date": "2026-02-02",
+      "claude": 22,
+      "openai_codex": 19,
+      "gemini": 13,
+      "cursor": 27
+    },
+    {
+      "date": "2026-02-03",
+      "claude": 34,
+      "openai_codex": 12,
+      "gemini": 9,
+      "cursor": 25
+    },
+    {
+      "date": "2026-02-04",
+      "claude": 29,
+      "openai_codex": 15,
+      "gemini": 7,
+      "cursor": 31
+    },
+    {
+      "date": "2026-02-05",
+      "claude": 39,
+      "openai_codex": 13,
+      "gemini": 13,
+      "cursor": 28
+    },
+    {
+      "date": "2026-02-06",
+      "claude": 32,
+      "openai_codex": 19,
+      "gemini": 20,
+      "cursor": 20
+    },
+    {
+      "date": "2026-02-07",
+      "claude": 37,
+      "openai_codex": 30,
+      "gemini": 20,
+      "cursor": 28
+    },
+    {
+      "date": "2026-02-08",
+      "claude": 34,
+      "openai_codex": 20,
+      "gemini": 16,
+      "cursor": 25
+    },
+    {
+      "date": "2026-02-09",
+      "claude": 32,
+      "openai_codex": 17,
+      "gemini": 14,
+      "cursor": 33
+    },
+    {
+      "date": "2026-02-10",
+      "claude": 29,
+      "openai_codex": 22,
+      "gemini": 9,
+      "cursor": 31
+    },
+    {
+      "date": "2026-02-11",
+      "claude": 35,
+      "openai_codex": 24,
+      "gemini": 19,
+      "cursor": 36
+    },
+    {
+      "date": "2026-02-12",
+      "claude": 39,
+      "openai_codex": 24,
+      "gemini": 20,
+      "cursor": 39
+    },
+    {
+      "date": "2026-02-13",
+      "claude": 28,
+      "openai_codex": 26,
+      "gemini": 15,
+      "cursor": 18
+    },
+    {
+      "date": "2026-02-14",
+      "claude": 38,
+      "openai_codex": 21,
+      "gemini": 20,
+      "cursor": 29
+    },
+    {
+      "date": "2026-02-15",
+      "claude": 30,
+      "openai_codex": 21,
+      "gemini": 20,
+      "cursor": 28
+    },
+    {
+      "date": "2026-02-16",
+      "claude": 49,
+      "openai_codex": 21,
+      "gemini": 17,
+      "cursor": 22
+    },
+    {
+      "date": "2026-02-17",
+      "claude": 44,
+      "openai_codex": 30,
+      "gemini": 19,
+      "cursor": 33
+    },
+    {
+      "date": "2026-02-18",
+      "claude": 34,
+      "openai_codex": 19,
+      "gemini": 23,
+      "cursor": 39
+    },
+    {
+      "date": "2026-02-19",
+      "claude": 54,
+      "openai_codex": 26,
+      "gemini": 23,
+      "cursor": 28
+    },
+    {
+      "date": "2026-02-20",
+      "claude": 59,
+      "openai_codex": 27,
+      "gemini": 26,
+      "cursor": 35
+    },
+    {
+      "date": "2026-02-21",
+      "claude": 44,
+      "openai_codex": 22,
+      "gemini": 17,
+      "cursor": 30
+    },
+    {
+      "date": "2026-02-22",
+      "claude": 40,
+      "openai_codex": 23,
+      "gemini": 21,
+      "cursor": 23
+    },
+    {
+      "date": "2026-02-23",
+      "claude": 30,
+      "openai_codex": 12,
+      "gemini": 18,
+      "cursor": 33
+    },
+    {
+      "date": "2026-02-24",
+      "claude": 62,
+      "openai_codex": 45,
+      "gemini": 30,
+      "cursor": 50
+    },
+    {
+      "date": "2026-02-25",
+      "claude": 49,
+      "openai_codex": 29,
+      "gemini": 24,
+      "cursor": 60
+    },
+    {
+      "date": "2026-02-26",
+      "claude": 50,
+      "openai_codex": 24,
+      "gemini": 25,
+      "cursor": 38
+    },
+    {
+      "date": "2026-02-27",
+      "claude": 53,
+      "openai_codex": 26,
+      "gemini": 19,
+      "cursor": 32
+    },
+    {
+      "date": "2026-02-28",
+      "claude": 61,
+      "openai_codex": 32,
+      "gemini": 24,
+      "cursor": 54
+    }
+  ],
+  "top_repos": [
+    {
+      "repo": "django/django",
+      "total": 217,
+      "stars": 81000,
+      "language": "Python",
+      "by_model": {
+        "cursor": 60,
+        "claude": 96,
+        "openai_codex": 30,
+        "gemini": 31
+      }
+    },
+    {
+      "repo": "golang/go",
+      "total": 205,
+      "stars": 125000,
+      "language": "Go",
+      "by_model": {
+        "cursor": 58,
+        "claude": 73,
+        "gemini": 36,
+        "openai_codex": 38
+      }
+    },
+    {
+      "repo": "kubernetes/kubernetes",
+      "total": 193,
+      "stars": 112000,
+      "language": "Go",
+      "by_model": {
+        "claude": 75,
+        "openai_codex": 30,
+        "cursor": 52,
+        "gemini": 36
+      }
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "total": 183,
+      "stars": 84000,
+      "language": "JavaScript",
+      "by_model": {
+        "gemini": 29,
+        "claude": 61,
+        "cursor": 59,
+        "openai_codex": 34
+      }
+    },
+    {
+      "repo": "sveltejs/svelte",
+      "total": 179,
+      "stars": 82000,
+      "language": "JavaScript",
+      "by_model": {
+        "claude": 60,
+        "gemini": 34,
+        "cursor": 50,
+        "openai_codex": 35
+      }
+    },
+    {
+      "repo": "torvalds/linux",
+      "total": 176,
+      "stars": 185000,
+      "language": "C",
+      "by_model": {
+        "claude": 63,
+        "openai_codex": 45,
+        "cursor": 42,
+        "gemini": 26
+      }
+    },
+    {
+      "repo": "huggingface/transformers",
+      "total": 175,
+      "stars": 140000,
+      "language": "Python",
+      "by_model": {
+        "cursor": 47,
+        "claude": 55,
+        "gemini": 32,
+        "openai_codex": 41
+      }
+    },
+    {
+      "repo": "supabase/supabase",
+      "total": 170,
+      "stars": 75000,
+      "language": "TypeScript",
+      "by_model": {
+        "cursor": 65,
+        "claude": 45,
+        "openai_codex": 34,
+        "gemini": 26
+      }
+    },
+    {
+      "repo": "apache/spark",
+      "total": 166,
+      "stars": 40000,
+      "language": "Scala",
+      "by_model": {
+        "claude": 55,
+        "gemini": 27,
+        "openai_codex": 38,
+        "cursor": 46
+      }
+    },
+    {
+      "repo": "microsoft/vscode",
+      "total": 159,
+      "stars": 168000,
+      "language": "TypeScript",
+      "by_model": {
+        "cursor": 55,
+        "claude": 52,
+        "gemini": 18,
+        "openai_codex": 34
+      }
+    }
+  ],
+  "rising_repos": [
+    {
+      "repo": "golang/go",
+      "recent": 67,
+      "total": 205,
+      "stars": 125000,
+      "language": "Go",
+      "by_model": {
+        "claude": 28,
+        "cursor": 16,
+        "gemini": 9,
+        "openai_codex": 14
+      }
+    },
+    {
+      "repo": "huggingface/transformers",
+      "recent": 66,
+      "total": 175,
+      "stars": 140000,
+      "language": "Python",
+      "by_model": {
+        "claude": 14,
+        "gemini": 17,
+        "openai_codex": 19,
+        "cursor": 16
+      }
+    },
+    {
+      "repo": "django/django",
+      "recent": 66,
+      "total": 217,
+      "stars": 81000,
+      "language": "Python",
+      "by_model": {
+        "openai_codex": 4,
+        "claude": 32,
+        "gemini": 10,
+        "cursor": 20
+      }
+    },
+    {
+      "repo": "kubernetes/kubernetes",
+      "recent": 66,
+      "total": 193,
+      "stars": 112000,
+      "language": "Go",
+      "by_model": {
+        "gemini": 15,
+        "openai_codex": 11,
+        "cursor": 15,
+        "claude": 25
+      }
+    },
+    {
+      "repo": "apache/spark",
+      "recent": 63,
+      "total": 166,
+      "stars": 40000,
+      "language": "Scala",
+      "by_model": {
+        "cursor": 19,
+        "claude": 22,
+        "openai_codex": 12,
+        "gemini": 10
+      }
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "recent": 62,
+      "total": 149,
+      "stars": 80000,
+      "language": "Python",
+      "by_model": {
+        "cursor": 22,
+        "claude": 18,
+        "gemini": 9,
+        "openai_codex": 13
+      }
+    },
+    {
+      "repo": "supabase/supabase",
+      "recent": 56,
+      "total": 170,
+      "stars": 75000,
+      "language": "TypeScript",
+      "by_model": {
+        "gemini": 10,
+        "openai_codex": 10,
+        "cursor": 20,
+        "claude": 16
+      }
+    },
+    {
+      "repo": "microsoft/vscode",
+      "recent": 55,
+      "total": 159,
+      "stars": 168000,
+      "language": "TypeScript",
+      "by_model": {
+        "claude": 22,
+        "gemini": 6,
+        "cursor": 15,
+        "openai_codex": 12
+      }
+    },
+    {
+      "repo": "sveltejs/svelte",
+      "recent": 54,
+      "total": 179,
+      "stars": 82000,
+      "language": "JavaScript",
+      "by_model": {
+        "gemini": 12,
+        "openai_codex": 10,
+        "claude": 16,
+        "cursor": 16
+      }
+    },
+    {
+      "repo": "pallets/flask",
+      "recent": 54,
+      "total": 149,
+      "stars": 69000,
+      "language": "Python",
+      "by_model": {
+        "openai_codex": 12,
+        "claude": 20,
+        "gemini": 7,
+        "cursor": 15
+      }
+    }
+  ],
+  "ai_vs_human": [
+    {
+      "repo": "django/django",
+      "ai_commits": 217,
+      "human_commits": 386,
+      "total_commits": 603,
+      "ai_percentage": 36.0,
+      "stars": 81000,
+      "language": "Python"
+    },
+    {
+      "repo": "apache/spark",
+      "ai_commits": 166,
+      "human_commits": 387,
+      "total_commits": 553,
+      "ai_percentage": 30.0,
+      "stars": 40000,
+      "language": "Scala"
+    },
+    {
+      "repo": "prisma/prisma",
+      "ai_commits": 155,
+      "human_commits": 399,
+      "total_commits": 554,
+      "ai_percentage": 28.0,
+      "stars": 40000,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "pallets/flask",
+      "ai_commits": 149,
+      "human_commits": 385,
+      "total_commits": 534,
+      "ai_percentage": 27.9,
+      "stars": 69000,
+      "language": "Python"
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "ai_commits": 183,
+      "human_commits": 485,
+      "total_commits": 668,
+      "ai_percentage": 27.4,
+      "stars": 84000,
+      "language": "JavaScript"
+    },
+    {
+      "repo": "golang/go",
+      "ai_commits": 205,
+      "human_commits": 558,
+      "total_commits": 763,
+      "ai_percentage": 26.9,
+      "stars": 125000,
+      "language": "Go"
+    },
+    {
+      "repo": "supabase/supabase",
+      "ai_commits": 170,
+      "human_commits": 483,
+      "total_commits": 653,
+      "ai_percentage": 26.0,
+      "stars": 75000,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "sveltejs/svelte",
+      "ai_commits": 179,
+      "human_commits": 551,
+      "total_commits": 730,
+      "ai_percentage": 24.5,
+      "stars": 82000,
+      "language": "JavaScript"
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "ai_commits": 152,
+      "human_commits": 468,
+      "total_commits": 620,
+      "ai_percentage": 24.5,
+      "stars": 35000,
+      "language": "Rust"
+    },
+    {
+      "repo": "kubernetes/kubernetes",
+      "ai_commits": 193,
+      "human_commits": 602,
+      "total_commits": 795,
+      "ai_percentage": 24.3,
+      "stars": 112000,
+      "language": "Go"
+    }
+  ],
+  "language_breakdown": {
+    "Python": {
+      "claude": 295,
+      "cursor": 225,
+      "openai_codex": 170,
+      "gemini": 146
+    },
+    "TypeScript": {
+      "cursor": 242,
+      "claude": 278,
+      "openai_codex": 152,
+      "gemini": 104
+    },
+    "JavaScript": {
+      "claude": 178,
+      "openai_codex": 95,
+      "gemini": 93,
+      "cursor": 153
+    },
+    "Rust": {
+      "cursor": 128,
+      "openai_codex": 94,
+      "gemini": 69,
+      "claude": 150
+    },
+    "Go": {
+      "cursor": 110,
+      "claude": 148,
+      "openai_codex": 68,
+      "gemini": 72
+    },
+    "C": {
+      "claude": 63,
+      "openai_codex": 45,
+      "cursor": 42,
+      "gemini": 26
+    },
+    "Scala": {
+      "claude": 55,
+      "gemini": 27,
+      "openai_codex": 38,
+      "cursor": 46
+    }
+  },
+  "totals": {
+    "commits": 3312,
+    "repos": 20,
+    "models": 4,
+    "days_tracked": 30,
+    "today": 171
+  }
 }
