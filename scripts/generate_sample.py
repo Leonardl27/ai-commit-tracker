@@ -31,8 +31,8 @@ REPOS = [
     ("anthropics/claude-code", "TypeScript", 25000),
 ]
 
-MODELS = ["claude", "openai_codex", "gemini"]
-MODEL_WEIGHTS = [0.45, 0.30, 0.25]  # Approximate market share
+MODELS = ["claude", "openai_codex", "gemini", "cursor"]
+MODEL_WEIGHTS = [0.35, 0.20, 0.15, 0.30]  # Approximate market share
 
 
 def generate_sample_data(num_days=30):
