@@ -1,0 +1,1291 @@
+{
+  "date": "2026-10-04",
+  "commits": [
+    {
+      "sha": "44548ee90b1a093c3ce603d4971c672c812b5372",
+      "repo": "dikeckaan/mu300-linux",
+      "model": "claude",
+      "date": "2026-10-05T02:59:59.000+03:00",
+      "language": "C",
+      "stars": 108
+    },
+    {
+      "sha": "4ebe51d97482846888b01e3587c6cdf81959760b",
+      "repo": "classmoji/classmoji",
+      "model": "claude",
+      "date": "2026-10-04T19:59:55.000-04:00",
+      "language": "TypeScript",
+      "stars": 83
+    },
+    {
+      "sha": "6bef9eea749e1a5839c23381c633ab4668e33b44",
+      "repo": "alfadur7/llm-wiki-newsroom",
+      "model": "claude",
+      "date": "2026-10-05T08:59:49.000+09:00",
+      "language": "Python",
+      "stars": 170
+    },
+    {
+      "sha": "e56c12eba2142af2ec704c4c6758ca2302087174",
+      "repo": "TeamHypersomnia/Hypersomnia",
+      "model": "claude",
+      "date": "2026-10-05T01:59:48.000+02:00",
+      "language": "C++",
+      "stars": 1668
+    },
+    {
+      "sha": "152940b1e4d7aa66edf9ea3472c5a4b5678ae7f8",
+      "repo": "matrixarkai/TemporalStore",
+      "model": "claude",
+      "date": "2026-10-04T16:59:42.000-07:00",
+      "language": "Rust",
+      "stars": 215
+    },
+    {
+      "sha": "d59dae41a532f8379af638ea611163b566bef51e",
+      "repo": "WillEhrendreich/SageFs",
+      "model": "claude",
+      "date": "2026-10-04T18:59:36.000-05:00",
+      "language": "F#",
+      "stars": 72
+    },
+    {
+      "sha": "4a304a0dbc8fdb70f83aa87adb94860414c43519",
+      "repo": "sambanks/octabam",
+      "model": "claude",
+      "date": "2026-10-05T10:59:29.000+11:00",
+      "language": "Python",
+      "stars": 219
+    },
+    {
+      "sha": "810576ff3e9c7e99607a5a1380327a65f3112ad3",
+      "repo": "coco-research/coco",
+      "model": "claude",
+      "date": "2026-10-04T16:59:26.000-07:00",
+      "language": "HTML",
+      "stars": 443
+    },
+    {
+      "sha": "938fb7f79951aec36a9bb2133f0cf6cf5fe364f4",
+      "repo": "harshalgajjar/Reminal",
+      "model": "claude",
+      "date": "2026-10-04T16:58:45.000-07:00",
+      "language": "Go",
+      "stars": 269
+    },
+    {
+      "sha": "a2c738e33d862b18901ddf483beac9edd866836d",
+      "repo": "zfogg/ascii-chat",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:59:36.000-04:00",
+      "language": "C",
+      "stars": 200
+    },
+    {
+      "sha": "464541cbc642b61ace586ef556c215f5c4323a0b",
+      "repo": "hyperb1iss/sibyl",
+      "model": "openai_codex",
+      "date": "2026-10-04T16:57:52.000-07:00",
+      "language": "Python",
+      "stars": 64
+    },
+    {
+      "sha": "c83bf750524fdfc1a1b8ca0da5448c12a095d2aa",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T07:46:29.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "e10957d7711eba139c0f4de89ca1ba472aa54187",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T07:46:20.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "0e85903f1f28c2105acde9ba68b9260e99723c5b",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:43:16.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "edb6968793e7d2453492fb038450022b8f5c007f",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:43:14.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "965637d79c4bab2244822741af93c50d3fcdf24d",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:43:11.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "08a3352152dd45cc48b5348fba1d820f4add8883",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:43:08.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "81a9faa321849af7df3e3a3779cb8f120b548841",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:43:05.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "b09d84b0c0309cd0d1e50bfb183c2481ca08b89e",
+      "repo": "Bino5150/lumina",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:43:04.000-05:00",
+      "language": "Python",
+      "stars": 181
+    },
+    {
+      "sha": "358c98148238e88517f50124618c2e80b4277fbe",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:43:03.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "93d44d34f45ee40d5672cc118dba3034fd36c49a",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:43:00.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "2bc177d8a9343e8e96c86bc53dc9718f1daa1bfc",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:57.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "b36ff243dc976baba0970384fb8ab4f9dac04495",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:54.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "e72834c5db80e102a08a94070c53bceac7545b7e",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:52.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "73e6b099be22a76ecb6797f23408fdd91cceb372",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:52.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "a02af3aa25bc0fd4721a8065c8a5f9dccd9221f5",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:51.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "16105d928f160bf1439fd06d0b4dda5f8c337eb2",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:51.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "beea761d75d2560541b74e4271c79940049df31c",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:48.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "8cba5580f5180bfdd81c05a40b006515a46396c8",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:48.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "70e1d8fe2daeed48f93a3d27e17bfba740de5463",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:47.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "ec766df462671db53a95b3544f43e482929e1e93",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:47.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "fb9517e7b980d66c62b5b6691f9aa4662a372906",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:44.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "b9bafcd4e679e55303ec4d5467fc56d831c82036",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:44.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "0892d602783df6c07fd334f7701bdf4bb4e84dd8",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:41.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "d877f43d0ca117f76172627dae63ca14582a1874",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:41.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "9736faf1cc81d39d769b54a9a681a7ddbdd82a5d",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:38.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "5594716a89f3cce9bb92f9f899b13bf29860a5ed",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:36.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "9df032859c1d1b1213ddc4a85fabd5ba28a174cf",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:36.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "0f898153a51c24517c55ec8c605b9e5fb9a3fff7",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:35.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "9e00717844374adbc6e21d625332e779f03bc8ca",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:32.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "8c0db9b5abbc6ef7d863eb3c0a85f094be983f0b",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:30.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "d7d3d37f0b8511c5526dfcb79e8311ccf47d4511",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:27.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "44bd8c3a0b5b2d5b38bccf510e0033eff6489de3",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:27.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "371b77345ab40c1295a2e25caf053b75f0f3c7df",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:26.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "e8103c94841146113561498e2deaddf25dbda5a3",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:23.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "13a77c65ce0d0e44eb74b1c6284da70da1c943e3",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:20.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "6d9250210cb6bc37d812429b4af651a77ab5cbcc",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:17.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "119457479c7bed940f2fade96837c19c960c6bcc",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:14.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "81a93447a6569ee27c6f075856ed45685de5551d",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:14.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "956de41a8ceca700c0e6edf51e28914055ec9b56",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:10.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "8cfc8819198b7e5baad51f93c8e1296a9b9f1106",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:10.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "09d2d95ef27475843b6ccfc92789a863195c3e19",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:06.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "4022358f8e9696a91101ed7b2fd6dbf8cf6b9a00",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:03.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "8eb22a9601ffae73d7ef9df7e42e9fb7ed1f6088",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:42:03.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "e916a1c87632703909fdbbb391015b59e7109e76",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:29:30.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "1caf73766354b36084d40a1b440a4bbebe98eebd",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:29:28.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "03ed5f97aed01513ae663cd7cdc982d28a7b6aad",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:29:26.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "abdca5030ea3f936c195dc5afac9824420ff20e6",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:29:25.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "f526f561a2637541c6bf034482cab925cbfaf23d",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T19:29:23.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "3e16c4369f363353ea156846e2761e4f98375da8",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T07:13:20.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "257f04a84cca18ba9e2e4fced49371598919ba1d",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T07:13:15.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "11079e35f50b85a8d648dd71b274d29fc3762e03",
+      "repo": "stripe/stripe-android",
+      "model": "openai_codex",
+      "date": "2026-10-04T16:10:51.000-07:00",
+      "language": "Kotlin",
+      "stars": 1542
+    },
+    {
+      "sha": "1abdf780c0ff7fbfb759fd6c873faa5a589a0e8c",
+      "repo": "Bino5150/lumina",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:10:49.000-05:00",
+      "language": "Python",
+      "stars": 181
+    },
+    {
+      "sha": "85091fe898ae9790340bf7f961b36f364ac58d14",
+      "repo": "fitlab-ai/agent-infra",
+      "model": "openai_codex",
+      "date": "2026-10-05T07:04:23.000+08:00",
+      "language": "TypeScript",
+      "stars": 86
+    },
+    {
+      "sha": "c4af8e8b7f2939fcbf0d73cdb2fabe85ac4ccaec",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:35.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "d3553d0ca01a063381f2c8b20abeb5be0e15d833",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:33.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "046e9f7be9f05cae6fff92426d3fd9a94a9374a4",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:32.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "a4d94584a9174d93b0d94a6e841c983b6aba98f1",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:29.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "ad28312e1f3d0f432c3bd7c7c71bfeaecc1258ed",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:28.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "d80740ed2e765bde51303c737be7447b6ee0872e",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:26.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "58a7be7533540143a8cadd118424f58074aa86ea",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:23.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "abe395e4035f697e5b6b7522c92a08eb89166104",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:21.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "33045bf36d0cdc151623660046f68ec6f48b1698",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:19.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "64cc857c862c45a58decf92dc732b1b2534468b2",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:17.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "62a6f1d1ae36ea8832b3288843969b73c2e8f7c4",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:15.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "8a4e6da4726b8a6d73dc7596c6611bc5400c188a",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:13.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "55fb4628a8ca4e690a0fc74a0a7de794a30eb48c",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:11.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "49b4787147daad929501e387ee0375343bdd5dfc",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:10.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "35561ddb2e33ba08f2315aef5e18739372d415ab",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:08.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "f6b7c3a82107052cb652476e237389cda1b60530",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:07.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "32f15de9ad6685f9ff6e92b34db09afdf21b3d67",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:06.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "f72aded7d40bf249ff88823e142228aa56d6afee",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:04.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "7983afc7591e01d6fce885c61aef69c0566d9e90",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:03.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "fe19dcdceab9629ab166364e8ffd50b6f45c5442",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:01.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "71a056b13537d431fa37afbcbe538365e5ce3be4",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:49:00.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "1e50ead8b9add94cb367756e4db359a1a075da02",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:58.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "5e7c30e14a3f8a798c7040cb67b87523131653c0",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:56.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "dd6c0d19dde1afd4e0a8d87e5fd49cfbfc0d0d31",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:54.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "e9958826a94f36305b5c926ad3e1854ef3a39d3e",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:53.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "99c186a436acf9aff91627cde2d9a17703a75e34",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:51.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "ef3563202fa87845d61f2152e4efd2eb07387cdc",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:50.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "1efc5b2db14a3ae6ecb9a2a9076e47d3c3ca34af",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:48.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "b04aa915f36b84cdd85973d5d7976c7acd31681f",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:46.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "5200aa2261e80258ceb202016aa30e674ac5cb26",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:45.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "3d706aa91c297893f40490e0c9d3fb1b7a049526",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:43.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "0fe5949bf33d429b1fc49a7c94dc5ba063033ded",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:42.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "26910f3f8c9d8006ab5e7ad98f7812e2a7e55241",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:40.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "3d90f121da64304fabc6d77a11a544183086c7eb",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:40.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "55d9363fa519b56fac5f4e1d77f48c67344d30e7",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:38.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "9493e8766bd9e47d2ebd73d7c72984c80c6fa389",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:37.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "bc91bf074bd3e63f9df6fb9249742c2459dd69ac",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:35.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "8b00ba91cf8b3579013c116e7d8a05358737eeca",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:34.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "ed3c61c9494089caf2917b169c8a4e9b0511aa49",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:32.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "eeb92f17b68e590b58b273544bfc4f734bb517f6",
+      "repo": "Open-BFME/Open-BFME-1",
+      "model": "openai_codex",
+      "date": "2026-10-04T18:48:30.000-04:00",
+      "language": "C++",
+      "stars": 117
+    },
+    {
+      "sha": "46196b85d7a8012eb3219112a59c6c830be36bb5",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-05T00:46:26.000+02:00",
+      "language": "TypeScript",
+      "stars": 85
+    },
+    {
+      "sha": "1f6638182b89b6ea6e00363f375e274f49de941b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T15:37:29.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "1d1dc28be29b6eb340a08661d6d265caa3aa0c51",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T15:26:25.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "455415765eeff84c043441e003485a00c8a66955",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T15:22:34.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "0898a930db57a8886e524e5b0df907db363f0940",
+      "repo": "rthalley/dnspython",
+      "model": "openai_codex",
+      "date": "2026-10-04T15:18:17.000-07:00",
+      "language": "Python",
+      "stars": 2679
+    },
+    {
+      "sha": "1f0a2dc17206108395995e5be6e9951224ebf291",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T06:13:32.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "6df57fa20c4e87756264076233eff597e581e768",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T06:13:23.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "126e788179f471ac4ca08c0eb3a43e908b4f2c66",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T06:10:56.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "cb170292f4c0f46b6de797eccfd941c700883388",
+      "repo": "generalbots/generalbots",
+      "model": "openai_codex",
+      "date": "2026-10-04T21:54:39.000Z",
+      "language": "Rust",
+      "stars": 94
+    },
+    {
+      "sha": "b96739d5ba184bc745f7ce97605781f97eaf0a66",
+      "repo": "openai/codex-security",
+      "model": "openai_codex",
+      "date": "2026-10-04T14:54:38.000-07:00",
+      "language": "TypeScript",
+      "stars": 10968
+    },
+    {
+      "sha": "69f10d9c1697a05a1b0ba60abca4f179062d7ad7",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T05:42:44.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "7387af69a58cba7c0d8db71c3025584053b9ab0f",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T05:38:16.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "b32f7661da8dfbea7a2842323d16d1879bf8ef93",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T14:15:14.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "afcb359c15b6f59aafda2bfff381c4097f78aa67",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T14:15:14.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "953be78db26acf8d4a7f6760cf7a030fee785fc6",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T14:15:14.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "d0b4b32c8e9046246a7ea20025eb06eaba3d7a6b",
+      "repo": "NVIDIA/TransformerEngine",
+      "model": "openai_codex",
+      "date": "2026-10-04T14:09:14.000-07:00",
+      "language": "Python",
+      "stars": 3568
+    },
+    {
+      "sha": "2c19fa3377e1cdf267bfa9d69658e2fb17cc7aa3",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T14:07:20.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "e1ad78547d9d86f5796fbca95f431520ac5f5ebd",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T14:04:52.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "97be21cbe7acb583680b10b81ec7351bed90e37f",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T14:01:34.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "96ca87439a352bf6cdb99fab8c14062d3998f752",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-04T23:00:37.000+02:00",
+      "language": "TypeScript",
+      "stars": 85
+    },
+    {
+      "sha": "d96ceee7f60cb38cb8e9fda1606fa44b73d46898",
+      "repo": "wingedsheep/argentum-engine",
+      "model": "openai_codex",
+      "date": "2026-10-04T22:56:47.000+02:00",
+      "language": "Kotlin",
+      "stars": 70
+    },
+    {
+      "sha": "44b074f802e3dc9c1addc169f5cf40730fa9268d",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:56:06.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "3c46c9f07e9b2499a5c4855af653c67758879e8d",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:53:08.000-07:00",
+      "language": "C",
+      "stars": 291
+    },
+    {
+      "sha": "fdb47a8efb1bd807acfe39b957e8b26b466749b4",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-04T22:50:26.000+02:00",
+      "language": "TypeScript",
+      "stars": 85
+    },
+    {
+      "sha": "9bfd78d3bb608559624150620d61af7b0ec75f82",
+      "repo": "rubys/roundhouse",
+      "model": "openai_codex",
+      "date": "2026-10-04T16:48:50.000-04:00",
+      "language": "Rust",
+      "stars": 387
+    },
+    {
+      "sha": "2bf99998ed5e8258d04c1bba5bfc193e32a28e43",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:47:30.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "ca49aac23999520995d0fdc5d11930a099b0bf3f",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:37:03.000-07:00",
+      "language": "C",
+      "stars": 291
+    },
+    {
+      "sha": "457b3361cf3a8563f8bdcc14af50bc1760849c64",
+      "repo": "openooxml/betteroffice",
+      "model": "openai_codex",
+      "date": "2026-10-04T22:36:57.000+02:00",
+      "language": "Rust",
+      "stars": 266
+    },
+    {
+      "sha": "113a948a58864ee7c375db077f6b6595f19b56e8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:34:35.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "e8222ee0da62b5e7ed292fe47b8260bec449a7f6",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T04:30:24.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "2c341e291bbe2607567614dcc335c2f222fcba12",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T04:28:03.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "ad0c06d607f16e0bade8720974e7879803e7ece5",
+      "repo": "wingedsheep/argentum-engine",
+      "model": "openai_codex",
+      "date": "2026-10-04T22:27:29.000+02:00",
+      "language": "Kotlin",
+      "stars": 70
+    },
+    {
+      "sha": "98ecb89b74bc901e55781000fabc782a716e4024",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-04T22:18:01.000+02:00",
+      "language": "TypeScript",
+      "stars": 85
+    },
+    {
+      "sha": "8a8ddb37bc604feb05276dc81a0eebba8b17b042",
+      "repo": "Dicklesworthstone/frankensqlite",
+      "model": "openai_codex",
+      "date": "2026-10-04T16:16:15.000-04:00",
+      "language": "Rust",
+      "stars": 241
+    },
+    {
+      "sha": "9542d1398972e5ddb08dbdb084b432eadfecc87d",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-04T22:14:12.000+02:00",
+      "language": "TypeScript",
+      "stars": 85
+    },
+    {
+      "sha": "2ae7fc67bfa20e6979ca7316e390eeb22095bfde",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:13:53.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "3f2240f526730ea277037bcf0f14bb987cc1068c",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-04T22:10:28.000+02:00",
+      "language": "TypeScript",
+      "stars": 85
+    },
+    {
+      "sha": "75d1f4ec002b2f68b2c542e48ba20f11df298ed8",
+      "repo": "wangbinquan/agent-workflow",
+      "model": "openai_codex",
+      "date": "2026-10-05T04:06:03.000+08:00",
+      "language": "TypeScript",
+      "stars": 56
+    },
+    {
+      "sha": "984c91ab10f855b24b84b8100495cbece278641a",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:05:15.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "d4c9dcab84d3ef0c60001dc856e2baf6d74cae54",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:04:32.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "bd5176665d0483e445e372e60aa85f8bf9a7b4f8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-10-04T13:01:47.000-07:00",
+      "language": "TypeScript",
+      "stars": 428
+    },
+    {
+      "sha": "53d9460364cf9d3687e43f93a6864e5564d4607f",
+      "repo": "abrignoni/ALEAPP",
+      "model": "openai_codex",
+      "date": "2026-10-04T16:01:42.000-04:00",
+      "language": "Python",
+      "stars": 948
+    },
+    {
+      "sha": "12bb3059a32b45a5f39f1ea9285ccb2e39efd03a",
+      "repo": "lambda-symbolics/autolith",
+      "model": "gemini",
+      "date": "2026-10-04T23:33:37.000+02:00",
+      "language": "Common Lisp",
+      "stars": 410
+    },
+    {
+      "sha": "2012b05e94810f5f2f817492ef1b27d058f93acc",
+      "repo": "CWNU-Open-Source-Community/Universal-Code",
+      "model": "gemini",
+      "date": "2026-10-05T04:20:55.000+08:00",
+      "language": "Go",
+      "stars": 177
+    },
+    {
+      "sha": "55d9ac5110e538e8f0865c0b05844a2b47928488",
+      "repo": "vllm-project/aibrix",
+      "model": "gemini",
+      "date": "2026-10-04T09:35:18.000-07:00",
+      "language": "Go",
+      "stars": 5125
+    },
+    {
+      "sha": "090fc06834723cb8b3e76e712b714ecb39517682",
+      "repo": "lambda-symbolics/autolith",
+      "model": "gemini",
+      "date": "2026-10-04T16:48:00.000+02:00",
+      "language": "Common Lisp",
+      "stars": 410
+    }
+  ],
+  "totals": {
+    "claude": 10,
+    "openai_codex": 137,
+    "gemini": 4
+  },
+  "repos_tracked": 31,
+  "repo_activity": {
+    "kirill-markin/flashcards-open-source-app": {
+      "weekly_total": 82
+    },
+    "rthalley/dnspython": {
+      "weekly_total": 10
+    },
+    "classmoji/classmoji": {
+      "weekly_total": 8
+    },
+    "harshalgajjar/Reminal": {
+      "weekly_total": 21
+    },
+    "zfogg/ascii-chat": {
+      "weekly_total": 95
+    },
+    "dikeckaan/mu300-linux": {
+      "weekly_total": 95
+    },
+    "smithersai/smithers": {
+      "weekly_total": 780
+    },
+    "NVIDIA/TransformerEngine": {
+      "weekly_total": 1
+    },
+    "vllm-project/aibrix": {
+      "weekly_total": 15
+    },
+    "sambanks/octabam": {
+      "weekly_total": 80
+    },
+    "TeamHypersomnia/Hypersomnia": {
+      "weekly_total": 60
+    },
+    "stripe/stripe-android": {
+      "weekly_total": 2
+    },
+    "CWNU-Open-Source-Community/Universal-Code": {
+      "weekly_total": 68
+    },
+    "WillEhrendreich/SageFs": {
+      "weekly_total": 212
+    },
+    "fitlab-ai/agent-infra": {
+      "weekly_total": 8
+    },
+    "rubys/roundhouse": {
+      "weekly_total": 71
+    },
+    "Open-BFME/Open-BFME-1": {
+      "weekly_total": 1864
+    },
+    "dolthub/doltlite": {
+      "weekly_total": 20
+    },
+    "lambda-symbolics/autolith": {
+      "weekly_total": 83
+    },
+    "hyperb1iss/sibyl": {
+      "weekly_total": 2
+    },
+    "matrixarkai/TemporalStore": {
+      "weekly_total": 12
+    },
+    "wingedsheep/argentum-engine": {
+      "weekly_total": 161
+    },
+    "openooxml/betteroffice": {
+      "weekly_total": 35
+    },
+    "abrignoni/ALEAPP": {
+      "weekly_total": 16
+    },
+    "alfadur7/llm-wiki-newsroom": {
+      "weekly_total": 8
+    },
+    "coco-research/coco": {
+      "weekly_total": 4
+    }
+  }
+}
