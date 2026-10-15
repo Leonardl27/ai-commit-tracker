@@ -1,0 +1,1356 @@
+{
+  "date": "2026-10-14",
+  "commits": [
+    {
+      "sha": "b1444fc9b9bda9ca78007727782f11e3e9492f91",
+      "repo": "AlexanderMattTurner/agent-glovebox",
+      "model": "claude",
+      "date": "2026-10-14T23:59:55.000Z",
+      "language": "Python",
+      "stars": 67
+    },
+    {
+      "sha": "87b4644d88e3475c7330d98cda1a636138421d00",
+      "repo": "miurla/morphic",
+      "model": "claude",
+      "date": "2026-10-15T08:59:45.000+09:00",
+      "language": "TypeScript",
+      "stars": 9172
+    },
+    {
+      "sha": "4b0528357d04519e1fbee6b814bb7feef56e51a1",
+      "repo": "anolilab/lunora",
+      "model": "claude",
+      "date": "2026-10-15T01:59:18.000+02:00",
+      "language": "TypeScript",
+      "stars": 284
+    },
+    {
+      "sha": "a846653f90caf0b10225855665ac3e9e4f7f7061",
+      "repo": "dl1683/Latent-Space-Reasoning",
+      "model": "claude",
+      "date": "2026-10-14T19:59:04.000-04:00",
+      "language": "Python",
+      "stars": 184
+    },
+    {
+      "sha": "fb9fd069f7d49399ec1c9ae951ab92ab6bf731cc",
+      "repo": "Kobar-Project/KoBar",
+      "model": "claude",
+      "date": "2026-10-15T02:59:02.000+03:00",
+      "language": "TypeScript",
+      "stars": 95
+    },
+    {
+      "sha": "9ab4716888e0dff8fd372c742f56a9e1d7910c8a",
+      "repo": "Cawlumm/lyftr",
+      "model": "claude",
+      "date": "2026-10-14T19:59:01.000-04:00",
+      "language": "TypeScript",
+      "stars": 359
+    },
+    {
+      "sha": "5abc502051cca0892de23ba094c128dd0690ced7",
+      "repo": "cartography-cncf/cartography",
+      "model": "claude",
+      "date": "2026-10-14T16:58:59.000-07:00",
+      "language": "Python",
+      "stars": 4139
+    },
+    {
+      "sha": "1930aee44a17ab8e1675fefc62fcbd3bd4e9e331",
+      "repo": "ClickHouse/ClickHouse",
+      "model": "claude",
+      "date": "2026-10-14T23:58:49.000Z",
+      "language": "C++",
+      "stars": 50426
+    },
+    {
+      "sha": "cafce07da59e759fe541962e24196f196171fc5f",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-14T16:59:34.000-07:00",
+      "language": "C",
+      "stars": 320
+    },
+    {
+      "sha": "2d1659da3a854e934410197eaeb7a60bd4e8d63c",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-14T16:57:50.000-07:00",
+      "language": "C",
+      "stars": 320
+    },
+    {
+      "sha": "30aaa3b7a8897193b631647479a9e52923c6129a",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-14T16:57:50.000-07:00",
+      "language": "C",
+      "stars": 320
+    },
+    {
+      "sha": "6df6d4d13d606d23cbe1599bf1d6ae2e06e33ddc",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-14T16:57:50.000-07:00",
+      "language": "C",
+      "stars": 320
+    },
+    {
+      "sha": "4a8cff5af744e17258d5dacf0ea97c551ebf6819",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T19:57:15.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "d0e54bf43bd254815823541f16c55ece8cc822f6",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T19:57:14.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "dd97f7e2be3f52ad3d7367b339c31117dde208ae",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-10-14T23:56:59.000Z",
+      "language": "Rust",
+      "stars": 1567
+    },
+    {
+      "sha": "94881160e4de5161cfb134d2bdb9ef6a7885c32b",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-10-14T23:56:00.000Z",
+      "language": "Rust",
+      "stars": 1567
+    },
+    {
+      "sha": "c2dac2a5a3716ea32d1418b3808bd903c2e240cf",
+      "repo": "okou-ai/okou",
+      "model": "openai_codex",
+      "date": "2026-10-14T23:53:31.000Z",
+      "language": "TypeScript",
+      "stars": 1157
+    },
+    {
+      "sha": "724df6dd4cdcf054bf7a7983895452f9ef9329e6",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-15T01:51:28.000+02:00",
+      "language": "TypeScript",
+      "stars": 94
+    },
+    {
+      "sha": "8353a20667dde0cff5f0cad24f7d6a7da68534a6",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-10-14T23:47:58.000Z",
+      "language": "Rust",
+      "stars": 1567
+    },
+    {
+      "sha": "0d8861e1326a3c56796c4fd3dcaa0dafdd608e05",
+      "repo": "bedrock-mc/cinnabar",
+      "model": "openai_codex",
+      "date": "2026-10-15T02:46:02.000+03:00",
+      "language": "Rust",
+      "stars": 84
+    },
+    {
+      "sha": "9ed9650cad4c9b22cb8d32f4a9ba8050cde20a62",
+      "repo": "storytold/filmcraft",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:43:05.000-06:00",
+      "language": "Rust",
+      "stars": 13551
+    },
+    {
+      "sha": "5f039f54e64d7fe3128818b1f3ccf045f0ced935",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-10-14T23:40:56.000Z",
+      "language": "Rust",
+      "stars": 1567
+    },
+    {
+      "sha": "de6de7a2ad32623d2a2672e2174b2df798eeffc9",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-10-14T23:37:28.000Z",
+      "language": "Rust",
+      "stars": 1567
+    },
+    {
+      "sha": "39db144ad61342d4c2133634f88b8815fb369d13",
+      "repo": "Stage-11-Agentics/c11",
+      "model": "openai_codex",
+      "date": "2026-10-14T19:37:13.000-04:00",
+      "language": "Swift",
+      "stars": 53
+    },
+    {
+      "sha": "a493ae17969fd1d0dc80a3f712b5e3572beb3a17",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T19:30:24.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "6cdffa265e217bfcd1bc1a3b12baf88241ab3221",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T19:30:24.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "b353e7e83d7aa666329d856bf351857b36869173",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T19:28:39.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "d7cb23490f41aa7d5633adad1662aafe402913c5",
+      "repo": "bedrock-mc/cinnabar",
+      "model": "openai_codex",
+      "date": "2026-10-15T02:21:37.000+03:00",
+      "language": "Rust",
+      "stars": 84
+    },
+    {
+      "sha": "26bf31e4ec9a22c47ad7a1289dbe00d49dc73e94",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-15T01:01:15.000+02:00",
+      "language": "TypeScript",
+      "stars": 94
+    },
+    {
+      "sha": "0aa2d4d7c056041377e26195f81a21f7745e4a9b",
+      "repo": "bedrock-mc/cinnabar",
+      "model": "openai_codex",
+      "date": "2026-10-15T01:49:47.000+03:00",
+      "language": "Rust",
+      "stars": 84
+    },
+    {
+      "sha": "1b14398fcc7f5b4c93ed19dc0f6e58ddf3f0f432",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:47:25.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "22a307613d4b871b5594eac53f6c4bab2a566c7b",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:47:25.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "0577a12051627c242255f29932742c1ab8fda7fd",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-14T15:47:10.000-07:00",
+      "language": "C",
+      "stars": 320
+    },
+    {
+      "sha": "5fafe6df58b3b65fc93b72ec94c480228b4eb5ce",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:45:29.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "18d78a80abac1ca25034f631b1978286b294e261",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:45:29.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "1becd79fa97d7f51848c36c9dee0d3e61b6de20b",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:43:48.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "611886eda7e593c262eac57f9b9a8aff58b67c82",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:43:48.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "1b63965f04e7610df48326d344aec33837782e4f",
+      "repo": "getsentry/toolkit",
+      "model": "openai_codex",
+      "date": "2026-10-14T15:42:34.000-07:00",
+      "language": "TypeScript",
+      "stars": 929
+    },
+    {
+      "sha": "ed3827c1fa4276cc9bb9ab86f506614ce3ec6f24",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:38:59.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "52e930ac191a041acd15cbae46f9c6dbd4d1e46d",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:38:58.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "c0c18832dd2441e36d170ee27e046320de12b7ed",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:37:52.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "3952254c392665b59ed5bbeac53de745564a54d5",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:37:52.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "258dffb1e886a68c5d9024715df158166bb1d1fb",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-14T15:31:42.000-07:00",
+      "language": "C",
+      "stars": 320
+    },
+    {
+      "sha": "0b432e3834f983d03b2a324c8953522ddda22b57",
+      "repo": "storytold/filmcraft",
+      "model": "openai_codex",
+      "date": "2026-10-14T16:24:29.000-06:00",
+      "language": "Rust",
+      "stars": 13551
+    },
+    {
+      "sha": "5c041d7b503153ad3b313b39f88c8701a392e240",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-15T00:20:31.000+02:00",
+      "language": "TypeScript",
+      "stars": 94
+    },
+    {
+      "sha": "5f2e18e1cd861eae5484ebf56fcf6282bdc948ea",
+      "repo": "storytold/wordcraft",
+      "model": "openai_codex",
+      "date": "2026-10-14T18:17:18.000-04:00",
+      "language": "Rust",
+      "stars": 12777
+    },
+    {
+      "sha": "b4336c440dac73f576f1b8cbc7ab6f78d136f9ad",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-10-14T22:12:57.000Z",
+      "language": "Rust",
+      "stars": 1567
+    },
+    {
+      "sha": "d28d0f2c13c435f06d9bbcde01707f6bd92296bb",
+      "repo": "harfbuzz/harfrust",
+      "model": "openai_codex",
+      "date": "2026-10-14T16:08:13.000-06:00",
+      "language": "Rust",
+      "stars": 315
+    },
+    {
+      "sha": "0e6380f6b164a1cb2edcf45a0aaa17cbacb3cf2b",
+      "repo": "googlefonts/fontations",
+      "model": "openai_codex",
+      "date": "2026-10-14T16:07:05.000-06:00",
+      "language": "Rust",
+      "stars": 842
+    },
+    {
+      "sha": "80541d38fa4b402117101521c9a4501a81edebfc",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-15T00:01:27.000+02:00",
+      "language": "TypeScript",
+      "stars": 94
+    },
+    {
+      "sha": "811aea0d1144526cb2462ad4b3a37011e3b632ca",
+      "repo": "rorygallagher2024/glasshouse",
+      "model": "openai_codex",
+      "date": "2026-10-14T22:57:48.000+01:00",
+      "language": "JavaScript",
+      "stars": 662
+    },
+    {
+      "sha": "b3d1336081d48df573e3efd3525b506fa96dfdca",
+      "repo": "rorygallagher2024/glasshouse",
+      "model": "openai_codex",
+      "date": "2026-10-14T22:57:48.000+01:00",
+      "language": "JavaScript",
+      "stars": 662
+    },
+    {
+      "sha": "dd4a0f4a4004b06d452bf956011008ce74c2315d",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:48:11.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "80316b87ed77492a0573c2f13b8b3c7a0af07680",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:48:11.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "e9abd97c56138398a3bb4b8ad4aeeb242a91653d",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:44:45.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "acf139766a07842b331d643639a447005df37ac2",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:44:45.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "f1b3926916f2c85b405f81f99c34e1c640641974",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:44:17.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "19644ff2e666e9966280b4eb8e247e6400e1d52e",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:43:20.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "1a9d6f605708eba8294a81193086f690a2bc9f67",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:43:15.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "5313d62d50f2a8c8671a196493c6974ceb5c7b46",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:43:12.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "c8cd9fad73baac73a7fc5ffde1f29bacdae95b0e",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:43:02.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "bc8f7b432433ff3f4722cd91ad13241c90916299",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:57.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "008110d1dcb779ab4b97b830a63c06849b7452e1",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:52.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "bac2ac185e6100440c9de1bd3644cba97b3269e1",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:47.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "1c24d8f97bdbe9768ddbeb5c5f9bff3573ff6b93",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:42.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "9969817bf2f70c29e4fc47a908f1798ebec22775",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:36.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "565f9f8d64d269742917872ca3bd8bb31d12ffad",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:32.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "6cde316d716140adfe36bd7303fe2cc10c440d4a",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:26.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "e84f68d9ff233742096a09d2f3b7aa7370ad90ec",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:20.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "18c02c8492af321a3d4611aedce56bae6c54836f",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:14.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "258a2072612aaa245a46560acdb8cd090ce9e0b1",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:08.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "6cdf761a8950fecb509ef3c660df4a0edab3b9ad",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:42:02.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "c194fe0e51d57d229cc893d0008e341c708eb8fe",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:55.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "df6d105475efd145eaae54b5442dab1e589c7056",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:49.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "b2f9ecd643d70a90fea9a1a0d17fc1f75d3b7403",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:42.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "ac9e2e4cf88a81a4cc43b49f28cdc9dbf0907c78",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:37.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "ef6f9d94a7ea5127006df96ec6b9575dcbf9ed7e",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:32.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "34d442fe0786ae64fa1ca68e1b0c342676e518ce",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:28.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "e51f92ff2732d91a4619da627aea5fbc46ebbd15",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:25.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "a3cd156916f867f4c5d92eadd7e953f719104a83",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:21.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "7e4489945d9ac18acb828c463ba58be593c952d6",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:18.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "762d01dcc3b8e4e7f24179d0707ccfd308f646f8",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:13.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "619d69a0aa91c320263110124034f09763fb6407",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:41:09.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "3006dab850e1178e0ddb78142d8c2043a18f0dc0",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:38:05.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "f631202931b1b48b64b122a15dba9c1bc3a348ff",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-10-14T14:34:23.000-07:00",
+      "language": "C",
+      "stars": 320
+    },
+    {
+      "sha": "b112c7959c90de678dea775d114a1deb2133eb73",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:32:41.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "7c30cc0594a097d9eaeefe225af82e699b3e9468",
+      "repo": "stripe/stripe-android",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:32:15.000-04:00",
+      "language": "Kotlin",
+      "stars": 1546
+    },
+    {
+      "sha": "a603761b66e5f0843140b0ddd22683457ec5fb88",
+      "repo": "stripe/stripe-react-native",
+      "model": "openai_codex",
+      "date": "2026-10-14T21:25:11.000Z",
+      "language": "TypeScript",
+      "stars": 1428
+    },
+    {
+      "sha": "082423000e9138e34819812c69e3145ee5152e70",
+      "repo": "paperclipai/paperclip",
+      "model": "openai_codex",
+      "date": "2026-10-14T16:24:41.000-05:00",
+      "language": "TypeScript",
+      "stars": 102409
+    },
+    {
+      "sha": "b161bcbd5df923e1bf485b78750950df85f2e104",
+      "repo": "mattias800/prosper",
+      "model": "openai_codex",
+      "date": "2026-10-14T23:22:03.000+02:00",
+      "language": "C++",
+      "stars": 204
+    },
+    {
+      "sha": "98133c88a4e00cd64c5fb8631e43e7a73248f927",
+      "repo": "kirill-markin/flashcards-open-source-app",
+      "model": "openai_codex",
+      "date": "2026-10-14T23:19:03.000+02:00",
+      "language": "TypeScript",
+      "stars": 94
+    },
+    {
+      "sha": "3172d113e00dbb7cc62f564d0f9d1f9dba8fb4fc",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:16:42.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "827cad3a715d38ec4a62fe1badba5c5d993e6494",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:16:42.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "45db9e457c2575e29f603cd2b2d37f62b9a8b31f",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:12:46.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "bc3c9618a05d4e10d50452019169aa56aa39ae5c",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:12:45.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "ca9a8330ad901ae820e4f2a0bbeaead4379c4132",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:53.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "c83aa7d774c979d5ebc1aa7ab45208672d6c8896",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:49.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "fd3a275e494106f58e6cbb714362fb899033a57d",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:44.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "933ba4473f05f2a9865cba327f1c68631b5c630e",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:39.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "e21c14afa63b58a8e8943cce3e58a4682fc15b24",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:35.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "3e2779f572f4eebdb4a0df89a42422de8d401017",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:31.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "977a9b51daf66cd3b7cb141c65a70b0076c9d919",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:26.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "70be8c08d66975c5e147a18241c1ac7757d8f4b1",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:22.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "d636d457a86db44da3f312b76a806c9e0614099d",
+      "repo": "bedrock-mc/cinnabar",
+      "model": "openai_codex",
+      "date": "2026-10-15T00:05:19.000+03:00",
+      "language": "Rust",
+      "stars": 84
+    },
+    {
+      "sha": "fb9b27861bbd850d2589dec0be3ea0b7d1b75578",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:17.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "fd8cec3edb2248e405ffaa9ee6728b7572f4880a",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:12.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "2bde71866a213e52623e729c3c059a1ef63aabec",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:07.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "a2096c284f8ef694253753af804c3034e368346a",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:05:03.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "dd3263fd7c7910d9b15287963e84a867fa95e43e",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:58.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "16c2b5e6df4fcc662d4e009d80695ba56807b46b",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:56.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "4e64fcf89735138e3cc2cda37944589574a5fea2",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:51.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "7e7942896bbede1f55d4b1d97564abaab8d52157",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:46.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "25e74d716bc4052450af6586df13ed0c959853d2",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:40.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "ed748052fbffc4dc290b05ed09efab09d3656964",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:34.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "13cb290b041b97904b81aed078be26f4ae362f03",
+      "repo": "steveseguin/b70-optimization-lab",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:34.000-04:00",
+      "language": "Python",
+      "stars": 68
+    },
+    {
+      "sha": "905ac372d899ac66d89c02763c9e83ecea0118df",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:28.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "f2bdf663960b2dda4866463dad7d8d37deaf5738",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:23.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "cc87400c5751077bf429f942dbda6cb353b9b5c7",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:17.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "99cc06ba15c25cc0000fda8bde4d0771a9e8a61d",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:11.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "4f1d26c7eab683e44f15316b2492ed36508baffa",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:04:04.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "0f45917edc6b2b0e0edeeb3623122da60f937354",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:03:59.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "9a321c1ef92d896df9ad14bd161bc3330c50a68e",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:03:54.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "1100eafaada87ce1218e80f85a3e64fdb38bbee3",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:03:49.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "a1c852843607df579a617ac13004a7b41ff598e2",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:03:44.000-04:00",
+      "language": "C++",
+      "stars": 61
+    },
+    {
+      "sha": "5cbef425bff1cbea01f3ba6a30fba65d3ea1cc18",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:02:21.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "79346e09fdecea3a48363746471347c4658db3e8",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:01:05.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "a3dd711dc2d048316c4eac3970b7fed3d0d4b304",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-10-14T17:01:05.000-04:00",
+      "language": "C++",
+      "stars": 70
+    },
+    {
+      "sha": "f0227c62c5087b68f8ca8bcc3be7787c627fdbff",
+      "repo": "sno-ai/sno-station",
+      "model": "openai_codex",
+      "date": "2026-10-14T14:00:19.000-07:00",
+      "language": "TypeScript",
+      "stars": 742
+    },
+    {
+      "sha": "fb4d19eb8e02389ce34566771489c0e4e0ac0310",
+      "repo": "sno-ai/sno-station",
+      "model": "openai_codex",
+      "date": "2026-10-14T14:00:19.000-07:00",
+      "language": "TypeScript",
+      "stars": 742
+    },
+    {
+      "sha": "a6111ae03debc76ff38d01211960b1d2a2dfc534",
+      "repo": "sno-ai/sno-station",
+      "model": "openai_codex",
+      "date": "2026-10-14T14:00:19.000-07:00",
+      "language": "TypeScript",
+      "stars": 742
+    },
+    {
+      "sha": "b002922d091d4721582ab8e0e75564d5d30e23e2",
+      "repo": "sno-ai/sno-station",
+      "model": "openai_codex",
+      "date": "2026-10-14T14:00:19.000-07:00",
+      "language": "TypeScript",
+      "stars": 742
+    },
+    {
+      "sha": "c3ed85ef987759ee54a6bce275490cde2a238dc1",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-10-14T23:46:26.000Z",
+      "language": "Dart",
+      "stars": 180214
+    },
+    {
+      "sha": "200fdfbdce72acfff65d38b692cede474ff505e1",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-10-14T22:30:30.000Z",
+      "language": "Dart",
+      "stars": 180214
+    },
+    {
+      "sha": "ee9c607a3da92169b2f37ce445e68509cf5a2ccd",
+      "repo": "googleapis/google-cloud-rust",
+      "model": "gemini",
+      "date": "2026-10-14T22:18:52.000Z",
+      "language": "Rust",
+      "stars": 963
+    },
+    {
+      "sha": "88900301fb3f7f4546d269b8001d9232465adc43",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-10-14T21:27:30.000Z",
+      "language": "Dart",
+      "stars": 5322
+    },
+    {
+      "sha": "4b4d9e6e55842a0f27b81bdd9e0edc5ac1eca09f",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-10-14T20:42:17.000Z",
+      "language": "Dart",
+      "stars": 5322
+    },
+    {
+      "sha": "645ccabbb8c3f957566cf0f598023222e8d370ee",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-10-14T20:40:29.000Z",
+      "language": "Dart",
+      "stars": 5322
+    },
+    {
+      "sha": "1ae84dd3cac11c9e6041ea7b048d4af444c8f75a",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-10-14T20:31:07.000Z",
+      "language": "Dart",
+      "stars": 180214
+    },
+    {
+      "sha": "5f8a568fe3d18e5de6f69131ee66c08b791ea56e",
+      "repo": "firebase/firebase-android-sdk",
+      "model": "gemini",
+      "date": "2026-10-14T15:45:29.000-04:00",
+      "language": "Java",
+      "stars": 2571
+    },
+    {
+      "sha": "ece6f9ddd3eaabba8fcaf086465e4e12aeb879b8",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-10-14T19:12:53.000Z",
+      "language": "Dart",
+      "stars": 5322
+    },
+    {
+      "sha": "8f190aa554666459496785f29a549bb0932a4b6d",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-10-14T18:53:57.000Z",
+      "language": "Dart",
+      "stars": 5322
+    },
+    {
+      "sha": "d0f80ce71784dc65d01dbc9748bf3244e59660b8",
+      "repo": "flutter/website",
+      "model": "gemini",
+      "date": "2026-10-14T10:50:27.000-07:00",
+      "language": "Dart",
+      "stars": 3127
+    },
+    {
+      "sha": "aa10b07f9f6874810dd7e1ef92c7d9a0ba922c20",
+      "repo": "firebase/firebase-ios-sdk",
+      "model": "gemini",
+      "date": "2026-10-14T10:45:22.000-07:00",
+      "language": "C++",
+      "stars": 6967
+    },
+    {
+      "sha": "2fe10df50ee66e900142e698cdc1e26c794b17bd",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-10-14T17:34:00.000Z",
+      "language": "Dart",
+      "stars": 5322
+    },
+    {
+      "sha": "c5b32231ecba26acab0179de3a054163bb71a324",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-10-14T16:09:32.000Z",
+      "language": "Dart",
+      "stars": 180214
+    },
+    {
+      "sha": "426be968b5ebea7cbfcfff90be42771c0d763483",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-10-14T16:00:32.000Z",
+      "language": "Dart",
+      "stars": 180214
+    },
+    {
+      "sha": "3e3d26f35f39e16f5ca4e8889b9c76193633fb39",
+      "repo": "google-gemini/cookbook",
+      "model": "gemini",
+      "date": "2026-10-14T15:30:50.000+02:00",
+      "language": "Jupyter Notebook",
+      "stars": 17836
+    },
+    {
+      "sha": "4727e46ed92be12ca729920854e4536470f76cec",
+      "repo": "Adyen/adyen-web",
+      "model": "gemini",
+      "date": "2026-10-14T12:36:48.000Z",
+      "language": "TypeScript",
+      "stars": 255
+    },
+    {
+      "sha": "079f5d2025ef6d654989ddbadad1d72c49528bbd",
+      "repo": "ghostty-org/ghostty",
+      "model": "gemini",
+      "date": "2026-10-14T13:52:55.000+02:00",
+      "language": "Zig",
+      "stars": 62237
+    },
+    {
+      "sha": "571f15d2991c7701fc1b98443d19595d98b5ee2e",
+      "repo": "unicode-org/icu4x",
+      "model": "gemini",
+      "date": "2026-10-14T08:12:57.000-03:00",
+      "language": "Rust",
+      "stars": 1872
+    },
+    {
+      "sha": "807671147b6a2208e5086673a91cdc8b9f7dffb7",
+      "repo": "datacommonsorg/data",
+      "model": "gemini",
+      "date": "2026-10-14T14:15:47.000+05:30",
+      "language": "HTML",
+      "stars": 78
+    },
+    {
+      "sha": "adfcab5f448c8d7d3d408035ebbd4557a184ce2b",
+      "repo": "firebase/firebase-tools",
+      "model": "gemini",
+      "date": "2026-10-13T19:14:38.000-07:00",
+      "language": "TypeScript",
+      "stars": 4473
+    },
+    {
+      "sha": "b1e161b7bb5e9c52d74ef60fc0d5b5e6157bc750",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-10-14T01:49:54.000Z",
+      "language": "Dart",
+      "stars": 180214
+    },
+    {
+      "sha": "040f2454a0084360ff10842f1080753f028cdf81",
+      "repo": "firebase/firebase-ios-sdk",
+      "model": "gemini",
+      "date": "2026-10-13T20:24:31.000-04:00",
+      "language": "C++",
+      "stars": 6967
+    }
+  ],
+  "totals": {
+    "claude": 8,
+    "openai_codex": 123,
+    "gemini": 23
+  },
+  "repos_tracked": 40,
+  "repo_activity": {
+    "miurla/morphic": {
+      "weekly_total": 10
+    },
+    "googleapis/google-cloud-rust": {
+      "weekly_total": 25
+    },
+    "getsentry/toolkit": {
+      "weekly_total": 18
+    },
+    "storytold/filmcraft": {
+      "weekly_total": 303
+    },
+    "steveseguin/b70-optimization-lab": {
+      "weekly_total": 432
+    },
+    "stripe/stripe-android": {
+      "weekly_total": 39
+    },
+    "AlexanderMattTurner/agent-glovebox": {
+      "weekly_total": 3138
+    },
+    "Kobar-Project/KoBar": {
+      "weekly_total": 8
+    },
+    "Stage-11-Agentics/c11": {
+      "weekly_total": 45
+    },
+    "flutter/flutter": {
+      "weekly_total": 89
+    },
+    "Open-BFME/Open-BFME-2": {
+      "weekly_total": 10416
+    },
+    "okou-ai/okou": {
+      "weekly_total": 919
+    },
+    "firebase/firebase-android-sdk": {
+      "weekly_total": 7
+    },
+    "datacommonsorg/data": {
+      "weekly_total": 7
+    },
+    "dolthub/doltlite": {
+      "weekly_total": 209
+    },
+    "moq-dev/moq": {
+      "weekly_total": 298
+    },
+    "kirklandsig/halo2-decompiled": {
+      "weekly_total": 1001
+    },
+    "sno-ai/sno-station": {
+      "weekly_total": 180
+    },
+    "Adyen/adyen-web": {
+      "weekly_total": 8
+    },
+    "rorygallagher2024/glasshouse": {
+      "weekly_total": 189
+    },
+    "cartography-cncf/cartography": {
+      "weekly_total": 39
+    },
+    "anolilab/lunora": {
+      "weekly_total": 530
+    },
+    "ghostty-org/ghostty": {
+      "weekly_total": 86
+    },
+    "firebase/firebase-ios-sdk": {
+      "weekly_total": 28
+    },
+    "bedrock-mc/cinnabar": {
+      "weekly_total": 663
+    },
+    "flutter/packages": {
+      "weekly_total": 35
+    },
+    "mattias800/prosper": {
+      "weekly_total": 154
+    },
+    "firebase/firebase-tools": {
+      "weekly_total": 20
+    },
+    "dl1683/Latent-Space-Reasoning": {
+      "weekly_total": 127
+    },
+    "kirill-markin/flashcards-open-source-app": {
+      "weekly_total": 186
+    },
+    "harfbuzz/harfrust": {
+      "weekly_total": 10
+    },
+    "paperclipai/paperclip": {
+      "weekly_total": 234
+    },
+    "stripe/stripe-react-native": {
+      "weekly_total": 9
+    },
+    "storytold/wordcraft": {
+      "weekly_total": 547
+    },
+    "Cawlumm/lyftr": {
+      "weekly_total": 15
+    },
+    "ClickHouse/ClickHouse": {
+      "weekly_total": 1321
+    },
+    "googlefonts/fontations": {
+      "weekly_total": 11
+    }
+  }
+}
