@@ -1,0 +1,1878 @@
+{
+  "date": "2026-11-01",
+  "commits": [
+    {
+      "sha": "16f76f20a493e7f9768dda2d0cb91a84142df32c",
+      "repo": "lambdasec/frame",
+      "model": "claude",
+      "date": "2026-11-02T07:59:58.000+08:00",
+      "language": "Python",
+      "stars": 52
+    },
+    {
+      "sha": "7412aa0be2eb932131b14dcdb377e3a6ce8da888",
+      "repo": "arjaythedev/multicore-server-challenge",
+      "model": "claude",
+      "date": "2026-11-01T23:59:55.000Z",
+      "language": "Rust",
+      "stars": 71
+    },
+    {
+      "sha": "f44a350772f241835e340baddb843e6a4b9fb140",
+      "repo": "willfaust/Madeira",
+      "model": "claude",
+      "date": "2026-11-01T23:59:53.000Z",
+      "language": "C",
+      "stars": 3031
+    },
+    {
+      "sha": "c0923998ecb766b4d651218b892167150e0b5995",
+      "repo": "willfaust/Madeira",
+      "model": "claude",
+      "date": "2026-11-01T23:59:53.000Z",
+      "language": "C",
+      "stars": 3031
+    },
+    {
+      "sha": "ba96094fa784f4e52f2a58ed06daf426e783c426",
+      "repo": "ClickHouse/ClickHouse",
+      "model": "claude",
+      "date": "2026-11-01T23:59:47.000Z",
+      "language": "C++",
+      "stars": 50716
+    },
+    {
+      "sha": "975be475326f3fb8ba1d6442d06c4129f6c0e9ea",
+      "repo": "maddada/Ghostex",
+      "model": "claude",
+      "date": "2026-11-02T03:59:44.000+04:00",
+      "language": "Rust",
+      "stars": 1573
+    },
+    {
+      "sha": "529942a09972e6786c86f82a81756b137bb11fcf",
+      "repo": "maddada/Ghostex",
+      "model": "claude",
+      "date": "2026-11-02T03:59:38.000+04:00",
+      "language": "Rust",
+      "stars": 1573
+    },
+    {
+      "sha": "bdfc84ad9c69bdd4fe55ea92f7069527089ed933",
+      "repo": "picatz/doh",
+      "model": "claude",
+      "date": "2026-11-01T18:59:28.000-05:00",
+      "language": "Go",
+      "stars": 122
+    },
+    {
+      "sha": "0050ee0f6b2e0fe3986002e86b009a66576ac259",
+      "repo": "tangency-labs/solidcore",
+      "model": "claude",
+      "date": "2026-11-02T00:59:18.000+01:00",
+      "language": "Rust",
+      "stars": 299
+    },
+    {
+      "sha": "227d7d713e7c613ea7a14fae675fdf0e24e5f400",
+      "repo": "BraxisAI/braxis-blueprint",
+      "model": "claude",
+      "date": "2026-11-01T18:59:07.000-05:00",
+      "language": "Python",
+      "stars": 104
+    },
+    {
+      "sha": "68ef9177639f715cb2e8cf4b3482f7bdbf21f500",
+      "repo": "frostwire/frostwire",
+      "model": "claude",
+      "date": "2026-11-01T16:59:04.000-07:00",
+      "language": "Java",
+      "stars": 604
+    },
+    {
+      "sha": "89bc92b31d5442cbc26f7a59ece0a0be64dccb5e",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:58:51.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "3a9559fe3c0f02585104584ac972470d9c774c7b",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:57:53.000Z",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "6649d317ad3e9a47911d6a9525753a1d36fba77f",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:56:59.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "e98d81cefe40790a21c79241d7fc41be16a4a5ec",
+      "repo": "OpenRAC/OpenRAC",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:52:21.000Z",
+      "language": "C",
+      "stars": 106
+    },
+    {
+      "sha": "12a8663fd01a57b7a8f3a8011d530bf798ff18de",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:51:02.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "162f5339cc165d96d06d0fddcfc8ff30568e2804",
+      "repo": "XTLS/Xray-docs-next",
+      "model": "openai_codex",
+      "date": "2026-11-02T07:49:29.000+08:00",
+      "language": "TypeScript",
+      "stars": 340
+    },
+    {
+      "sha": "2a5ec2bd47919fc9b3c4194a541e35d5d981606e",
+      "repo": "stablyai/orca",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:48:22.000Z",
+      "language": "TypeScript",
+      "stars": 113288
+    },
+    {
+      "sha": "5d5bd9b969bcdf2cb284ffeec28b3815ab5f66f6",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:48:07.000Z",
+      "language": "Rust",
+      "stars": 1594
+    },
+    {
+      "sha": "469ce0052d0352093dda5b900de4db80c2e9c194",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:47:33.000Z",
+      "language": "Rust",
+      "stars": 1594
+    },
+    {
+      "sha": "8a346213b6b9bc0e2512152c5be4e02036bea706",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:47:06.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "d2d1d45f2873c64e771f5b621c7888004d76fe38",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:40:49.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "6852cf4d272f393dd8f6dfadec4561305cd52bb0",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:39:56.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "e3e8af585ed10189f81f80f5aae1dd6057b38cbb",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:34:04.000-05:00",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "3954f34397d46f6f058d107bece098f3997e4209",
+      "repo": "openwong2kim/wmux",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:33:16.000+09:00",
+      "language": "TypeScript",
+      "stars": 444
+    },
+    {
+      "sha": "00ee9283065b0733e0f37bf0596bc25e2b7a3710",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:32:58.000-05:00",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "75a726f6dd96aec37360d213e20a56261e697317",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:32:47.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "6fc292b7e9a0108b451e06363e818095018b4b19",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:32:37.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "0091f1923bee3d55b49c6a0270b772fbc5000b69",
+      "repo": "dgunning/edgartools",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:32:25.000-05:00",
+      "language": "Python",
+      "stars": 2835
+    },
+    {
+      "sha": "e55110366edd5ea62ce09abda96e2fee2fdbfb38",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:28:36.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "940e573216062e17ad7ff9365d061f918f313859",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T15:26:43.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "873ccc1ecf5cffc6427d83e013bd255d4b47c4ea",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:22:33.000-05:00",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "d76839c19b72d112caba396f9507c39366125819",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:20:57.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "b82b10ded28e266e0f20f37861f5827c67cf8230",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:19:54.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "ab14f87a34900bc112649d3320f0f7699462a17d",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:19:12.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "c7da3e3aa9fff3d374d6bd038fddf9e43212c4a8",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:52.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "fc54141ecdf9743f3889414a8e18c7b5739f13fb",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:52.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "5ef789c53c1ebdbf16adf082c1673ab543aa4af1",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:18.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "31b024fdcadfdf26b76ba1dc2679c424a858d256",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:18.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "1e930b5079559a2afd7bd96083fce8808a348d0a",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:18.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "f2838d8491a586d691f29c98be0fdbf496d298ac",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:18.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "cb1f00e6e356f8ba570e010eb3614624db54e640",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:18.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "dfc735a09465076493cb4939dee62e6e3502539f",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:18.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "187317aa44d38e5e12ba93fcfe89513db11bf68d",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:17.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "edb8f7969ac75d6bbdf2138e1e9a43e329851cc7",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:17.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "4888e3e96964dcbc65c386451e333cbcdbd83661",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:17.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "71de7c6aaeb9df1e72bd7f1b3dd5902674892dc0",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:17.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "2327ed0839189b3eb1cf057711c4fcabe8c501b3",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:17:17.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "dbd5a0b90ffbc98ffff22db10e9f6e5bb479ca97",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:16:55.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "49ba768d47ac861e98b548aa61ddac1e6ae92d07",
+      "repo": "yukiyokotani/office-open-xml-viewer",
+      "model": "openai_codex",
+      "date": "2026-11-02T08:16:47.000+09:00",
+      "language": "TypeScript",
+      "stars": 867
+    },
+    {
+      "sha": "175e63b62dc3201866722e45ee9a60714cde16fa",
+      "repo": "omacom/omarchy",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:10:30.000-05:00",
+      "language": "Shell",
+      "stars": 46111
+    },
+    {
+      "sha": "368f415eb79503c584e37234cc9e690da537ccdd",
+      "repo": "HectorHHZ/llm-honing",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:06:28.000-06:00",
+      "language": "Python",
+      "stars": 104
+    },
+    {
+      "sha": "6118e9b670a6e887bff34a6d593fff7e24c528f0",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:03:15.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "5e249c2b410d704ba869b08a1b850eba88e78fae",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T18:01:25.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "0ca3d3f0321f0292095e05deca92feec1235cc17",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:57:40.000-08:00",
+      "language": "C",
+      "stars": 337
+    },
+    {
+      "sha": "d1a916c10c8ac45bf46a0dd73c0953633102edc8",
+      "repo": "openwong2kim/wmux",
+      "model": "openai_codex",
+      "date": "2026-11-02T07:56:08.000+09:00",
+      "language": "TypeScript",
+      "stars": 444
+    },
+    {
+      "sha": "92e5e108f7b6da2eb2f69751d3c820e4599358ed",
+      "repo": "openwong2kim/wmux",
+      "model": "openai_codex",
+      "date": "2026-11-02T07:54:33.000+09:00",
+      "language": "TypeScript",
+      "stars": 444
+    },
+    {
+      "sha": "15f9ffb7b78d4dea8a0032b746edfcc5c60367cc",
+      "repo": "dolthub/doltlite",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:54:30.000-08:00",
+      "language": "C",
+      "stars": 337
+    },
+    {
+      "sha": "febe1dd9f62102638c788698e41d4e63194c11d6",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:54:03.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "529263e6a66e6147f54d3c6c45ce379aa12f86c7",
+      "repo": "airbnb/viaduct",
+      "model": "openai_codex",
+      "date": "2026-11-01T22:51:45.000Z",
+      "language": "Kotlin",
+      "stars": 177
+    },
+    {
+      "sha": "76d570882c7ed5ad3d46e51acc6c751c1edf3584",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:50:53.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "4d3c7c4bb6dce4c611407cf08f3af368bc76ad4c",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:50:34.000+01:00",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "fc6a6618cad99ecd2939124d968eaed3cc3643e9",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:48:40.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "67add68ea246950da9a1f867b4dc6fbe023bc35a",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:44:14.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "52750cc212941c05862c6bf3ebe66aa6e2a1fe17",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:43:46.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "e9afdf935c773f7d54c02d3ed2ba8eba23fa19c5",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:43:17.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "8a95490c13c33999aa2b81f10c7f1f91f46768e4",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:40:39.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "5e849c437faba01528e96f3539efb0316020301f",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "fa5d34ceee05f2034d51f80b6b2fa84c21bf01a8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "06ac5770cddc94f42b4f939440494656ec629428",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "a1128f36cfeb3861af5bdd05a1472b6e3c4282ff",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "7ed322a1dd8611c3e819f9c7674234c6f82ddc9f",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "d1b0c186891d459fdc469186bbf6fec29248c634",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "0a8ad20b357033922c01f4314585e29a5e914218",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "1352229d9179209a694a1b34902d2c8a3116f1f3",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "4cf44749422aa9c717290e676fcb1dfa0257ba60",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "3ad7f3e9d8ac3926fe0a142304fadb339111f7d2",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "ce68a178cab536e61a5b351df8a2ec680732abcd",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "72eb3cf0147a346aacac0234d240608b591ab516",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "de948e82edb6c0a9881cc1337b44f8ac3fd9b421",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "75ca81036a85c1c6eaeb9011a35615f3a6385d39",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "a8ebb80594e4902c4ee07222fe24fb65f18a25d9",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "ed42593998f4b96092c187f77e0b068d32c8cb7a",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "42d9a7d6984a8cfc084e1fc761ef48baab8f26ca",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "a906245352717f14746b9de4ade215361a2272a2",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "3d3ebadf92712f793444de6851e2b5ece7467177",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "50ee1b1d45e6b29170a62fc53343449f37f436ac",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b01f12a96b446d73f568966860091108edc28502",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "58a2d6dd47e5302e6783e9ab4f29e8b722462c3e",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "0414492c3eb7665916e22482602d7bbca2ff86e0",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "512dbbc99fa8e8ca5c2dc1a41d8f3fe012095f46",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "cc218226f27e4585c7c7b0546fd2b7c5c5d5d36e",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "9abfb3b15dde7bc8fb2ab6acdfb911b38c0e4f00",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "2339ea3fb40dab12d4c8f8e5b1857e17b56eba20",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "a0d15298a724089dc3737913c53263b76a2bb5f4",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "fcb0733c3c4c3eb902a3c84ad7e647e1cc2c682e",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "e4ff09b9946d0e0b2a1bbc301c324a9cfcf02abc",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "0451d3555dd283f1bfa38817793f4eea3f62f1e9",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "6403facee2a821efd0219ebce43b0b31b48e460a",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "4547aac5fc1632c9049c4e800541af7a63e0982b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "e09facfc9e4cae109d0ec06489957856f1220fd7",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "9d4e2a85554dbdeed466eb88d03a79b97f6b6b4e",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "6a8a3ea22fa5d42cb055217286ddab6c8da8cebe",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "7b8408d95e76d085675b9294595030febbb7afbd",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "1ab7982b43968f160ee1b064d83ebc26e4b83482",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "26b5f0f38ad160521f7977785698d26f7229666b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "5f648df98196fb541fc27354afa74d09ef116062",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "c99d93fa76474033b8a6234476dfbcf14683e637",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b5c8e03faaf215235dae4d93da98b15846f10982",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "9fe91ea55e83787c4ad0b831e76785eca92f4fa8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "a9f30dca47340ffd8d189d2ebdafd7a18e39687c",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "39f8ccd23901409c3806ccaecac3370dfd020c97",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "cfd01429809aac861f0a3b401b10f106b0252af6",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "30ec2cb1506a1894c30574cc73a9c27c7949c7f7",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "9ba341fcaebc8a82774bc0844568070e391e764e",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "0e91d7c0f3f31955467ce8419be5603d7c008648",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b2e64afeb196fac91bf0ae027d03d09b64f86a96",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b4754254f44dec5bf57eb25ce6d50abb210d3c14",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "9c676479a4127c76b5661d4ea806856b65ff1375",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "e0afc9492492e29ffcc2cd03aaf918ec122ca6d8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "000a19aa103a235f6131f36ff3c92c0fc8051d7b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "f2c7c183766ec005c2994ebc1ef036fe82c8e68a",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b67331c23c6e6ece9294e9842e58b0b23e9e48ca",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "99a9786996bc8c8835449ea9acc96d7c874b2b09",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "67eb905ecf8e344bffe27025eee0c9b858e580ae",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "fd2b3685171ffd2655558dcc6c21fc3e00beae0b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "f778157ede94ea8127a9ab1d2d446975ee82a036",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "fa717a6d0a24860b7e96922b357112f7d8ea11f3",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:36:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "f7c07fce194d4d081cd8e155aa683c717b35c91d",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:30:50.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "eedba4be7e73c52a3881f83da40a697bdaba2f1c",
+      "repo": "roundhouse-rb/roundhouse",
+      "model": "openai_codex",
+      "date": "2026-11-02T06:19:11.000+08:00",
+      "language": "Rust",
+      "stars": 521
+    },
+    {
+      "sha": "4c080adac086ec72ba978677972bdfaaf88f2274",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:18:12.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "d34b140566115847add13c0ba7a1ca8d08272542",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:15:20.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "ed348b9b3107311a7ac8a37f1396257223a53263",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:10:41.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "70ecf51f0236db26f48a2c90d30350e941f90635",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:10:05.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "9a82813033ea1803dc1c35b4c36b1e51509ccf57",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:10:05.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "e597099442cc85cbce37eb671cb7230e7a6fd0b8",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:08:57.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "7de97a375b9777c68bfaeffdeeea916df6643a46",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:06:03.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "ea0aede859ca868f7fe000374ecb5df1f739fff9",
+      "repo": "OpenRAC/OpenRAC",
+      "model": "openai_codex",
+      "date": "2026-11-01T22:05:21.000Z",
+      "language": "C",
+      "stars": 106
+    },
+    {
+      "sha": "8c5d100de0285c3b9bd3c88741327f7fc968f0db",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:05:17.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "a6108f3002b38915595c63271a44751a56927a32",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:03:56.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "31e2d94252d8bda7ce60b11fdff0e5dacf8f7684",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T17:00:24.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "a2249e4f7fd1144b0a7e2c73eb3dd5059c9758e7",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:00:07.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "070cd83172f169a7ccadb814d10d8fdf97567e5b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T14:00:07.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "5884d434813cbebdf248f12468aa09450b398a05",
+      "repo": "pingdotgg/t3code",
+      "model": "openai_codex",
+      "date": "2026-11-01T21:59:09.000Z",
+      "language": "TypeScript",
+      "stars": 40460
+    },
+    {
+      "sha": "7a48eb34c418bc68dce11cf35c06d1df4aef59ae",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-01T21:58:16.000Z",
+      "language": "Rust",
+      "stars": 1594
+    },
+    {
+      "sha": "cd04747a34f0a803e5117fc13856045f953b6682",
+      "repo": "pingdotgg/t3code",
+      "model": "openai_codex",
+      "date": "2026-11-01T21:58:00.000Z",
+      "language": "TypeScript",
+      "stars": 40460
+    },
+    {
+      "sha": "93d110abd111f46431db3b34bd8c94dbd5e673f1",
+      "repo": "pingdotgg/t3code",
+      "model": "openai_codex",
+      "date": "2026-11-01T21:56:46.000Z",
+      "language": "TypeScript",
+      "stars": 40460
+    },
+    {
+      "sha": "4d4c21818f2985e9c222ac852d0f62dafd778b00",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:56:44.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "14adf605455fbff64bbe4ecfb89c25a02aae411e",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:56:41.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "93d535fd4c06b5c65730adb076b3280e41b39f78",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:40:38.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "4a0bff64bc58541ef38911bb48b7488af9586f67",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:38:56.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "db99e4b596b2be36f81ded76cc0b45be0f431a68",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:38:53.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "c320069d1e515422ccbba556145c40636e34b042",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:38:06.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "73393a02f0409f68d96aa4aa4449bba8fbd76709",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:38:04.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "7098cf461963e27ed76bc4395bad99853a0016a4",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:36:51.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "788a20c65bb02474267becf416d0ece373e7d9a2",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:36:48.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "2bfddbecea4bf124c9a97570c677a94195df821b",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:35:01.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "062c73ae0defdcb5c9b0aaa5f079f5b28e1bfb32",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:34:57.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "338c97562161b2f427461f12491bdb3b1c4a9117",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:30:12.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "2b0b3ddc9b6d60dfe94b90c414a7f2c271448d5b",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:30:11.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "fcae565042e694cb49dcc024bb6d255572bf1a64",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:26:35.000-05:00",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "67abcaed31a86a88e8ef4bbbbc78dd9ee55f16e7",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:23:00.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "addc0268f8d14bb00e9b2d11d68b27f8f9a159e8",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:22:59.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "fc19c94e1079cccfd8ed5ed4fe542a2825fbcfd7",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:18:30.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "8cbab434ec0a8c8dfcaefabc6832ad4d93db4df8",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:18:27.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "2033393e006e6f8028d22baa4fa3426a96d485b1",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "732c15efe132ecd53e4f121b8939a63cbf4f8f4b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "fe6a735a563f8668397043d314fec575be3b5633",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "62a80da6c26669b22fcbc32826854557f82f6a57",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "0305a4a909b544556797992d3ed76f88004041bb",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "d9a1a4c21ea7c2101a2d474178385ad77f4f8810",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b12f8f39de3743dfbbdebb05dfd2b2d2d2cb4a4b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "4ba45f94c7283bb702a458ff9a3c5def3bdf6083",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "83419508ff2ce9fd37e01f992c88ff9e176898f0",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "aeb6a2400912a811f924967c483e6e73308978dc",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "4061b3147b75aed133d68820084739f5c0e2183c",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "83e2659e60ca72599e7675c2648c1a288b7fa0f5",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "e825e36ce4736e8f16c2ad0447f5f75e929c8e17",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:15:27.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "c04c87c777c6136a7754fe765ea068b96f5a3c02",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b121939f1159a591020d638aa62f35ebf4d255bf",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "99e0250a7875c5948caf0ebdac7679da6d1cdce8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "7e647f7e22fa85a9558a86c2ca55b642b1ad1440",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "c410c1346fe3a7da4e1ec8c30f03156b8e94305b",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "0f930b1870ec5b25aebb810750cc5dcf7a67d2f8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b274d80b0f9be6e2125a4b27075686e422a7f7b8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "8a9b45918b2da6f4e835baf88cf067cfb83606e7",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "a5f5321cd046d18c809357d4dc3c7962fe769ff1",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "549695237a3b74b7ade146660e86500b9c2f4996",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "fd997dfd4a0d284e20590a4920228388313c0562",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "1e2ca31a14c20885552b5472adeb1bef32968847",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "ee55a190215446054064c8e9ba1da94416f66de3",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "8c56c859302b2f80f2b74a619632f1a16ed9a933",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "bf5b013bfa65985083cb6db31a3b864ec812215d",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "7a0156583e519c5ccc63b6f780fcc49b9983848e",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "f6f7fe7782dc2f62e0cbfa0eb6fb7d53d0c022c4",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "6ce3c674206dea5d8a69c19fd630e307ba8ffa42",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "6991364792c2031b892d2a8cfbfc500f0e20ef71",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "8478e0fbdc564bcba86842c0d7a581ae70b61ae8",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "e8add3673f80d10d6ebdb3cf2021d714db78fdbe",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "fe9f7be475dbb4ab232681e64d70f9a65cb03316",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "b76c600c6fb30cf8bc41e4433939b1c407ac75eb",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "a7e9ec7804100bdd13cb877e7f2bb472b342a646",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "f221f8b1b3696a0de20b669d9ffbdce40bcb0619",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "4919ff99d10fc557be49d9a61cf8b4a19fb0fe90",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "cacc85abf1edd45d01195a0b79e811cdf1d8862c",
+      "repo": "smithersai/smithers",
+      "model": "openai_codex",
+      "date": "2026-11-01T13:10:20.000-08:00",
+      "language": "TypeScript",
+      "stars": 440
+    },
+    {
+      "sha": "231d12c84789f38f24783dd6c9282ecaf7f541b9",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:08:01.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "c1006bc29e14855e6092bd8c847c3d2719045a76",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T16:07:59.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "878e91b359d5e3b25d22463f0d5b13ecc7ebedfb",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-01T21:06:00.000Z",
+      "language": "Rust",
+      "stars": 1594
+    },
+    {
+      "sha": "a15fb72e184b6e9169af0137f5941eea9f8abfc8",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T22:01:09.000+01:00",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "6286215b22989c6bb9baa054d10ac53f3b13198a",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T22:01:09.000+01:00",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "2dde8afb43469da70e69edb9c25d80659a87f3f6",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-01T22:01:04.000+01:00",
+      "language": "Rust",
+      "stars": 5874
+    },
+    {
+      "sha": "a5c2fb85a72c13215e376c8aee8bab32b8c8fc35",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-02T00:00:55.000+03:00",
+      "language": "C++",
+      "stars": 115
+    },
+    {
+      "sha": "2fdcd7a264e1bc4bda5d3ab62791446099068541",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T15:59:51.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "ff09fa5170d0ba9b77d58eda63f570dfa002df0d",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-01T15:59:48.000-05:00",
+      "language": "C++",
+      "stars": 135
+    },
+    {
+      "sha": "82092730f8e1f8dca3e915436168042e4fbb8bdb",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:59:19.000+03:00",
+      "language": "C++",
+      "stars": 115
+    },
+    {
+      "sha": "d66a05b6976da9b131afab5c072cef295c67f6fe",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:59:19.000+03:00",
+      "language": "C++",
+      "stars": 115
+    },
+    {
+      "sha": "1cf89dd33b7920714af065753d4089403db95cfc",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:59:18.000+03:00",
+      "language": "C++",
+      "stars": 115
+    },
+    {
+      "sha": "46a23d0f995496be140c04419b75a01980379372",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:59:18.000+03:00",
+      "language": "C++",
+      "stars": 115
+    },
+    {
+      "sha": "956cb14f626308c228f8f696c390d1fe2a8ce9ea",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:59:18.000+03:00",
+      "language": "C++",
+      "stars": 115
+    },
+    {
+      "sha": "0485003d6e354a4ec3b460b200551eb45b0e2974",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:59:17.000+03:00",
+      "language": "C++",
+      "stars": 115
+    },
+    {
+      "sha": "e8aa8281f46fad99a615b7034c3192be723dbabf",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-01T23:59:17.000+03:00",
+      "language": "C++",
+      "stars": 115
+    },
+    {
+      "sha": "baf5e46323cc1e0bfb689d76b0641dfd6011adb5",
+      "repo": "barbeau/gpstest",
+      "model": "gemini",
+      "date": "2026-11-01T16:20:11.000-05:00",
+      "language": "Kotlin",
+      "stars": 2441
+    },
+    {
+      "sha": "5c2fefcb5bb7e948aecd6c232036a07eeda15d6a",
+      "repo": "barbeau/gpstest",
+      "model": "gemini",
+      "date": "2026-11-01T14:43:50.000-05:00",
+      "language": "Kotlin",
+      "stars": 2441
+    }
+  ],
+  "totals": {
+    "claude": 11,
+    "openai_codex": 210,
+    "gemini": 2
+  },
+  "repos_tracked": 27,
+  "repo_activity": {
+    "yukiyokotani/office-open-xml-viewer": {
+      "weekly_total": 83
+    },
+    "omacom/omarchy": {
+      "weekly_total": 47
+    },
+    "stablyai/orca": {
+      "weekly_total": 374
+    },
+    "willfaust/Madeira": {
+      "weekly_total": 98
+    },
+    "smithersai/smithers": {
+      "weekly_total": 269
+    },
+    "kirklandsig/halo2-decompiled": {
+      "weekly_total": 2811
+    },
+    "Open-BFME/Open-BFME-2": {
+      "weekly_total": 1800
+    },
+    "pingdotgg/t3code": {
+      "weekly_total": 279
+    },
+    "tangency-labs/solidcore": {
+      "weekly_total": 1086
+    },
+    "dolthub/doltlite": {
+      "weekly_total": 43
+    },
+    "arjaythedev/multicore-server-challenge": {
+      "weekly_total": 66
+    },
+    "lambdasec/frame": {
+      "weekly_total": 40
+    },
+    "barbeau/gpstest": {
+      "weekly_total": 8
+    },
+    "OpenRAC/OpenRAC": {
+      "weekly_total": 45
+    },
+    "roundhouse-rb/roundhouse": {
+      "weekly_total": 110
+    },
+    "frostwire/frostwire": {
+      "weekly_total": 344
+    },
+    "dgunning/edgartools": {
+      "weekly_total": 13
+    },
+    "HectorHHZ/llm-honing": {
+      "weekly_total": 2
+    },
+    "openwong2kim/wmux": {
+      "weekly_total": 63
+    },
+    "ClickHouse/ClickHouse": {
+      "weekly_total": 202
+    },
+    "picatz/doh": {
+      "weekly_total": 46
+    },
+    "maddada/Ghostex": {
+      "weekly_total": 101
+    },
+    "XTLS/Xray-docs-next": {
+      "weekly_total": 7
+    },
+    "moq-dev/moq": {
+      "weekly_total": 185
+    },
+    "horizon-rust/horizon": {
+      "weekly_total": 5322
+    },
+    "airbnb/viaduct": {
+      "weekly_total": 3
+    },
+    "BraxisAI/braxis-blueprint": {
+      "weekly_total": 26
+    }
+  }
+}
