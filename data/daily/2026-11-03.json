@@ -1,0 +1,2568 @@
+{
+  "date": "2026-11-03",
+  "commits": [
+    {
+      "sha": "1324b050ec853d8bd919c6775dea3cd9806298f3",
+      "repo": "melgarafael/DeskcommCRM",
+      "model": "claude",
+      "date": "2026-11-03T20:59:59.000-03:00",
+      "language": "TypeScript",
+      "stars": 5123
+    },
+    {
+      "sha": "35258f357f0fe642cf40d5bf230a771b074a9083",
+      "repo": "midagedev/bloomery",
+      "model": "claude",
+      "date": "2026-11-04T08:59:45.000+09:00",
+      "language": "Rust",
+      "stars": 59
+    },
+    {
+      "sha": "24e772b2aec2b3aa7377739d853b8fbd50daee0c",
+      "repo": "go-graphite/go-carbon",
+      "model": "claude",
+      "date": "2026-11-04T00:59:43.000+01:00",
+      "language": "Go",
+      "stars": 831
+    },
+    {
+      "sha": "aa03f59fd24b69001bffbeea244a72d6ae0e21f0",
+      "repo": "KaikoClanworth1/wwe-svr2011-pc",
+      "model": "claude",
+      "date": "2026-11-03T23:59:42.000Z",
+      "language": "C++",
+      "stars": 163
+    },
+    {
+      "sha": "c45945a2ea191c219ac0233e83017236a1414948",
+      "repo": "storytold/wordcraft",
+      "model": "claude",
+      "date": "2026-11-03T23:59:42.000Z",
+      "language": "Rust",
+      "stars": 17275
+    },
+    {
+      "sha": "ffc6275c7d4f6dcae97cbb22bf9b222877ad2872",
+      "repo": "trina-app/trina-ax",
+      "model": "claude",
+      "date": "2026-11-04T06:59:38.000+07:00",
+      "language": "TypeScript",
+      "stars": 116
+    },
+    {
+      "sha": "5e6e11f133feaf602c7c4a4460b5c5f69b482582",
+      "repo": "BotHarness/DeepSeekBot",
+      "model": "claude",
+      "date": "2026-11-03T23:59:37.000Z",
+      "language": "TypeScript",
+      "stars": 608
+    },
+    {
+      "sha": "c303ff705e61f02dd35bf8f72126fc1b76bfb9bf",
+      "repo": "mdSilo/mdSilo-app",
+      "model": "claude",
+      "date": "2026-11-03T15:59:35.000-08:00",
+      "language": "TypeScript",
+      "stars": 854
+    },
+    {
+      "sha": "79055e3e95a01ea5905682488b3084448ad7036e",
+      "repo": "moq-dev/moq",
+      "model": "claude",
+      "date": "2026-11-03T23:59:32.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "01cc5fa69888c9440a8b30e4acd2a04eeda92e07",
+      "repo": "WoodyWizard/SporeCoop",
+      "model": "claude",
+      "date": "2026-11-03T17:59:31.000-06:00",
+      "language": "C++",
+      "stars": 107
+    },
+    {
+      "sha": "421269eb823870ee181474f6961bdf57edef58e0",
+      "repo": "tenstorrent/tt-metal",
+      "model": "claude",
+      "date": "2026-11-03T23:59:31.000Z",
+      "language": "Python",
+      "stars": 1742
+    },
+    {
+      "sha": "0db659cc765e7f4da2badc9dd9604a94b6665c08",
+      "repo": "nostalgiatan/SeeSea",
+      "model": "claude",
+      "date": "2026-11-03T18:59:27.000-05:00",
+      "language": "Rust",
+      "stars": 82
+    },
+    {
+      "sha": "f38ed9eb478dbe62245ad9a5399125865035baae",
+      "repo": "civitai/civitai",
+      "model": "claude",
+      "date": "2026-11-03T16:59:27.000-07:00",
+      "language": "TypeScript",
+      "stars": 7308
+    },
+    {
+      "sha": "e00b22a90219d9e4412cfad85208b15e2531bac5",
+      "repo": "redis/docs",
+      "model": "claude",
+      "date": "2026-11-03T15:59:26.000-08:00",
+      "language": "Java",
+      "stars": 86
+    },
+    {
+      "sha": "d19668e3a9a1f34404c91d66091359550c516260",
+      "repo": "redis/docs",
+      "model": "claude",
+      "date": "2026-11-03T15:59:26.000-08:00",
+      "language": "Java",
+      "stars": 86
+    },
+    {
+      "sha": "f210de530a192db650051a443475d98ed0244aec",
+      "repo": "redis/docs",
+      "model": "claude",
+      "date": "2026-11-03T15:59:26.000-08:00",
+      "language": "Java",
+      "stars": 86
+    },
+    {
+      "sha": "1acb96d7e619c9d5b6c6f158b6814999cb784ae0",
+      "repo": "redis/docs",
+      "model": "claude",
+      "date": "2026-11-03T15:59:26.000-08:00",
+      "language": "Java",
+      "stars": 86
+    },
+    {
+      "sha": "9483f5bfc0f6119fa87cdefe1b1adb67360e9500",
+      "repo": "redis/docs",
+      "model": "claude",
+      "date": "2026-11-03T15:59:26.000-08:00",
+      "language": "Java",
+      "stars": 86
+    },
+    {
+      "sha": "74e580ee9abc877889943e00a417b35afc1f71b5",
+      "repo": "redis/docs",
+      "model": "claude",
+      "date": "2026-11-03T15:59:26.000-08:00",
+      "language": "Java",
+      "stars": 86
+    },
+    {
+      "sha": "c9d6168d8ed6884d0f8a556ec3b41e5789965f11",
+      "repo": "redis/docs",
+      "model": "claude",
+      "date": "2026-11-03T15:59:26.000-08:00",
+      "language": "Java",
+      "stars": 86
+    },
+    {
+      "sha": "452007dfe0a9d80899e656c33154966fd05696c4",
+      "repo": "Dicklesworthstone/frankensonos",
+      "model": "claude",
+      "date": "2026-11-03T18:59:23.000-05:00",
+      "language": "Rust",
+      "stars": 109
+    },
+    {
+      "sha": "1abdf6bee76605d2349f09eed6a8127f23e287b0",
+      "repo": "sambanks/octabam",
+      "model": "claude",
+      "date": "2026-11-04T10:59:22.000+11:00",
+      "language": "Python",
+      "stars": 295
+    },
+    {
+      "sha": "4fd192a3d690f50c9780be4c2f0e5a7a2a088aca",
+      "repo": "leolobato/playden-ps5",
+      "model": "claude",
+      "date": "2026-11-04T00:59:18.000+01:00",
+      "language": "C++",
+      "stars": 984
+    },
+    {
+      "sha": "559011ea999e6f9cf40a7c63226ec3b221696936",
+      "repo": "BuilderIO/agent-native",
+      "model": "claude",
+      "date": "2026-11-03T18:59:17.000-05:00",
+      "language": "TypeScript",
+      "stars": 7603
+    },
+    {
+      "sha": "bb5b57fac6eb0ed0519a32f7de899017659f3b80",
+      "repo": "ykuwai/ppt-mcp",
+      "model": "claude",
+      "date": "2026-11-04T08:59:17.000+09:00",
+      "language": "Python",
+      "stars": 107
+    },
+    {
+      "sha": "70faeb7cfaa6f4bd3416096bf51c853a8e1a6890",
+      "repo": "LootJunkieAzza/NVForever",
+      "model": "claude",
+      "date": "2026-11-03T23:59:16.000Z",
+      "language": "Rust",
+      "stars": 90
+    },
+    {
+      "sha": "3ec02e093d96af9307f8bea5a3d84d290fb7e76e",
+      "repo": "OneUptime/oneuptime",
+      "model": "claude",
+      "date": "2026-11-03T23:59:14.000Z",
+      "language": "TypeScript",
+      "stars": 7788
+    },
+    {
+      "sha": "107680df4a8b3527c8cd57b7fe1d5654c3aa5a6f",
+      "repo": "jgouviergmail/LIA-Assistant",
+      "model": "claude",
+      "date": "2026-11-04T00:59:13.000+01:00",
+      "language": "Python",
+      "stars": 79
+    },
+    {
+      "sha": "125c01aa4e59d79e72fa40590350f2e89c741f3c",
+      "repo": "Leonxlnx/tastecode",
+      "model": "claude",
+      "date": "2026-11-04T00:59:12.000+01:00",
+      "language": "TypeScript",
+      "stars": 453
+    },
+    {
+      "sha": "3f98dd1ca664b52d1a84fecddf46ef463aed3ccd",
+      "repo": "horizon-rust/horizon",
+      "model": "claude",
+      "date": "2026-11-04T00:59:07.000+01:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "cacee50f8c929deddd8ae48436e686f2cb8e59c9",
+      "repo": "Hsiung-Shao/PobTools-zh",
+      "model": "claude",
+      "date": "2026-11-04T07:59:04.000+08:00",
+      "language": "C++",
+      "stars": 101
+    },
+    {
+      "sha": "3367ec7c1ff1cb19b5b411384363847d100fe870",
+      "repo": "OneUptime/oneuptime",
+      "model": "claude",
+      "date": "2026-11-03T23:59:03.000Z",
+      "language": "TypeScript",
+      "stars": 7788
+    },
+    {
+      "sha": "8bc858d776b7fc6ba52533fd0b6e1bd2543c8561",
+      "repo": "KaikoClanworth1/wwe-svr2011-pc",
+      "model": "claude",
+      "date": "2026-11-03T23:59:01.000Z",
+      "language": "C++",
+      "stars": 163
+    },
+    {
+      "sha": "df614d18307f04070f0f31b22a53fc6967ddff5e",
+      "repo": "OpenRAC/OpenRAC",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:55:58.000Z",
+      "language": "C",
+      "stars": 117
+    },
+    {
+      "sha": "d4bcb98e47cd57a50cce11e8f95ee9091876494d",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:54:27.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "50888d15bca46c3fb81e3241020699936c54f46a",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-04T06:51:24.000+07:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "faff8e377b20d72d28c32cca8b4135c35596f434",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:49:42.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "e7f19b1192dbf092dc51d070e3137f60493d2db5",
+      "repo": "openclaw/openclaw",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:48:59.000-08:00",
+      "language": "TypeScript",
+      "stars": 393883
+    },
+    {
+      "sha": "8fc46d410dca94390ee8941ed56593292235ee90",
+      "repo": "DitriXNew/EDT-MCP",
+      "model": "openai_codex",
+      "date": "2026-11-03T17:44:33.000-06:00",
+      "language": "Java",
+      "stars": 326
+    },
+    {
+      "sha": "bb3a5fbd7b352ecadace3d359a2adcc6ca0d0688",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:40:06.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "2761a8b0619f138a2f0d3c2fd1c98cd4a47e2426",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:37:15.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "adc9dfe4137aa99adc579aa84b84e3e5b4877bdc",
+      "repo": "kenn-io/docbank",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:35:41.000Z",
+      "language": "Go",
+      "stars": 111
+    },
+    {
+      "sha": "0bc9dafce064768ec9ebc393bceaef09d4385444",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T18:34:05.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "b23b31e98edc1bdd3b511f4052cf0391022b25c2",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:29:04.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "7800d0e90523e4cb4f53a809fe41b4c86fa9acbc",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:27:51.000+01:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "47cc01a39f5e0df02162f476c83cbd0a21bd7384",
+      "repo": "getsentry/toolkit",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:26:14.000Z",
+      "language": "TypeScript",
+      "stars": 954
+    },
+    {
+      "sha": "9a29bc13870567ccc819ab076919582cbc092835",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:24:15.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "b1e7d28b685694dd57dd46ae5729014f5046bcfd",
+      "repo": "agent-of-empires/agent-of-empires",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:23:04.000Z",
+      "language": "Rust",
+      "stars": 3506
+    },
+    {
+      "sha": "bcb82a13b73d9c4a21e8c5ff584b49a49ccc752f",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:19:54.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "86580b915c195c115ebb8c5a646c099c128f2253",
+      "repo": "vtmocanu/uzi",
+      "model": "openai_codex",
+      "date": "2026-11-04T01:16:10.000+02:00",
+      "language": "TypeScript",
+      "stars": 96
+    },
+    {
+      "sha": "313ee81dfec5fa3dc4ece8aafbbea8c7c70f42da",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:14:04.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "3fabf1be4341970bcbc3f953b9f8a261e2601774",
+      "repo": "block/buzz-app",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:12:50.000-08:00",
+      "language": "TypeScript",
+      "stars": 96
+    },
+    {
+      "sha": "b3487e66de812f2628e59bff80e312e4139dc390",
+      "repo": "openclaw/openclaw",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:10:37.000-08:00",
+      "language": "TypeScript",
+      "stars": 393883
+    },
+    {
+      "sha": "e810c45d05100e4c5b3e008d0a1c7b1166c10eb9",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T18:09:28.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "2d1342ea91f274b73df794d2b1459cfcaad49604",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:06:37.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "c3a886b3004d1e3800d22b01f91a4b08949f2187",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T18:00:49.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "291d00087d49ac17b42529fdf0c226d17cc3a5d9",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T17:56:34.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "4a8086f23d9253c8844b22216d82ddcedbe4fa0f",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:46:57.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "3fed8554f19e7194c8a2cfb8e1161584d3d69187",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:42:51.000+01:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "ecbfc14d52f4d3efde9327a8957aa31d21a772c4",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:40:59.000+01:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "526aadb20a87645d30fc2e2517b33490d210393a",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:40:42.000+01:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "8f8bd0f372f381bd4097ee3be80a23012f8944b9",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T17:39:47.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "1873b11cce25ec1ed24aa8b2c846c74644bbc0e4",
+      "repo": "eyalgolan/statecraft-israel",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:35:54.000+02:00",
+      "language": "C#",
+      "stars": 678
+    },
+    {
+      "sha": "9c280f5f8b2ff714e59e13454caa37e1d08740a2",
+      "repo": "OpenAgentsInc/openagents",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:34:19.000-06:00",
+      "language": "Jai",
+      "stars": 462
+    },
+    {
+      "sha": "a17b9a0bc258e259bcab0e49a0d672df0adb56c9",
+      "repo": "stripe/stripe-ruby",
+      "model": "openai_codex",
+      "date": "2026-11-03T14:33:26.000-08:00",
+      "language": "Ruby",
+      "stars": 2182
+    },
+    {
+      "sha": "307792f17540acda3c9a4a086914e30cf13fa123",
+      "repo": "DitriXNew/EDT-MCP",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:33:08.000-06:00",
+      "language": "Java",
+      "stars": 326
+    },
+    {
+      "sha": "b96ea86fdbab540de478ff0572210e2f7ab9e647",
+      "repo": "respanai/respan-gateway",
+      "model": "openai_codex",
+      "date": "2026-11-03T14:29:53.000-08:00",
+      "language": "Rust",
+      "stars": 537
+    },
+    {
+      "sha": "dc0c848b0e9cc9e5321b88a707c700686d7fc356",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T17:28:54.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "f023a90e2a0fa79382151244ed70919dea7cbb48",
+      "repo": "OpenRAC/OpenRAC",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:24:35.000Z",
+      "language": "C",
+      "stars": 117
+    },
+    {
+      "sha": "1bbb7268362773bb6efb24b9348c2174ce1da3f6",
+      "repo": "kenn-io/msgvault",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:20:50.000Z",
+      "language": "Go",
+      "stars": 2176
+    },
+    {
+      "sha": "7e4ed936f3c2356d9251c22c1a68a37ace387fa0",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:20:45.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "a88a3098648276349e012d239a0790a0db7de8d8",
+      "repo": "vllm-project/speculators",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:18:43.000Z",
+      "language": "Python",
+      "stars": 940
+    },
+    {
+      "sha": "f46d135b2d44f76d946872e1703c25ca3a0d6699",
+      "repo": "LC044/TrailSnap",
+      "model": "openai_codex",
+      "date": "2026-11-04T06:17:35.000+08:00",
+      "language": "Python",
+      "stars": 879
+    },
+    {
+      "sha": "a3ef9fad92a888a4d7beeab0a004e8e6b4f51e84",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:15:25.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "29575c3677ce730f149f1e827cb555f882bca1be",
+      "repo": "eyalgolan/statecraft-israel",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:15:15.000+02:00",
+      "language": "C#",
+      "stars": 678
+    },
+    {
+      "sha": "45e8f4c9093cd3be6779bb72940b1c8cfc9fc89d",
+      "repo": "SpeciesFileGroup/taxonworks",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:13:47.000Z",
+      "language": "Ruby",
+      "stars": 117
+    },
+    {
+      "sha": "9f666a635609c89a7658cd640e1f83acf4e29f94",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T17:10:51.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "b5247412e00b30c0e300d193d9470ee40d1481d5",
+      "repo": "kenn-io/kata",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:09:13.000Z",
+      "language": "Go",
+      "stars": 511
+    },
+    {
+      "sha": "2c920ec4f0379bef8310863e04933cdd1dae47f2",
+      "repo": "stripe/openapi",
+      "model": "openai_codex",
+      "date": "2026-11-03T14:08:21.000-08:00",
+      "language": "Unknown",
+      "stars": 508
+    },
+    {
+      "sha": "dbf179ff9dc9ec34a5543911f8b889696d314eae",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T17:07:05.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "220e72e1b52adf44ec63bedce97da2642eefbf55",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T17:04:11.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "4b5318c96bd3d133ba38c486b453e912c837b99a",
+      "repo": "dilolabs/nosia",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:03:07.000+01:00",
+      "language": "Ruby",
+      "stars": 211
+    },
+    {
+      "sha": "780805799db49bbc1470541cf90b20f159accaa4",
+      "repo": "podman-desktop/podman-desktop",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:59:33.000Z",
+      "language": "TypeScript",
+      "stars": 8133
+    },
+    {
+      "sha": "898ff701fccf19b2db15c987bfa5aa4b4bbe21f0",
+      "repo": "eyalgolan/statecraft-israel",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:59:21.000+02:00",
+      "language": "C#",
+      "stars": 678
+    },
+    {
+      "sha": "f759d75091ad430a4b50eda283cce424704ea083",
+      "repo": "block/buzz-app",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:57:50.000-05:00",
+      "language": "TypeScript",
+      "stars": 96
+    },
+    {
+      "sha": "9efb48a45d92be15042ec63a1b7474d10ec19b51",
+      "repo": "kenn-io/kata",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:57:14.000Z",
+      "language": "Go",
+      "stars": 511
+    },
+    {
+      "sha": "624ac1ff29b31c5e44f8c28b7f044c8c65c8c23f",
+      "repo": "SpeciesFileGroup/taxonworks",
+      "model": "openai_codex",
+      "date": "2026-11-03T18:55:04.000-03:00",
+      "language": "Ruby",
+      "stars": 117
+    },
+    {
+      "sha": "d1bcd5748b5565abae7b8d95885dd4b3cf04cbe7",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:54:25.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "4efcfb0ecf64de46616656fee6c8860718229d2b",
+      "repo": "kenn-io/forge",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:50:26.000Z",
+      "language": "Go",
+      "stars": 197
+    },
+    {
+      "sha": "0a1ac779020c2c0f9ad430469d9aa48cdaf81b87",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:44:04.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "2266f29f26050e9461beaf47beb35e61e55c31e5",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:43:47.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "3f30ad57725cb7d6c0ac5d03a6ebe4df6bd676f3",
+      "repo": "DitriXNew/EDT-MCP",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:42:58.000-06:00",
+      "language": "Java",
+      "stars": 326
+    },
+    {
+      "sha": "77baf7a96d96c74ef0ce85f3e60abd20069fe77f",
+      "repo": "DitriXNew/EDT-MCP",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:42:42.000-06:00",
+      "language": "Java",
+      "stars": 326
+    },
+    {
+      "sha": "60349fe74c1052da656665a135bc02a61f72459f",
+      "repo": "Graphify-Labs/graphify",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:39:40.000Z",
+      "language": "Python",
+      "stars": 142179
+    },
+    {
+      "sha": "0ed3c32c5520dc0accd59a613eb1abe876e85387",
+      "repo": "Graphify-Labs/graphify",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:39:40.000Z",
+      "language": "Python",
+      "stars": 142179
+    },
+    {
+      "sha": "227028de757c7d0efbb6e1fe31b4404012a95d92",
+      "repo": "Graphify-Labs/graphify",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:39:31.000Z",
+      "language": "Python",
+      "stars": 142179
+    },
+    {
+      "sha": "2a5d4426323650dbd65df2bad19ab17b4525cb9f",
+      "repo": "Graphify-Labs/graphify",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:36:55.000Z",
+      "language": "Python",
+      "stars": 142179
+    },
+    {
+      "sha": "cb408949e1e4d7490158e3252d086d5a6dbb209e",
+      "repo": "Graphify-Labs/graphify",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:36:49.000Z",
+      "language": "Python",
+      "stars": 142179
+    },
+    {
+      "sha": "9652cd07a6cc836751da821edce675a8828b96c2",
+      "repo": "steerlabs/opensteer",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:34:45.000-05:00",
+      "language": "TypeScript",
+      "stars": 206
+    },
+    {
+      "sha": "e0ac3370bbe37d73abc057bc8bd4dd32670c8e97",
+      "repo": "openclaw/openclaw",
+      "model": "openai_codex",
+      "date": "2026-11-03T13:33:04.000-08:00",
+      "language": "TypeScript",
+      "stars": 393883
+    },
+    {
+      "sha": "8f361fbe1659bc4f6cf8edbd208a5e0877732761",
+      "repo": "pandas-dev/pandas-stubs",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:30:11.000+01:00",
+      "language": "Python",
+      "stars": 331
+    },
+    {
+      "sha": "d2b1ebc42a90749477d2539a860d131113a1e335",
+      "repo": "devfile/api",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:30:05.000-05:00",
+      "language": "Go",
+      "stars": 350
+    },
+    {
+      "sha": "ac982bea5da835c8b64f4f5ac0a5c09bb9b68db7",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:29:26.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "6046d19a0d4e7320f72010f9a58ed0ab4424cd2e",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:29:17.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "49e97b8d9506bde1b288ffae58310af26c7c73b2",
+      "repo": "jpietek/PenguinBurner",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:26:42.000+01:00",
+      "language": "Python",
+      "stars": 164
+    },
+    {
+      "sha": "3571ed5281da7044a1ef4253327ee8957d917d52",
+      "repo": "jstachio/rainbowgum",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:21:49.000-05:00",
+      "language": "Java",
+      "stars": 123
+    },
+    {
+      "sha": "164ef94d9308570420bb5dbd38c04daab3006bba",
+      "repo": "zoonk/zoonk",
+      "model": "openai_codex",
+      "date": "2026-11-03T18:18:51.000-03:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "b526b52e6a5d7a2f687a623a6f8aa02b8959772c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:17:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2f4a7dc58690066faf33838c810bd674b4bcb51c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:17:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4e289d926d66ea0b60f7c6f3ce8a8bf983bb3ba2",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:15:41.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "f1d129ebdffa6537b954896af6722870824c0560",
+      "repo": "stripe/stripe-ios",
+      "model": "openai_codex",
+      "date": "2026-11-03T13:13:06.000-08:00",
+      "language": "Swift",
+      "stars": 2578
+    },
+    {
+      "sha": "0f13c669bec43e8f4b0484f7f6d262f99c116a4c",
+      "repo": "stripe/stripe-ios",
+      "model": "openai_codex",
+      "date": "2026-11-03T13:12:29.000-08:00",
+      "language": "Swift",
+      "stars": 2578
+    },
+    {
+      "sha": "11121fc59ca8652fb23b1a4216b7858358cf8b00",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:08:24.000-05:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "d2e0157d39530063aabeaa9c943388a6b78e18ec",
+      "repo": "OpenIPSL/OpenIPSL",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:05:29.000+01:00",
+      "language": "Modelica",
+      "stars": 112
+    },
+    {
+      "sha": "670813362a5fcc5ce405d5457b1485001dbf5085",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:05:27.000+03:00",
+      "language": "C++",
+      "stars": 120
+    },
+    {
+      "sha": "7af730a00ec282f4686cfbdacee71314dfd9f067",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:05:26.000+03:00",
+      "language": "C++",
+      "stars": 120
+    },
+    {
+      "sha": "31f26093c1657a1b3af8a89cb089bb957edd7aea",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:05:26.000+03:00",
+      "language": "C++",
+      "stars": 120
+    },
+    {
+      "sha": "498be4f18f186d4c0340d577efb79076a7b809b4",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:05:25.000+03:00",
+      "language": "C++",
+      "stars": 120
+    },
+    {
+      "sha": "ebaebc302f45380d9593d34a5df04a83b51ec35b",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:05:25.000+03:00",
+      "language": "C++",
+      "stars": 120
+    },
+    {
+      "sha": "539472db19f6c1a063f8686a3bb1a8b6d0ede74d",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:05:25.000+03:00",
+      "language": "C++",
+      "stars": 120
+    },
+    {
+      "sha": "c7894947fea023ba21f57407f754968c992a53b4",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-04T00:05:24.000+03:00",
+      "language": "C++",
+      "stars": 120
+    },
+    {
+      "sha": "c0d6cc486ba04e73a0954318ba1bccc6f00c3f74",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:02:16.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "265d95b433d01a6c836ce48ab7f7908d2076d70a",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T16:00:31.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "4cb74d580952941efd3963f45f06079a51127600",
+      "repo": "zoonk/zoonk",
+      "model": "openai_codex",
+      "date": "2026-11-03T17:59:07.000-03:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "981434c1a4631925f160225b8ff06b821ea26ec5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:58:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "423eae73cf24df117ae89b30bb47c01a2c9dbcf7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:56:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "76470446796831862d5153f6c99352c2ea0adc07",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T23:56:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "de94d96243c79bb7b86f74aaa7ec9b37ece2b3ec",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:56:43.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "018708a1cca8603f038023f051379365e89303bb",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:52:50.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "3ba18635abca138d6706b5ad24cc422f8f7b54d1",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:52:35.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "bad31eea19716deca36abe48d04162b89d8502d1",
+      "repo": "phase-rs/phase",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:51:33.000Z",
+      "language": "Rust",
+      "stars": 317
+    },
+    {
+      "sha": "cd575d2f6160a602de698acf366f8c6ce743e092",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:51:04.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "4c250b152cda77907d90de53f25e5df7add22e8d",
+      "repo": "stripe/link-cli",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:50:18.000-05:00",
+      "language": "TypeScript",
+      "stars": 893
+    },
+    {
+      "sha": "fdc0772b20612823bdb3c1963d83b6adbd813e39",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:49:15.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "9268f7e6f870c9f77f3bcd152b8e61908af2856f",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:42:22.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "353ccbcdc8749baae237536a96e0878d3197e655",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:41:43.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "6015b5d26ad864bf48a976e9343545def6c20592",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:40:55.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "9f6a327ef4bde509605aa0504c021b22d569e60d",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:39:49.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "006cc6a0e0060ec0bbd5252aa684ff8418eb7f60",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:37:39.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "053b51e1c500316f055cfdfb1a90f7cf0ab7bd70",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:37:35.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "a57c4f1210502e5b0752bdfdb435fc6a354bea6e",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:37:03.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "08d0c5196756c4fd06794cca6f2cc2642e2142e8",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:36:58.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "02844babd2afb8315630cbd5b809d30affa5f19f",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:36:32.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "4bc78a78a1ffb2e30500dc367adee9d90ffc6fdf",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:36:24.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "0eff070d67e1b5fb8f41f808bd9f6204b37f9e7c",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:35:51.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "44e47752b963a1a7ffbb0f9efdc2d125a36a106c",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:35:31.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "80bc0dedca8e1f043cc0becc49e8ca099481da08",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:35:18.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "a54c32425479cd24843af92d638d93f6bebc1d0d",
+      "repo": "OpenAgentsInc/openagents",
+      "model": "openai_codex",
+      "date": "2026-11-03T14:35:14.000-06:00",
+      "language": "Jai",
+      "stars": 462
+    },
+    {
+      "sha": "cab4e4830266e69a64c4a4bf92f31db857b0fbe4",
+      "repo": "OpenAgentsInc/openagents",
+      "model": "openai_codex",
+      "date": "2026-11-03T14:35:14.000-06:00",
+      "language": "Jai",
+      "stars": 462
+    },
+    {
+      "sha": "87461c4d026f9b37c037a65e0849cd59cc2f441e",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:33:25.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "250f58a46366d8d8ba3fd2368f040f641a068bbf",
+      "repo": "tangency-labs/solidcore",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:33:20.000+01:00",
+      "language": "Rust",
+      "stars": 314
+    },
+    {
+      "sha": "fac2e5ec9fcd97cb37907ac4e3edad84ea398771",
+      "repo": "matz/spinel",
+      "model": "openai_codex",
+      "date": "2026-11-04T04:31:29.000+08:00",
+      "language": "C",
+      "stars": 2298
+    },
+    {
+      "sha": "b5f4bcad0991a78e32b23f931a32fcfba5b077a8",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:28:50.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "145a1e07496e71e0a518af51132c74900f910e87",
+      "repo": "stripe/stripe-android",
+      "model": "openai_codex",
+      "date": "2026-11-03T12:25:48.000-08:00",
+      "language": "Kotlin",
+      "stars": 1552
+    },
+    {
+      "sha": "af3e7008702933cdd6d9a71ac18630f543cd6669",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:24:56.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "e4b9dfa9a4f79d7bdb38aecd6df8814176d23caa",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:23:32.000-05:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "9eba06a0d0ccb2fd4aa87f3fa3a55873aaf9988f",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:22:35.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "b210285e848dc054dd58ec3c8380c1f8a7546902",
+      "repo": "vllm-project/vllm",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:19:28.000Z",
+      "language": "Python",
+      "stars": 96296
+    },
+    {
+      "sha": "ac714d8be31edd86219054793fef951fca57aa36",
+      "repo": "stripe/stripe-cli",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:18:04.000Z",
+      "language": "Go",
+      "stars": 2223
+    },
+    {
+      "sha": "7458bc6ecbee5e004f5d9398a4d48a9ccac0d2ac",
+      "repo": "terok-ai/terok",
+      "model": "openai_codex",
+      "date": "2026-11-03T21:16:41.000+01:00",
+      "language": "Python",
+      "stars": 51
+    },
+    {
+      "sha": "dd0996883a1d7b1b97dce29c6cd0bfff7e67ed07",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:12:40.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "2a1e4a2c7eba9770c32e72212f8e13330d055b8f",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:12:11.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "797d6d0ae91b82081a44cfe2d87e4746da9b3c5f",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:11:37.000-05:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "e318995ba608bb08f55384eb534cea0eb051b4fe",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:11:30.000-05:00",
+      "language": "C++",
+      "stars": 138
+    },
+    {
+      "sha": "7b4f53165056d665378a09ec84465b6b033f5bf7",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:06:28.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "2a0fcb6c42a8bd071553e1b3be708d5dfddaaeda",
+      "repo": "moq-dev/moq",
+      "model": "openai_codex",
+      "date": "2026-11-03T20:06:21.000Z",
+      "language": "Rust",
+      "stars": 1597
+    },
+    {
+      "sha": "373873c5b701a16086ec9b520a03ad80eaec2a48",
+      "repo": "ansible/ansible-ui",
+      "model": "openai_codex",
+      "date": "2026-11-03T15:06:11.000-05:00",
+      "language": "TypeScript",
+      "stars": 116
+    },
+    {
+      "sha": "f3e212754c664bd1a967344a2afe202a26e907ee",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:57:58.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6640fe2cbad4d97859dce7599bf3c2a8faa935a3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:53:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "78dcb76b0851aca0f0f9a7398592054815ee02e9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:53:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6833688d8a2aa82debcbc532b4ce79ad03d21b60",
+      "repo": "horizon-rust/horizon",
+      "model": "openai_codex",
+      "date": "2026-11-03T14:53:12.000-05:00",
+      "language": "Rust",
+      "stars": 6404
+    },
+    {
+      "sha": "1aef1c3b7101eb85abae5faeb5c610434e2c3b1d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:53:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "85707c993b4f10bdf420cf6724097da7395bab38",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:36.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "46a4d7c5ca323c0a98d90a73b1d6ce38cb19783f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:36.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "737da43b0f83fd3f9dd84c63fc730df163e79b99",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:35.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4f39e54be21a2a3f4ecbbaa1c6468a344d1b62c4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:35.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d4023c745658c1bc193771b6bc511681afd843d1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:35.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1b5d060fb8cb5ae8bd143c2c13d16e88d7c8c893",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:35.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "96499d211b18a765f4e4165a25e8d14a82ae6dd6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:35.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "780219dde7ffe3ee5d9a89800c8f2add4ebf7daa",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:35.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cd24351d2f616af6e36b8321b702e4f3d35d706a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:35.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d14932525e4fa1c2e061fb4bb7ed42cd5e10c62c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:35.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1e62f4951aa258d4c07af782f4c4236de8d97ad7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6233e257a091f86d1fea7513840d1fc72e785271",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7ed9721c08213d7daa9d7aa1e73ef20e8db2d4a3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f7410212c42815505135a8710781d511c5fc8471",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e742cb3d92bcbe2b6962a1b17a437411089affe4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c54b530e5672e9e82d91f4dac8d9a4bc6b06b2e8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "549e215873380eace9d73bc56556de25db4f73ea",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1db53fb94d74ff82f15f646e864bd09cb0883912",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:34.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "03e413a36c72cb09c397d26ed6be6239991b80b0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:33.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "338a94286ee08465970d702f79e2916976cc5053",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:33.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1884126ea4ecce902de2db2c6b1aaad4ad144b9d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:33.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f71f1ba7f581116918e01a89839af5207102db61",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:33.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "03d639a985f737e2df7e72ceb57157970a5bcb98",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:33.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cebddadf5d2407362bb9cf7ae30499429dde2c92",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:33.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "119be3351ebfa8cd3c3ccc39404050585bbc9ca9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:33.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fb70218e2ab29c46fe3967a76ae3f1cabc3d9414",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:33.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "722ab7b8931db932a7dd6751f2d5310abf31b21e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:32.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6239870a8298bb4071f08c7876a6882b1aa05819",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:32.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c13f7a4fdeafa7c80c13ab5ecffbba186e7685b3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:32.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b801926f84cf4710fbf54125effc74acff308fbb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:32.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b116cd2c69d08d073ea5e068428feb1a30361fab",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:32.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c54a85cb7a9e2556ee4cf3fee587aa96764d2767",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:32.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c6dbd66d2492f2a8e044b7dbed5ddb598fe94477",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:32.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d3288236203b5855ecb4c60f7183a50ab0da9f3d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:32.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7a94cc7c68047d90616521a777a5cf25f4a570b3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:31.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9fe36cd7844cdf0e8fb4145813fc34b491c4a93c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:31.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e8ae171e11fa2af467f78ba9ab0182f9a41e0d60",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:31.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b17cf1c6bdc3d94f1c2ce466b816d7b35ada0e58",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:31.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "23c9fc380e920c52c6032a4c32191d8a0d881e55",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:31.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3f744b1f56ffd7b68452062c6443414e2aa31b20",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:31.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "39c0d10cc7c38aae939e5d656f0255208e45031e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:31.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5376993ee70386ed9324f786b318b7dad91cb18e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:31.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e2e5c6b462a31ccf84a012b05c1176f271775ca1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5438a1e989c0d54f5b52e9aec9323312a882ffa2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "818aea55aab1676a2a3f4ce46fd0adf713363ff2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "998186f87590590ca29ab478c2d2d7c92d77d693",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "03488fd8b3a8dac3d768978baee4f20e48a6b973",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "39983fc749ec6fed0b687e17e615d34582b222b3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c26c4895a7c5f669d298d1c2ee42a4ba6a582ffb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f16964429a4f660912e9d5e30fb344636c46ece9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f84d4b1cb27cf35505b5dfb69321022ad4c326f8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2afc385f27af235ca12ae9e71f9f374d3498f5b8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1ede68aa422517ca84b716b53f1e86926ec991b3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "bbf4a6dd0d928eafd3b8c8303d96a632441a9628",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "eab900ac659bc2fda82c69527c195b1a3c7d93d8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c056befd951a7a88070a28e384b90ffa26ae78c6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c45972da02cf5c497c75aa7c9d18d6d28377b512",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b6f40eaf604c8b93e6161055e80f30d458b23d9e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "367cfe5be8d6d6cdd92768e069965b90bd833870",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:29.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "75a9bde2a7115ad2e8d24102da947866c870b063",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "da1506f8eb788576dc2f71df10cb5afde561f86d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ffbecefc13a920e5b378e3375f63c764d69763ac",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9100cba37ece0815dfb827f6beb5b4fc149f9573",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7d366417a8a47324b2d3df5973fe0f03dac235d7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "49adb26d9163d7c91ae79b79d79daaec7a154573",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "74ac4a1aa71d65949b24b5d0e492fc8d259ae0b2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "07e50aa4891402a6c9bf8184c051e4d9c6ec0b50",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:28.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2020ec875e065654f155a47e2277d7fe8bd8845b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:27.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "737f21d235474dda8e6ee24a8da91ce3b6e71f06",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:27.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e17b5bf12964fa6b67e433c11e313d89befde8fa",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:27.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9e015e7d5ed04e279ed50914eb93fddc6db0236e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:27.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "30cea9ae448abf9e295329e8e9cb9405f21d7fb0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:27.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0b5103a3a34fde674ceeb0862ae0b8659e87fc97",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:27.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "85c78944f4453740090f796d06957729c8093724",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:27.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "03890f8db41a30f67345be9ea44fc78257fcd963",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:26.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "30517c99eadd6248ad03cd60c62590927be7aa08",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:26.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1543c43ff16e9e861980ff54b1f622ad6fbd4166",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:26.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b74c0356a200873982712855f1dae71f66dfd61c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:26.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "71863fd9cfd775e2191a2d4ec7bc8647fd76ad2d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:26.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b274e1c86f6167d8521e22cc7e4be2280678a07e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:26.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "dbe0776b5f6e378befba458a2b9826a728ae497a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:26.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "caa55fda835c835939c9ecff8191b2c3f12bdfbc",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:25.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0eacfe5e603dcb2f6ea28c771fde1a6613ca660c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:25.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1fe4f5791dadcf09d5f59ad06e1f167fe736108e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:25.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6ee267b3218ebc7d98be4823e28852c90b6d1d44",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:25.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "124bec174418a71d95310a3d89df4a99268951a8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:25.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5f0c56916f487d29f747bc6c2e3b00d8365b0a2b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:25.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "195299263879ac839da702228977afdf84001694",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:25.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cc6fe338dae3907c1818bae464c207a020b815cd",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:25.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "eeccd19113e43fb227447ebdac5f6c7593f486e1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b8c53057f30f35a455d47dc722015b5780b8702b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7f7582d372ae9aab238f30485f132208bfca1bcb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ccbf94e82a6d504b38134e19a47693d6080f1f6e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b47fbfac1513ca690edea1c797ccfcef6c82720c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b9b4966b2172184a202d69231ebad96ea4a19022",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d03ee28563bba466304b5fb60978e4c3e0130862",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1cb973e86eaffe16047e034b5771fea9157433f8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ce18fa28f4ee0eef906b4caf8374ec8a5c247201",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e0064b6880e852fa4c9f3b152effbbcf5a3d4617",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d5f38d488afec540e0aba4a5f38359980c4e53db",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8975c19918c01a5f8f026b613b02ed71e3548d52",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "69a77a05350a9d5478089d1340d1d98297dd2db3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6a3fb7aeddefdc41c09cd63bc4ecfb6d6d219946",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c06574e188812c1eefd7fc6f3a0a4e3dbc569a35",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-03T22:52:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "abb7fa6f7b61f207c6816710f4f704d7598e9974",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-03T22:37:49.000Z",
+      "language": "Dart",
+      "stars": 380
+    },
+    {
+      "sha": "060795ff51c250c6516163838175e723ef23abeb",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-03T22:35:20.000Z",
+      "language": "Dart",
+      "stars": 380
+    },
+    {
+      "sha": "2cf9b00ad59d1956a3ef9ee90193aeeb46d38156",
+      "repo": "flutter/website",
+      "model": "gemini",
+      "date": "2026-11-03T14:02:06.000-08:00",
+      "language": "Dart",
+      "stars": 3134
+    },
+    {
+      "sha": "5013ee1a62741e0ff2247bd17acf0787363c359e",
+      "repo": "sinkaroid/lustpress",
+      "model": "gemini",
+      "date": "2026-11-04T03:32:30.000+07:00",
+      "language": "Rust",
+      "stars": 133
+    },
+    {
+      "sha": "c619fef518ea4fe277c07a8d12e2fe1b6fbff185",
+      "repo": "firebase/firebase-tools",
+      "model": "gemini",
+      "date": "2026-11-03T19:32:41.000Z",
+      "language": "TypeScript",
+      "stars": 4487
+    },
+    {
+      "sha": "140b51f715fb8d91d259abe5cbc62fc594760657",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-11-03T18:27:10.000Z",
+      "language": "Dart",
+      "stars": 5330
+    },
+    {
+      "sha": "be22c927f5cd109c1a0fbc00b286614247f1f900",
+      "repo": "openconfig/featureprofiles",
+      "model": "gemini",
+      "date": "2026-11-03T23:45:52.000+05:30",
+      "language": "Go",
+      "stars": 70
+    },
+    {
+      "sha": "b9b2802b2e96d25054f9c3cb5c948029b9b939bf",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-03T17:39:09.000Z",
+      "language": "Dart",
+      "stars": 380
+    },
+    {
+      "sha": "dae45252928b232756cbcf9f9d2335310c09d97f",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-11-03T17:11:08.000Z",
+      "language": "Dart",
+      "stars": 5330
+    },
+    {
+      "sha": "490b13beb52e7a4282e87f15ca507cf38fc246f8",
+      "repo": "firebase/extensions",
+      "model": "gemini",
+      "date": "2026-11-03T16:31:27.000Z",
+      "language": "TypeScript",
+      "stars": 979
+    },
+    {
+      "sha": "a24d0b5cf3b8c49930037cc2b0620fb89cb66ed8",
+      "repo": "googleapis/google-cloud-python",
+      "model": "gemini",
+      "date": "2026-11-03T09:47:52.000Z",
+      "language": "Python",
+      "stars": 5416
+    },
+    {
+      "sha": "1ea585c273fe4498e9d6c300364d862df816343d",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-03T03:36:11.000Z",
+      "language": "Dart",
+      "stars": 380
+    },
+    {
+      "sha": "b00ed1f4c9348d46e38d90248f052cfc46b2235a",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-03T02:53:47.000Z",
+      "language": "Dart",
+      "stars": 380
+    },
+    {
+      "sha": "e516485aeba594cedadc1fc8fbe2b8d57e891c65",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-03T02:52:00.000Z",
+      "language": "Dart",
+      "stars": 380
+    },
+    {
+      "sha": "ef88d2ce01cc721be12321faa73312a1c4777ebc",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-03T02:48:25.000Z",
+      "language": "Dart",
+      "stars": 380
+    },
+    {
+      "sha": "51c71be0b69a05946b1441b09efe88eebe89bea5",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-11-03T00:10:06.000Z",
+      "language": "Dart",
+      "stars": 5330
+    }
+  ],
+  "totals": {
+    "claude": 33,
+    "openai_codex": 243,
+    "gemini": 23
+  },
+  "repos_tracked": 75,
+  "repo_activity": {
+    "firebase/extensions": {
+      "weekly_total": 2
+    },
+    "OneUptime/oneuptime": {
+      "weekly_total": 1584
+    },
+    "Hsiung-Shao/PobTools-zh": {
+      "weekly_total": 17
+    },
+    "nostalgiatan/SeeSea": {
+      "weekly_total": 100
+    },
+    "kenn-io/msgvault": {
+      "weekly_total": 90
+    },
+    "trina-app/trina-ax": {
+      "weekly_total": 301
+    },
+    "vllm-project/speculators": {
+      "weekly_total": 13
+    },
+    "join-the-flock/flock": {
+      "weekly_total": 76
+    },
+    "Graphify-Labs/graphify": {
+      "weekly_total": 88
+    },
+    "leolobato/playden-ps5": {
+      "weekly_total": 33
+    },
+    "OpenRAC/OpenRAC": {
+      "weekly_total": 92
+    },
+    "mdSilo/mdSilo-app": {
+      "weekly_total": 40
+    },
+    "ansible/ansible-ui": {
+      "weekly_total": 6
+    },
+    "horizon-rust/horizon": {
+      "weekly_total": 8591
+    },
+    "devfile/api": {
+      "weekly_total": 1
+    },
+    "stripe/stripe-ios": {
+      "weekly_total": 28
+    },
+    "Dicklesworthstone/frankensonos": {
+      "weekly_total": 75
+    },
+    "kenn-io/forge": {
+      "weekly_total": 85
+    },
+    "OpenIPSL/OpenIPSL": {
+      "weekly_total": 6
+    },
+    "firebase/firebase-tools": {
+      "weekly_total": 17
+    },
+    "flutter/packages": {
+      "weekly_total": 17
+    },
+    "stripe/stripe-android": {
+      "weekly_total": 27
+    },
+    "jgouviergmail/LIA-Assistant": {
+      "weekly_total": 9
+    },
+    "zoonk/zoonk": {
+      "weekly_total": 80
+    },
+    "dilolabs/nosia": {
+      "weekly_total": 4
+    },
+    "midagedev/bloomery": {
+      "weekly_total": 261
+    },
+    "BuilderIO/agent-native": {
+      "weekly_total": 88
+    },
+    "getsentry/toolkit": {
+      "weekly_total": 78
+    },
+    "OpenAgentsInc/openagents": {
+      "weekly_total": 2264
+    },
+    "tangency-labs/solidcore": {
+      "weekly_total": 2739
+    },
+    "Leonxlnx/tastecode": {
+      "weekly_total": 352
+    },
+    "block/buzz-app": {
+      "weekly_total": 187
+    },
+    "podman-desktop/podman-desktop": {
+      "weekly_total": 72
+    },
+    "go-graphite/go-carbon": {
+      "weekly_total": 62
+    },
+    "kenn-io/kata": {
+      "weekly_total": 50
+    },
+    "pandas-dev/pandas-stubs": {
+      "weekly_total": 9
+    },
+    "DitriXNew/EDT-MCP": {
+      "weekly_total": 37
+    },
+    "eyalgolan/statecraft-israel": {
+      "weekly_total": 317
+    },
+    "civitai/civitai": {
+      "weekly_total": 593
+    },
+    "phase-rs/phase": {
+      "weekly_total": 76
+    },
+    "matz/spinel": {
+      "weekly_total": 1573
+    },
+    "kenn-io/docbank": {
+      "weekly_total": 68
+    },
+    "steerlabs/opensteer": {
+      "weekly_total": 61
+    },
+    "stripe/stripe-cli": {
+      "weekly_total": 8
+    },
+    "BotHarness/DeepSeekBot": {
+      "weekly_total": 168
+    },
+    "SpeciesFileGroup/taxonworks": {
+      "weekly_total": 39
+    },
+    "TIMISONG-dev/kernel_xiaomi_sm8250": {
+      "weekly_total": 8
+    },
+    "googleapis/google-cloud-python": {
+      "weekly_total": 26
+    },
+    "kirklandsig/halo2-decompiled": {
+      "weekly_total": 6859
+    },
+    "melgarafael/DeskcommCRM": {
+      "weekly_total": 539
+    },
+    "stripe/openapi": {
+      "weekly_total": 2
+    },
+    "openconfig/featureprofiles": {
+      "weekly_total": 11
+    },
+    "vtmocanu/uzi": {
+      "weekly_total": 82
+    },
+    "stripe/link-cli": {
+      "weekly_total": 3
+    },
+    "respanai/respan-gateway": {
+      "weekly_total": 26
+    },
+    "terok-ai/terok": {
+      "weekly_total": 6
+    },
+    "moq-dev/moq": {
+      "weekly_total": 439
+    },
+    "WoodyWizard/SporeCoop": {
+      "weekly_total": 441
+    },
+    "sambanks/octabam": {
+      "weekly_total": 96
+    },
+    "openclaw/openclaw": {
+      "weekly_total": 2726
+    },
+    "ykuwai/ppt-mcp": {
+      "weekly_total": 66
+    },
+    "LC044/TrailSnap": {
+      "weekly_total": 20
+    },
+    "Open-BFME/Open-BFME-2": {
+      "weekly_total": 5395
+    },
+    "jstachio/rainbowgum": {
+      "weekly_total": 32
+    },
+    "KaikoClanworth1/wwe-svr2011-pc": {
+      "weekly_total": 108
+    },
+    "stripe/stripe-ruby": {
+      "weekly_total": 4
+    },
+    "jpietek/PenguinBurner": {
+      "weekly_total": 8
+    },
+    "vllm-project/vllm": {
+      "weekly_total": 727
+    },
+    "sinkaroid/lustpress": {
+      "weekly_total": 3
+    },
+    "agent-of-empires/agent-of-empires": {
+      "weekly_total": 44
+    },
+    "storytold/wordcraft": {
+      "weekly_total": 105
+    },
+    "tenstorrent/tt-metal": {
+      "weekly_total": 313
+    },
+    "LootJunkieAzza/NVForever": {
+      "weekly_total": 294
+    }
+  }
+}
