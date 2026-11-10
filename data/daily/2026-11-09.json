@@ -1,0 +1,4779 @@
+{
+  "date": "2026-11-09",
+  "commits": [
+    {
+      "sha": "86b3d53ec63eb9225395406c32bec0c54e28f317",
+      "repo": "Cratis/Chronicle",
+      "model": "claude",
+      "date": "2026-11-09T23:59:59.000Z",
+      "language": "C#",
+      "stars": 65
+    },
+    {
+      "sha": "804054dcce507bc2839744351d05f8762d8bf0e2",
+      "repo": "ethereum/EthLib",
+      "model": "claude",
+      "date": "2026-11-10T00:59:59.000+01:00",
+      "language": "Lean",
+      "stars": 96
+    },
+    {
+      "sha": "6acf0e0ab6f3a53816710c1d518a78acdf6a394d",
+      "repo": "subgentic/coral",
+      "model": "claude",
+      "date": "2026-11-09T15:59:59.000-08:00",
+      "language": "Go",
+      "stars": 120
+    },
+    {
+      "sha": "8a9da436c5b86b80821466435d31e210962ba6c9",
+      "repo": "subgentic/coral",
+      "model": "claude",
+      "date": "2026-11-09T15:59:59.000-08:00",
+      "language": "Go",
+      "stars": 120
+    },
+    {
+      "sha": "10ce4adc1c8cf2b33df1936ddea50fd433913c46",
+      "repo": "Steemhunt/mint.club-v2-contract",
+      "model": "claude",
+      "date": "2026-11-10T08:59:52.000+09:00",
+      "language": "JavaScript",
+      "stars": 62
+    },
+    {
+      "sha": "7d570bcb40f41d53fd012cb4818419feb6d9e8ab",
+      "repo": "receptron/mulmoterminal",
+      "model": "claude",
+      "date": "2026-11-10T08:59:50.000+09:00",
+      "language": "TypeScript",
+      "stars": 263
+    },
+    {
+      "sha": "7009cacb14092e34579652bff012ecd7581be4df",
+      "repo": "Bike4Mind/bike4mind",
+      "model": "claude",
+      "date": "2026-11-09T23:59:45.000Z",
+      "language": "TypeScript",
+      "stars": 95
+    },
+    {
+      "sha": "48c4b2007e5ce118651ed7c6e66e4c1859fabd53",
+      "repo": "Bike4Mind/bike4mind",
+      "model": "claude",
+      "date": "2026-11-09T23:59:44.000Z",
+      "language": "TypeScript",
+      "stars": 95
+    },
+    {
+      "sha": "c1767bb09aec339363f2b96b2942488d10ce9ca0",
+      "repo": "jesdga95/basalt",
+      "model": "claude",
+      "date": "2026-11-09T18:59:43.000-05:00",
+      "language": "C++",
+      "stars": 860
+    },
+    {
+      "sha": "c6f0a9aa6506b6227df8ebc732843e614ff563d9",
+      "repo": "gastownhall/gascity-packs",
+      "model": "claude",
+      "date": "2026-11-09T23:59:41.000Z",
+      "language": "Python",
+      "stars": 104
+    },
+    {
+      "sha": "d29b0ec107f8d0432f5a987ac9f15d63e6ed70dc",
+      "repo": "omerbenamram/evtx",
+      "model": "claude",
+      "date": "2026-11-09T23:59:40.000Z",
+      "language": "Rust",
+      "stars": 976
+    },
+    {
+      "sha": "6fa9f218c76457d3b0d72d6f1845f9223486d98b",
+      "repo": "matz/spinel",
+      "model": "claude",
+      "date": "2026-11-09T23:59:39.000Z",
+      "language": "C",
+      "stars": 2319
+    },
+    {
+      "sha": "b62cc3a0f16a4872cdb186d18dbfea608829d83d",
+      "repo": "mantrakp04/ardia",
+      "model": "claude",
+      "date": "2026-11-09T15:59:38.000-08:00",
+      "language": "TypeScript",
+      "stars": 1615
+    },
+    {
+      "sha": "4a59c9318de335419bb5802d5bbed1244ac183af",
+      "repo": "smithersai/smithers",
+      "model": "claude",
+      "date": "2026-11-09T23:59:38.000Z",
+      "language": "TypeScript",
+      "stars": 448
+    },
+    {
+      "sha": "3db5b5c4d3e1c4503226f7ed55c33ea79d152f68",
+      "repo": "rawnaldclark/Stash",
+      "model": "claude",
+      "date": "2026-11-09T18:59:33.000-05:00",
+      "language": "Kotlin",
+      "stars": 1594
+    },
+    {
+      "sha": "d4900db9139a311b8d090a84935c2659cfa185bb",
+      "repo": "Nexus-JPF/note-companion",
+      "model": "claude",
+      "date": "2026-11-09T18:59:32.000-05:00",
+      "language": "TypeScript",
+      "stars": 874
+    },
+    {
+      "sha": "95fa0ec454d7f8dfdabfbe1acfb192c87f8d2927",
+      "repo": "GottZ/ctx",
+      "model": "claude",
+      "date": "2026-11-09T23:59:31.000Z",
+      "language": "Go",
+      "stars": 82
+    },
+    {
+      "sha": "c256cb048189302c9acf23a0d457970f9f739461",
+      "repo": "propeller-heads/tycho",
+      "model": "claude",
+      "date": "2026-11-10T07:59:26.000+08:00",
+      "language": "Rust",
+      "stars": 201
+    },
+    {
+      "sha": "0222a5eda7ee8755dc75b5486d6c18f023b4063f",
+      "repo": "purplefish-ai/factory-factory",
+      "model": "claude",
+      "date": "2026-11-09T18:59:23.000-05:00",
+      "language": "TypeScript",
+      "stars": 54
+    },
+    {
+      "sha": "217395693c67aa1fa3f2de1622fa0c7ce7fdf8eb",
+      "repo": "jhaizhou-ops/S2Arm",
+      "model": "claude",
+      "date": "2026-11-09T15:59:22.000-08:00",
+      "language": "C#",
+      "stars": 2297
+    },
+    {
+      "sha": "ad682a91097a2b557a2582135a2af82c45325d88",
+      "repo": "propeller-heads/tycho",
+      "model": "claude",
+      "date": "2026-11-10T07:59:20.000+08:00",
+      "language": "Rust",
+      "stars": 201
+    },
+    {
+      "sha": "53435091c4ae15a6c66f68208b91d73d2517e4a4",
+      "repo": "superdb/super",
+      "model": "claude",
+      "date": "2026-11-09T15:59:20.000-08:00",
+      "language": "Go",
+      "stars": 1578
+    },
+    {
+      "sha": "72a5d8726670ff6a9e698e32472297750ebaf676",
+      "repo": "apmantza/pi-lens",
+      "model": "claude",
+      "date": "2026-11-09T23:59:18.000Z",
+      "language": "TypeScript",
+      "stars": 524
+    },
+    {
+      "sha": "6ecae6d12b900b28fd6caaac0f343a7e8d7874e6",
+      "repo": "ReviewStage/vespin",
+      "model": "claude",
+      "date": "2026-11-09T23:59:17.000Z",
+      "language": "TypeScript",
+      "stars": 73
+    },
+    {
+      "sha": "76bcb5c69d6babd669a2a7d3d56afee78edcfc0c",
+      "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
+      "model": "claude",
+      "date": "2026-11-10T05:29:17.000+05:30",
+      "language": "TypeScript",
+      "stars": 3236
+    },
+    {
+      "sha": "9321656e59617552fde8c6370348b7041c72791f",
+      "repo": "rawnaldclark/Stash",
+      "model": "claude",
+      "date": "2026-11-09T18:59:16.000-05:00",
+      "language": "Kotlin",
+      "stars": 1594
+    },
+    {
+      "sha": "8031f49df40f4dbcb71f16d27e628665557a5457",
+      "repo": "objectstack-ai/objectstack",
+      "model": "claude",
+      "date": "2026-11-09T23:59:16.000Z",
+      "language": "TypeScript",
+      "stars": 89
+    },
+    {
+      "sha": "bdc52f6af5e65debddaada58b0163f999798b018",
+      "repo": "pandas-dev/pandas",
+      "model": "claude",
+      "date": "2026-11-09T15:59:08.000-08:00",
+      "language": "Python",
+      "stars": 50566
+    },
+    {
+      "sha": "1e0e77bbc20075eb92163de295516a3d9226c1dd",
+      "repo": "webliteca/swingwebview",
+      "model": "claude",
+      "date": "2026-11-09T23:59:07.000Z",
+      "language": "Java",
+      "stars": 114
+    },
+    {
+      "sha": "6e6bb306fa867568217b6e23442c85b171d688b5",
+      "repo": "BotHarness/DeepSeekBot",
+      "model": "claude",
+      "date": "2026-11-09T23:59:05.000Z",
+      "language": "TypeScript",
+      "stars": 778
+    },
+    {
+      "sha": "d23d79e0c5a7128737f2026fd44996b783ea41d1",
+      "repo": "Hanabi-Live/hanabi-live",
+      "model": "claude",
+      "date": "2026-11-09T18:59:04.000-05:00",
+      "language": "TypeScript",
+      "stars": 215
+    },
+    {
+      "sha": "3c8020daa2c9911c6903898806c824416c7c1c72",
+      "repo": "kenn-io/msgvault",
+      "model": "openai_codex",
+      "date": "2026-11-09T23:33:35.000Z",
+      "language": "Go",
+      "stars": 2185
+    },
+    {
+      "sha": "bade2ff4d6f30c6401bb9591e1f5818fd3d4267f",
+      "repo": "zoonk/zoonk",
+      "model": "openai_codex",
+      "date": "2026-11-09T20:33:31.000-03:00",
+      "language": "TypeScript",
+      "stars": 157
+    },
+    {
+      "sha": "89c9237ac3b9ca7dd72a878546dfa7d66a6b8f74",
+      "repo": "Gamer92000/echo-dot-assist",
+      "model": "openai_codex",
+      "date": "2026-11-10T00:30:29.000+01:00",
+      "language": "C",
+      "stars": 932
+    },
+    {
+      "sha": "b57a9d2bc83ad789bbc0d647d37d9b0a9adb1227",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-09T18:24:16.000-05:00",
+      "language": "C++",
+      "stars": 145
+    },
+    {
+      "sha": "cb2ed420df152acda74bb8b6184054da264203ef",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-09T18:21:43.000-05:00",
+      "language": "C++",
+      "stars": 130
+    },
+    {
+      "sha": "ccf8f2f429f4b127c0be27d2a2ed7dec0918e421",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-09T18:21:43.000-05:00",
+      "language": "C++",
+      "stars": 130
+    },
+    {
+      "sha": "8305c4ba794c68b943a75903b81f9fbccb70f921",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-09T18:21:43.000-05:00",
+      "language": "C++",
+      "stars": 130
+    },
+    {
+      "sha": "7fb0aefe011614468ffd0e2881469ff1e37963ea",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-09T18:21:43.000-05:00",
+      "language": "C++",
+      "stars": 130
+    },
+    {
+      "sha": "8a5ed0874601dc9b6f8ce493a3470e0732a194e5",
+      "repo": "Open-BFME/Open-BFME-2",
+      "model": "openai_codex",
+      "date": "2026-11-09T18:21:43.000-05:00",
+      "language": "C++",
+      "stars": 130
+    },
+    {
+      "sha": "884ea6a81233db3e0fd83fac97cd4ffd61c93672",
+      "repo": "stripe/stripe-ios",
+      "model": "openai_codex",
+      "date": "2026-11-09T15:14:21.000-08:00",
+      "language": "Swift",
+      "stars": 2579
+    },
+    {
+      "sha": "b561471bdd99cb0dc584f74aea103bfa3b4c843b",
+      "repo": "phase-rs/phase",
+      "model": "openai_codex",
+      "date": "2026-11-09T23:11:19.000Z",
+      "language": "Rust",
+      "stars": 327
+    },
+    {
+      "sha": "1debc1001e90c26d1c6173980f56915747d73031",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-09T17:59:17.000-05:00",
+      "language": "C++",
+      "stars": 145
+    },
+    {
+      "sha": "cd8ed764a60a7bc2e60f10c10bb75359ecfb7a50",
+      "repo": "ldclabs/ic-panda",
+      "model": "openai_codex",
+      "date": "2026-11-10T06:50:08.000+08:00",
+      "language": "Rust",
+      "stars": 59
+    },
+    {
+      "sha": "fedda61f96f8fc18b8a1b244a6007d8a0f240d94",
+      "repo": "OpenTodoApp/OpenTodo",
+      "model": "openai_codex",
+      "date": "2026-11-09T23:44:14.000+01:00",
+      "language": "TypeScript",
+      "stars": 368
+    },
+    {
+      "sha": "4e0b587aa0742ce78c2aaf63684cbd4e5ab32987",
+      "repo": "kirklandsig/halo2-decompiled",
+      "model": "openai_codex",
+      "date": "2026-11-09T17:36:18.000-05:00",
+      "language": "C++",
+      "stars": 145
+    },
+    {
+      "sha": "773096a3d612bfbcde88b498bf5c5241fc2ae414",
+      "repo": "cybersemics/em",
+      "model": "openai_codex",
+      "date": "2026-11-09T22:35:49.000Z",
+      "language": "TypeScript",
+      "stars": 358
+    },
+    {
+      "sha": "7fa75a92bd38c9ffdd871c47369dcab3418385a9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:32:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "863b395e3ca5c4fe4a939aa73baf5349e91f9404",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:32:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c453635fe48a4e1cc5773e46114875b14fe1b1eb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:32:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8d5d8379e2492176f4fe6cf83e01c4a8cf0355c3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:30:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "962b754b3c335b0c55c912a2e8b4814693a25b1e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:30:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "512936c61aacf0e324d94c4a1924d52a03afe462",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:30:30.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5961d476c55c86b2e8d0a25668b6caa574f30779",
+      "repo": "block/buzz-app",
+      "model": "openai_codex",
+      "date": "2026-11-09T14:25:16.000-08:00",
+      "language": "TypeScript",
+      "stars": 117
+    },
+    {
+      "sha": "1bd3c1084fd1a06daa285f30fe4c7142ffae34d6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:18:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f2eeb4082b99ccd20e205096ebe84b6b53f0ab70",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:17:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3ff527d9c73692a384b5c37eb5f338ad7862064d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:17:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3a6fb8a25b6149b0bcf3dd380e84e0e67441477f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:17:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8751290fde44144245ca3ff4d6bb494f138fdf80",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:17:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "105d8141e4cac1eebbce65c2d656a4fb74a4fcf3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:17:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c1e00ab5c5b0cdf5994ef1ea50e3c36de7354c8e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:17:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "83ba3de4e976c24d8a088223bee709d9d4532745",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:17:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "abd4292eb2ec86e226510975512566af5a686e9b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c9b8b0d3b06c523757c28dfd446c25d5919cf00d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "736ad5616d77841539309950f31cf1cf944347c9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "bf245bc0cbd5d1191aa26b6a2fb4098ea0e319f3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2217cb61d8dbc302b22407205ad781bbeb5eb97c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b5ad69124d2609cb616df16617a234b3d9e122c4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "706d8947ebfae10e00fead57643d375bdea3a779",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "293332730d5411e4fe3ed22fb654bc75098676ba",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2abc23579f84c00fc7a0903c122a899bcfc2ea81",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c1ccbd05f049fdf7b39f71513def2a083b78f23a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "79cd7b345ea661ae785a8449ac704c04a133a2e3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c88dc148417ee40b9204415808ebcf27d492e379",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fa8dd20a8eba4e86d93c5c3d108399f7bbff5c87",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1b14b904a6ffa6a288b163e3c50eb3499abfec24",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d99b671ea7c8f8dc7ba45e9d3ba714b21ebefff0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ff19978dc5e76ba7fcf545adffbbf7fbf5be7d83",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "97db13bb7a312f845d6a104de4ac7d6f5f377de7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "da7c8d0637a59629c480650fc8deb858e29887c8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "62854c85ab808a23c31e66caa408fba6f99d1862",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cd4694f09e3c88bb308074b0f0d17968bd333973",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "499c3181449356a61bf113663e84b0164a126130",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3eba67830560ba8b4a5c835e34acdc1ce3a2a911",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "279db68d1d53917a5a9f24af488cdafcdf871814",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cb3d85c04f576e3a8a25c8840ba857e6f170288a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f104c8126645ec3be03119de75a182d55f96c74a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "34b5278d27cd8c1c443e3913c249e97903efa24b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "eb713a2db358ed55dc4f52551ace2a1242ed79b5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fb2dd381e0d252dd0c18a97a2060cd07fb3d5a78",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "52e7722936ddde2e5bc10eecedef9c2916c3b86c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "29df41e8a3b148a043441c21cb28686090f1970b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "236e544a3ceead80fde4d0779e3c93be4807c350",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d96652d36409ac104b53eb735703e998f45a75df",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0cf82ce4d6c000202edbbb6c144eb94c28a50f94",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "08a20bc059a9b64308f7e5fda3a7d76b5338ec7d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d3c770d56070fc405f54ec6c26818eb8b1127304",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6dae27e6ba3e7a09b578e4f3036b0b41e11ef1bf",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4bba84ef4d9f9deb3704ae717948388719a52098",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4c0a1b14b40d6d4ef51c230a24750dd573d0c59d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "13501a7f41e34a914c578c66a457e1a847bec883",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1e50c4948bfbec45eb65b46365cfee648b80bdf0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0534706d847df1751c5cf66b27ca42055d67739f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "09375ad6fd0cfab27b5c3fc37e438712d88c60cb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "399c5b59eaa53f1625e920daed3dbc2f771bb772",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "acb69b32212ebc03e55dff07f69583562a111956",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cee406a6106d082d4b9bae31530c8bd49c78910e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0983b4288df1ccd8f4e702ea4a39090bfbfde0d6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "deb4e62e2eabbac55067368f0ebdefb0d16ca57b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "35d2af177aefd5f3f71d124a9dc7758fe0f9997b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9e0e6d382f4b5411044c111faa19d4b050cd5db8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c295c4509b214ffd53e58bd2c3fdf3c7ea19ed46",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5ef5f384627dd7978aadd245fd773f75a772deb5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d04b5f5914c1b239401f8bfaac4e012f699045e6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "98c1b32b2dd5e9f0cd14280ff5cfd1718e8d80b8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4d330629b0357835eac9f506b1d361f0a0ae6541",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "eb65ec1218327b47984c813828ad716acd636e23",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4a8ead9edaf9a0f166617de40daddcdc7b0f9ccd",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "24df5efb224e0b775c7bac5f6b2d7926353bee9a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "906ea33bbc1fdfcb50be5c8911d1cb1240412a79",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7afb12740cb33194b0957eae7a059830fa1d5352",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "69b1f39b845a3aa24da4759213a62e4577af2dc4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e238b3163ddebcd98a9d9b48639aae70eaa3c44f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6aa92ce41bb46fef6b961bbb77499f5d0ef34f24",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ed8d40c4238d0d029b32f7d1a4bd25dd9985f7eb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b8209cc72def210e11828fe358279ec80eaa89b3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6b7898fc89d1f7ef39709a58abe1ad7f529a5b4f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "56aaa772b269bd3df061da289937dcb3e88047da",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "21fc174785f14f01db1aa79e8b02a84418f679c5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2dfe569854158e0b6a972622a490c6de5f0bc02b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4176ea240b1fdab46d38e323b13aead3161a83e5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7a32c8dd5d97a873aa7e29f94234e37a73b0db69",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "943fdf599e605284b8c1ec374128dd3bd138cc48",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "35f090699c7a6f4f2daf92617ea9ae60406508d6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "981cb0000dd8dd0ea1d89a74bb99d8bb5350556d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d775e3f8eaa5378474a5ef3d9c7d9ad7df063bba",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e04ec49a88f03cded225b0bfb5fb16bb31835773",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0e06769a175094ef2b8d4be00912e73af68df7e3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "93d188752879b92e0d5158c5dc100aad0649fabd",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "472d43b2c341fbbad6336f7a3681a98636744ca6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0080b61ae0bad08c26e4af5cf6a72e5ee4f0821e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d126509bfb3d52cf57cc08a609f2130cd6381b53",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "85090b3b8831c78c7ebe615de14c292020a2b576",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a4d1f2303be09a68669cf766a748ab4e7e1d8e4f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d003c12f6ffb26c9b477dd981ebaebd4f5afb66c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "99bf645e8f9f0275775f56199b9d3ab949b408b3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c31b86f0edd38efd91dfbdd66c1ec8780cede3a5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "57156746eee1150745f336759e9f2c189f6bd5a9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3fa1df11952d94bc42440cc54f0c35a465680910",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1fd944abc43cdd7bf075fce5c394bce4cb2757d8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "eb4ad25a4f0234fc38c6e7a499809850aae40e9e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "66e10f00d66d97a53fe13e94899b5547b38d03c5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "902cf2b8f1ee5f50cfba2afba22b0daf1bd12188",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "41186d2b8f044d4a46562784800055158c37eeaf",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b04d83ffc7aa775a77977c43bd062deaa61fe637",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ece3b84e7b797adf157f35f92263656009b5187a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b021a4c8c29b2a6de316bb3ae9e9b22f436b9014",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a0cf518130f233532f0fa0514be4e90c00c1b2de",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "12d1111a982382687c48f005b1f3be526d5737ce",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "60c3647ee96d5093a87f84900dc6ca892095b249",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b077b8fcfd20b66aaa707645aea336f744015d59",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ceca003e903bcec8b96ac31533625bcee3d1b1f8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "45beca84feac8d3f058e10878c3381b8ac6553e9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "496e3576b3680504f0a19e5b932234e2f82e97ec",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d9213dd87a5ce265dfabfcad3670ebf3d45bd4b5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "97543b744549531dadd1d07ce7519d91d1929688",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6a0d619677b8c174021c80a47a71a8d76375460f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ab5586701575784a83e9ee3e126079ec70fe575a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "66f71ca5956411505bce9f6ebec1ba44588f0c5e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "917ae58972049e5817bfde357ed081247a902d4e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9f064e53e886431d5545a36ecdd0b2a15c07af6a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8d2a8c1b349167d0ff8487bb05afa74b5e6bfabb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7fa2c7724c0fb729ea95719816e947932d0f1713",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5ccfc0ce0cdfa9627fc7eff2dbaf1e2a0e86069c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "85ce2772bd94c14484bf59c402a791899a0e2b5c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "eae90603eadca062a55390d027baf0f317eac05d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cfcbc3873380d25e2abf1ee0a4acda6740eb6019",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c7d1885ce5298fea5d8928ac2d541a0f13238a49",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "272e1d2d59a761e5eacd003d0740773e9edbcf22",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3cd2f8edac1d973d961217ef0b7aa3949c4945b2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3881bb02a2e7e4c15d48567686345ff4f682a6e4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c1a8a29cee13dd2bfc5ea4f8131acc62acd6ddab",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "42c95e3f10aa93e59611c2e5b1ca9c9a1693613b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "faa433c3d86affc83cf35d1ed8af54dc0d78f35f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3e0d72eefc04f406b1e9a9c051d1eeb3c2d97e93",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "36ce37a209f101caab239c1032c8d5c15f824dd1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "22a3f93cf68c34c3aaeb1ebfc65a03cf5956475a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b663ebd5a8bd6fe751aab5b4b46f307a4992cca5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d4fd99b50d91c44bcce507662f5e4f313c87143d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "64c1421b71407e81dbf701d0415e4b8e2bf61f4a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d4eff2ed3792e6e3271782e2333c12626f45f5ed",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f2bfe8dfab51118ccb99ea123504cc09080d9b50",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3600a7ea8e329649523e32a8a86a1fbb2cb0b601",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c4a36ab10f25c9ac963e100e58c7fe57e6e6f7e8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e2c08ad956c21e0c1b72bc62519167989144ed77",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "62c6345c8ff30943153295c22a84cd9def194633",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f894ffe6ce953ae1d70f5b3c5d0bd6727047853d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "33920eb4a97f9fb518dd1bb43f5fffe87f9971d8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4305959b44165be23fb2816f442610fb0d8109cf",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "04b564f0f3d17e8fa6557d906f659e769bb004b8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4f622f4ebd14290621e45991721dc5de92f32d60",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "69e060c2883d65938b189dcaab0517ef13354545",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c598659c5b6db7945e637240e60a91eaa0e7a096",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f70a1874200fbf7b2c842c86bb095b412b6f9099",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:16:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4e0cf125009959fcda939b7a6650dc2083af22e1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fb6054fab0e77e93a16864963e52dfe1afc196f3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "dd65dfcf79414121b2007a39b3f1dfbad8770ea5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d6ba002682a4c29526ea4ecab4e337f83d05fcff",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "83503c123aea5a96839a7ba96d633088c05b2317",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e7c02de6f950e39c1c3117e9f55af41f3a13c262",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "80378c70d978eca89ea41354c4c94a41d7b3c23d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7fa830fb32de08c6fbcf31931559e13d1d7d8689",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f2e99bf47f813595a7cd058ccdfdb181c51e21c4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cef91408be7eb92d113ec85063053c42c368963e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3cae6266fc30aedf526028fe93a495ecdaf9882f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "72773d5ebc7dd365f6c2afd6d9a2ea1fa79dc923",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "33e862fad2a67ae40c85e3c6f2ed9607112c6206",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c70b663b0225826a99a48b91f233b5c7b2792fdd",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8b14cec07cb15b049ce9cae8df8d0906a2ed3087",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c775a0818c87576cc3f227679f4bdee91201de0a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1f7d02157f2e11c98ea23ffc7a7a2442123c9770",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e3e6f399c343f5dcb979a54bec46837a1e856336",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "384f71d4268124402d843aa95cf1e02f0a646b5a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1a4fd0c2bc9713041776ca9b3c6011a28c63d5da",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "73b72b092f1d6058831347fb7724d96a71707b55",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0029f65d2f31712fdd5ca267601324f8ef6e89d7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "400462c7be7dff6d958203c2e3a26194450860a7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:52.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "887cece9642fb6222d9ca4c9120e97d37eee973b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "76027a2656a17cf69adee6b56d3e6e15ee88e555",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d74cd06412d90657c7333baad6b322ebf9237a1c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b67fd1c7b41a5d91a4814acbe137ce069c7d5921",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1c4799e98329c51deb9bb33807c38c51fdc40d89",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4e8a8ea280c4c93707d02658c81e77a42dba623e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c4a67ccf927b4dd1e788d33dfc4e4f38c891f867",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a51f8d9ccd04e7e4ceb65ef1ede88bdd3a4b53bc",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "08f61661beaca2ac67960f5e1809c63d3b297503",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f9c786f38869a63382803760e09bfcd33ad4e6a6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "109e019f9828f8137cc04cb7435607aa44235fe2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b3cbf765403426c72236458109d71cd2805495d2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b9c2014c1f92c73fc440c40de28b92b66dc9ca41",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7dede2a105f45299d0c3dfcf8cf2298279b38f94",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b77268abfcd6961993b15f711ec64c37e46e0680",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c3f516959e6c74b48276d3aa166776ec5daf35e6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7b60ca526d00880d7b6ce609907c2d584ec82031",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "42818d39e1669fb16d3ed3381090b825afb9f908",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7c2bf237a7c99fc134f4135e480f8a0c39aafbf2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "70b341ebaa41480d9f1a1d5842f0f7fb56716b04",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e5a1393aa91cfdd49a920f5201da300838aad714",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9e6e518225ff7a41310b5d2d66a7b3168c1354d3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2d546b4a34d34bddb6a826858541321c519451bf",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f0be7ea15352dbb4dc0999e759498ebb0f121448",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a34eadd30601c5fd6c0be5f017c5f1be55a8c8b5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0823b6e6b2171a92e76c1768666c6a7b933aafc0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b29848cff269ecee8a99bc1b391c985596e21143",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "38a769384834ec5783b5296c0f97513b46a21d94",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "50c69a5301271f9559f1e874db04cfa9c71015ea",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "adbbc115980d9910e983dc78a222b2b5fe0d524c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7157f6308090e872c38bdf4fdb0eb2f541e44190",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4f5d1813643b53d136a861110dadb53ca415b75d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9a450dc06b86ea11f107d1dd7a198b5816f50476",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5fb2641769fd106be9dcfef46d24ab1da2e693e9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1b2553522debbe7ab28e7f7a2b020cef43d86df4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "273d2108c17d3fdac374fdf31132a78c23450679",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "730516c371bada00df43cdf3edbc46701fd427f3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "037da8e4b325abaa8b5aa2c6cb2786c2020b65e5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f8dff3012f26846f1954542bf5d7a01ba508d8f2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "31ae3ad6adb2ea99c795e3b1aba2fbef2d6b1afd",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2ebda1105b9979a480958b47f0be673d3148c331",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "24f85ae41a3d5b3348a9b48402394954604666d1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9fad10b724450c0e55a5cde05825d7f36d2c7681",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3affd4eddd3bd832d0c9b00897d5cb608ad96575",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "75d6eebf708094c150d9058f6acbd3527953e952",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "77f23cb3d1eb2f258228a2d91b167d4062463acb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:44.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b58770b4c2ff4af5a2d14e518a2cd050b41a2688",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:44.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c8df156696b695a832aa4b634da6a9814eeab62e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:44.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "27603c9cd251cf4abb52dd20124bcfacfa04ffba",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:44.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0cb09d234e329b3c1f801367ae556f669468cf99",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "36f87e5cdbc2d3b273b7859dd0aaac51807202b7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ae5c5b6db3362e41788b1e1410f24fe9656314ed",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3e3e19ee4a6da25dcfdbd3bbe9139785a7a32f43",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c54d7d1411400c1921b9ce2a457c8efad4f52daf",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c0c83c6a40cf298ca6246e189ee016a1f5b3da53",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:15:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b65d80e592eaecc99e9d72cdc9e17aa0ccb89f58",
+      "repo": "NotRexed/Hookshot",
+      "model": "openai_codex",
+      "date": "2026-11-09T17:14:31.000-05:00",
+      "language": "C++",
+      "stars": 6030
+    },
+    {
+      "sha": "e114b68ed80ae9deebadc897996bf725ed412452",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:24.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4493a5dc5286eaf65358facf7173037242d80c56",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "def7aecaaac939a3b423154cc60940166f2fa6e5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1432263cecf52ebdcd052b03bd0f4f009b746a3e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ce06eed577febb8861d90c28c9a1163743e50730",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6bb9cfdd400180344403125a7fd58a6ce9992b6d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "bef714ab6d60fded440d84d359a64276708ca48c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4f1ca119f5728e796a5c1983d739df146b441a1e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:23.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c4ac9ac34f412487dab86c84328722cf04dcf66a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e0065dc035bed1b9ec9f879cc1fedb54c982e6ff",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6cdb991e9432275e7a192d2a6b43b2e576eea96c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "afba0870d7430db9f4a203be57d9435485f95a1a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1ca3abeff2928ef03280671d7596245fad269a21",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "40a76e2c7ad5e20299fa2a9a3036dc7890c788a8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "457cfafa77cb4038f3350bf7cfd3891588471d36",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:22.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cd0308f7a32342ee5974d81865dff4096752336c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "986dd88fd09bde863428c3584e44365cf21b46ec",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "02d97a297172a1be5c1a64da10699acdef5f1ae9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c87ae90762f8e89b9f500210ef9cfe61363af75f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "da2e1fdd05c2367304b20956a744b69850587e15",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3c38d7fb56a21ca648d1e09750c3f1df82473f95",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d3c11ec17d2387072d3993664e707176862a5cc4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:21.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9761799580fbdd3d7182bb240b05063d3e21addd",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6bb46eb6b5bcad648c40ee64fe4874878ac99408",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2cff76ee8ea5489eed77196bd94fe29fbab47f2a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "af080dee7aac2b323a0ac5d0a9bbf5f80edc1b0c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "467d4161373784aa236eb0ae17f66e452288a73b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "effc43df26b19e318b98f4031ba718b17d57ba66",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:20.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2f41d36a925f939c94b10817e750b79c36d92584",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "08aede016dd470755bd36b08f0f69231abbe182c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9c95a6fdf8d05c01f9b68d92a64a1dad9b134580",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c4487a2717a3975a0e281d94551c113655d46de1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9409da03d62ed90778bcf14b6282382128b14386",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "35c5b14a46187dba729a9f36cfae5ff48163e3f9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "603aa098cfc213f9f98a1bde84d8f13681756396",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:19.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a191090b99d9d1a419fcc6a36d4cf44eb5a49265",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ba81d6c1efc2374da577db32d8f7e25eefb9a694",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8525671257952e32f30a33f0c7fffe177186668d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c6d8d1fd1a266f572a8bae947b8e961d4e2af137",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7d56f76edd9c72db172da4a2b9888d9c9811c66b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "352272fdf6ac778f223d0c5c8ec3fd70832453a2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:18.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2d60aff3e721bcbb2e3db05103e31c2f93d2bc8f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "22a8a96312782969500dfc5eb6c51570fd6cc3cc",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5274823a64130e56b012b992282098f8d602d757",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a10a9f315a8bc423b58604bf55e887154cf334c7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ae71624c3f29f697b6b261f662262943019d5bb3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "dca05bbff84ee9fd439495074c6bdfdacbc2d5f4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2f7122878ea4e48f5859a259cf5d489fb7f95fd3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "af4981731af59a7f4377250cb70e5d77d76d8abc",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:17.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5016f92d511322ba53d50bb163074c2b642dedec",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c9eb55469e2b2660581c471acea078bd506c1528",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "67268cc2f1d25b6101fd94e1ebac885cc7bd7031",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3b9f31301242683feb3a013418c04a43a64014ca",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "654042242a78ee28b0a0a35d15a3ba84b9331797",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:16.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "bb27e6205c4a3c2d22afce30025d86041f1507e3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3b03c0073a5838265c2d67443dd7cb8943939418",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "99f4df1bc7cb6b0bd3649c44db30b878892a1f04",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8358f2837a62a611f65179b36bbf3abc910c3310",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fb3854d7f98c2b55485f203b326b6f1c7403dc5e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9e9eafa18263e5b1b032b4862b89244f47702ed3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:15.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3266e2c26b071c4878830661adcdfc492aa5ee4a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "00e010237f9210aa8192d43081c35342c4a13c68",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ca7b4348a6e8a847e7f015eedb7fbd1cbdeb887d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "627e8d09ebe14f6f4bf8551f502ab4deda43b19b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e8843a1095824ac98fba50dbaa6e849007fb5cd1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "52bc15b61f065dbe805f0826238a562af83f1fc3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "99ed06418ea5a63708ebc71f8d5d88f4c2ee5dd1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:14.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4ac4bc9a332e6f1cb11b3de22cb94f0f5d4862da",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "806105da07ac7f1c7d79e383e09b1f1d9d25da04",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5f41996ccec24ca8c9a3453d8355d2ec30f786ed",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4a9f3fd376679f1494f79dbb6e73e47de9b8adf7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7b55ec3533522a53056530c816f9b8a5842de4dc",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d18f9b53e56fa2ea5f84ecbdd63a9b250c6b24cb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2c658e2e499030cdd07303116cb107d4b675830a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:13.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8fb3e194056dbf341f08aab5cbe76cddcb97d152",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e486cfcb9e1bb270c96cdbeabc118735fc5191de",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "717ee4d336efc7a3389a98fcfffb4c155b4deebf",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "97fbb68f6d3cada00bbbc4150fe58b91fded762f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "bb6aab1398b8572c8936d48e56a3e97eb48b2806",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "836b8abd17055f8298613344dcf855ee1b9df193",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f5a9d13a84960f4ac0fb5f9f069f81047c920b41",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "24083db18f1ea96ffde1d16712aa0db1c49d73ee",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:12.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fe53404997a5140f34f4a69515cb65f8d91ae03b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2e40066eba44313df517cb12c7320b058ceae30e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a37dbc8f86cadd87d879481627be91b54e4543b1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0a2af9293b1e2940c9e9fbac54e51d502a0b990f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "565a9af4ba195946ae3b2d52679cdc457afdf347",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a58c032d08e1c68937d34ddad29669ab7645ee6a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e7f1a81af107c94b1240cbff4bb506e7911d31a8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "18727f1b4f1878c7ef040291d0c43e6568572353",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:11.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "83b176c2cb07661095b08c97bcd9acf1d3d67395",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7df9e9771ca533271594bce7ea200ede7c2d1622",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ce7e9ced71188bf444b98ced28d577e1ccb48b40",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "cfbaf38601fe5ce0c2af86e56edf6c35549625ff",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f72a8075684cc3f5f74e38ea8d003e6c6384a7d5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "05fae42b6055d256fa111b95b1e9199624cacbc3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "012f9eb684138a7d9d959dae4d3d7e4d7beec222",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2a2f565eb56cd80f9ed24a02ec89658a890f6104",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:10.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9e54c7acbe27ad7bd6f5675f3558e4f97ab1e635",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2fac44884ccd35bdecd8750720293e2067d887bf",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "debd76b7b02464f4f7ea9acbd057f381f7e0f05f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9acf6d190b9ee9007c4ce4dde4d1c035f39e30be",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5b0c979f525f9dfe90d41afc59ff8e76bc1a40db",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6f7a54c4725ccc38573b183ff9943a35e42902d0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3440821784dbc98a672b831328a7e645ba8e12e5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6da4bc59194f107a9b71d3eea42de82521df36a9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:09.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "515346c90fd81effe888712e76c2060872fa9d94",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1d4aaa5cd41b46b990085617a9f2d158b9884270",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "70f3da61a4e482b48b4141e7a46ada3f1f955d9d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c781743670abb3fbf5ee42977fe7be08dc0f5174",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "585dea7b1c2ae1da1f685a53620ac0fce67b99a9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a4f8f492f6874bacae6d2c14aa5ca6bd172869ba",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3ec847ad0810909aa37fb0c8f279220e82a64d9c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f3956a24d4d08408b785fadb45be2648969e6a1b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8e98d15cffb6750dcdd30a0dea0dca23b6ddb7c0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:08.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3336eeff4ec04daec5e42d5e95df0c07fa115d89",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "438aed712b9bb122d33bd66c18bec26c050ea298",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4f9a76f3eee7ce15a2fbd8a8ef8c656d1aef2dd1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6e38382bfe195e8e22b687ff0f1d7727d46a63cd",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4a7efcf508c53984e8d0d824e746de54fb74ac00",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "792143c6398443bab3ddcbad5d90dab2ac95cf78",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c281505fdf41e6851e9b9a5a5c9088a59ba4653c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "428ebf4889d8bcd7cf8ef641ec401774b5cdf5f8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:07.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0155b3fdd921697fb72d70759b1939c20e885015",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a6e3959883c488ab7089ac02eeedf3d90dacd527",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fdc2631afad99f6a7d86f851c4c9cf2df661758e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b520dd3414afca02e18d0bd843d9c0f41950b76b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ef2e48aa6b1c87336d2347709bd27e6f78579ee4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2cc51fcd51b5e8d7cfe524288685f94d0d7196bb",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "04011d463ce35773f4afcbb3d6119e6067e9709c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:06.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "79b63832a52653a577e2ffa78fb48dae2a0564b6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3e6f5bc8dbda10bbd5ba3f51ac5d3e3c5799dfbc",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e7b4efdd899c2b2326e4ba1fc3024a58ed219da8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b9886417938ac7ea4af7d24a68212229129a304e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7f3aa6edd27437cc504daa064e53ea1ea5852061",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5eb15fe750f93ce5f50970d0568b118456b22e3a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "79c7a2e92c006cccfdb80783fc96db74ca79cc2f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "47a1dc9e25f85cf162592d753f933134c4b51ca2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:05.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d7721f5167ea17de1faf73ac5824514628eb9872",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9e7ae043bc82c6e1eeef21532626860dbb556ed1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4550d98c36483e6a66e80317c6e84931f32b0c7b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "da1dcb9b297b072bfe2cdeab72f8f7deb0dbd644",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "99e0b8934fc8668c6dc21e5560e5453b7070ab13",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0f1b0101c44ba4a1d8d7654816b00bb3b0aadd9b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "12979daafafca8951b77f08c2c5c59c2447cc59e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:04.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3f18f88e3a4e6bed41ca541e3233e6fdc546cfa3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4543b03e027757039ce0e43bf8abfd2298e50b48",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "450afe4691401cfed901ce87cb9df4cd5584b26b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "83574b854eb7effd2a56288c4c72426f86f9b403",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "18bc8845d5e5b6d73d72adeab4361698263bdddc",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e957ff3d00a383801205ed9926b58c5d260aff45",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2692350a9b7b91bf95c3ac8e64cf98a9c780202c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "338b47afd12adfb84b5c035875b2f4cdc3d07fd7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:03.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9d33e02924aaff5b394fd5c1de9b06f54dbd6bf4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fa4ae76be5a8c639a8983badd4c77b1df08d43ab",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e8583737bebe59887b110b3f9108542464870956",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6661c5ae0992345c6d28b58efc3815bcbbcaa9ca",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fc6b240e2f7656ea46c8360f272fd7e24c8c2c77",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "131c0bb178288b8804175bea42d655a2efab3e84",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2e9697deddf995d0b040b3fe0b4ff4ffee302993",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f394639297fc95272c3ce34f0f389dd6788660d9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:02.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "856bb893cec54bdd20b88151cd95074544028332",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a0c46e9224e9595827f30bddf5040a47fd9109b4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8f6770fd50ff68cfe434c2e3596b81801e2af8df",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6a90120990f660d5612a197d43a1570c7a35857b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b22152f4abe43a1a2c60af428c432ef0fc9aa0e2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2f78ec91ca0712db750058dbdf2c67c1dd6e5cec",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:01.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7a0c0984705582c5fa60700dc48d1ec80282ff08",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6552c74d06762366a27876ee0c28d22b94ec031e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b530e525a5d7429b04855dda1e834d7f76362d21",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a5d1caea3a643cdb379945d50f8928b961913f5d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "975bc417b1e0927e6f4c4d6435915a7ad21236ea",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2553c8560e4aee6d2e0fdb3b1ea6ee05893b6922",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e04ef9c99b2fae4e95649586e841c733f31c5b4e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:13:00.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a502f27a3a58a93caa3e0e15e4bd7c9ba14e8038",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:59.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2876b4dbc0943064948ec76f19540ec43a366626",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:59.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9d2bb87f93eaffd16a7b034bbd38fea61137d4aa",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:59.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "24c411419b4a79603925162f6290616ab290fd05",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:59.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e736cfea07f0613a204eac0d1a9bb5038b2f8893",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:59.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fd4fca57f31d127230218ca877999c26768030c4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:59.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "04dd8c1fc1f6c023dccbb36e7747aa3f61512bb0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:59.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "04ece6feefae7db6eb672160b5649aff948cc876",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:59.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "22b798ffbecd7c4ca4456fd3dd912de8b089b7ba",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:58.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2aeaa15bc12187509c67aff490409b37d16ed9e3",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:58.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0fba1b6daba4c1e4279a4f202b1d5e392b72494c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:58.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0079f46391f93d8d34be92cb0be7f9405e6a859c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:58.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f008b1847feb7c8d191f2e04ecaa09394816067c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:58.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e19e1560fd8e3ffefa2c44880b768e4056c6f468",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:58.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f3ed7d6e3ba94f78a7e348e4990e4bb1e2b1b5d9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:58.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2511781c352b4393d5f02e6b81c56f9c7d749cf0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:57.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f477f67042d23957396dace26a4855411a9c728e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:57.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "797e881953718353924f592bf266f26f59acc1c8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:57.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6c53e9e92fe07238d9d0e0b02bcb58733f5e7e12",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:57.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c0f521e10674bd29c678e69bebc0dc4955a7413b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:57.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d2cee06b0069a5ee6b43e38af99689b749846b8c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:57.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d02e126db7c65031dfb3d368279702acc37402b6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:57.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0e0678c2703b0ec00549047aa00cffd834b006d6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "342a49b7d5d07312acf70ced5b32a3437acc6892",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b1d3b0a57a8d550ed288872e27e6b647059df624",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "fe0e4f6bf90654618095b14e89451fecdf73d56f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "76924b534ee98327d784fe3e391a3d90a3cb8361",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:56.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "bef6f45b02f48d4be1ee4643d3c43719bc53581a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9a173e67d7f3cdad850c109846e6353c0be89446",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "321df611a0c73aeb7f1c956398452d5aeb1e63d0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "1b24d91fdbb6599dc34e6fa05e356d9160774510",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "b725cbefe4d3ae290a680bff76b043696bdbd783",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4bfe2bc18e82af1b311fa2ff518c20bcf981509b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:55.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5031cee1cdee4c6a7bf88c775654b9e32c4bd7bf",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e2d9e134083b7acc967e164fd16199f24e5642ec",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "18c8cf0889668810e1b1e00280eca35a46e21f12",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4954e0fdb6db0da88afb7890aae000fb85a97cf7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f67ca9e24dc2e80075309242c74ead9b30b620de",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:54.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8ca58529d2abb065b4277d7d8a966cedb8786ed9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "527b0ae6f3e435715f4486ac85dcb4bd348393b7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ccee5c0596912161b696232d14dafd2a1e6b4af2",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6be8f7491eae15727ce93e576e5d9b4376b76439",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "4b7a8e3c962feac13501a08620d08b0f6d78eb0d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d02c6949d707ac597b9befeefc6703b4839ac4d1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "22eb89142481c052f2077bd98798c358816d387c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:53.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "45d9fccbed529ae3d1c86ddba7c06e91a0de269c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:52.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "be03300e46da68092fe88011f4290b0eb6f5c22d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:52.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "581c634692f4c219aed464d67c5487f4052fb10d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:52.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c787923127cbe032c25ecde2de685b938d047b8a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:52.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e3dbc49b6eeef38993a988f00935e6608e2b8990",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:52.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d671caec489f2d12d74770341ccc8cd8b1dddb1e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:52.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a3edb1ce31f2a0107fd7217c4b15f49356af30b8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:52.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d6a13da7db10ad262fd99336686852728ae092e7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "dcfc92a2e4edacf6dde62e5e75a3c73e495ca734",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "91b6576c8b492f4abba92628b9a3178b2cb06852",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "9fa58c84c79bc07c71c744bb5a2f978aec1611d1",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d16b09a6474b9f1cdf93eeaf6ee3a08fec580e0c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "8298b2b1f08da7762e43cf6d7ddae01b3385c33c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d2ac8ef29f276d9d98538ad24898489b4a060b7a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:51.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "de06688765d7d8c366b36c001f450001682188b5",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "be8b9492a555f086e74615d2b8064faf8d22bae9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "aa240f53e6baaebf688eb98cc699963394527257",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a7594330c081184297bc9cf64b899f5ce6323201",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2e55a86a36cb7cd02dd993411c3e80fff6580c0a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7337d248d3344f69b766b8ae92a7bcea0e19ad0b",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "3d573587f5dd1ef93b986db7972f9c8a07ecd378",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:50.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ad38101d634b7a9322b81e464cb428088bf22818",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5b109156138d89e30fdaa89a4c1078e652c7dd1f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "a254a56a1b900cd94cb37911fd7805d1bf4ca38d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "393dafdf675ac761949c534d4238776d3135b30e",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2c1669833febd15936ee39c608cd4752b963e0c4",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "ed48fe6b4caf9d6041b8140ec86e83c9fb56da1f",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0b3c68cef9da620d19eb0359778f9ddb7c5f9e97",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:49.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "64fd09c386630f2de05c42d600cd980e90d5ec15",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7bf2663a540c84953e672dd1c698309c2069d7ad",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7baf42680f9af1c8004f6e01550dea4cf0c87322",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "f04e0a21df6bba1939a8c8af0be98118faf71a12",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "148b4e2f4f7ad6c18d67f07610d8157a2ec0c25a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "71820829dd2678a0cc87c164da6dd2a6dad6f73d",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:48.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5481de8d3614512df38821b10c12e754f363171a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0e541e34925a7f6841b76308788206863e78140a",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "7fff1a3e51ee09c1daea083fab3d9a99acaf2a6c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e8354936da6e5812565e60632534fa6d256fe405",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5da208fc6b4bddad3177622fba820119279024d8",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "6eb29bcc71c02209bdaf6b1db75cd117fc926656",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "0ab239d2c23a3b1587f2838aab50ffe164aff1a9",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c8ddce793be6c1d8c6754d595de8275a9669e2ff",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:47.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "980423463d7adc89ee1af136af8e5a614e0a85a7",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:46.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "d7b7518ebbe5806e320fac8447e306b3f8d222e6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "49bd2abe006dff444ccec0bc098b3e1e961daf34",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "453411d8b0140faf7925666db1444d405c627470",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "c00e3a5abf16af27a11565d5bb023d82a569ac07",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:45.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "31401fa8bf94d0edc459fa35169af694e3a8c7b6",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:44.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "59db70bfffa1664db34099c0f64e60e2e24af5f0",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:44.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "e76bf68bc1a477a70eaf3426ca02f150f9e74d0c",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "36ef407488f088cf4e7a866ba91ca80c81ef6440",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "2bbc5a3a1caadab0f0d976d589eaf38abc0f1488",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:43.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "5614c721acd3e1f9ae11fdb7e1da30394fa1bf55",
+      "repo": "TIMISONG-dev/kernel_xiaomi_sm8250",
+      "model": "openai_codex",
+      "date": "2026-11-10T01:12:42.000+03:00",
+      "language": "C",
+      "stars": 54
+    },
+    {
+      "sha": "13be8f6936af051c4fdb35929f5d255339ef90a5",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-11-09T23:11:07.000Z",
+      "language": "Dart",
+      "stars": 5336
+    },
+    {
+      "sha": "46a5e5bdb3c9d7e63eca105e88f34ace62d5575c",
+      "repo": "googleapis/google-cloud-swift",
+      "model": "gemini",
+      "date": "2026-11-09T17:23:01.000-05:00",
+      "language": "Swift",
+      "stars": 71
+    },
+    {
+      "sha": "512677a08ba93219934b488a1c8a79f728740157",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-11-09T21:55:25.000Z",
+      "language": "Dart",
+      "stars": 181103
+    },
+    {
+      "sha": "06b63fc57972be4a5be86b85dab9b4825122bcce",
+      "repo": "flutter/flutter",
+      "model": "gemini",
+      "date": "2026-11-09T21:48:13.000Z",
+      "language": "Dart",
+      "stars": 181103
+    },
+    {
+      "sha": "c344aa41361c25d1a8315e5b14b431a38a90300c",
+      "repo": "keras-team/keras",
+      "model": "gemini",
+      "date": "2026-11-09T13:32:09.000-08:00",
+      "language": "Python",
+      "stars": 64419
+    },
+    {
+      "sha": "3639911f8d54090349a4bf2e44737bf8c51a599e",
+      "repo": "datacommonsorg/data",
+      "model": "gemini",
+      "date": "2026-11-09T20:48:49.000Z",
+      "language": "HTML",
+      "stars": 78
+    },
+    {
+      "sha": "59b7e185598c193e1b86d2f221ff47ac6d7725f5",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-11-09T20:43:06.000Z",
+      "language": "Dart",
+      "stars": 5336
+    },
+    {
+      "sha": "021891838c66c49b451eb02bb7c086fd6fb199a7",
+      "repo": "googleapis/google-cloud-rust",
+      "model": "gemini",
+      "date": "2026-11-09T15:33:12.000-05:00",
+      "language": "Rust",
+      "stars": 971
+    },
+    {
+      "sha": "d97ef94ec6ceaa5fe8c218485061eb6a6e792b78",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-09T20:21:28.000Z",
+      "language": "Dart",
+      "stars": 381
+    },
+    {
+      "sha": "3044faa3353290e17278ebee7c8b1dcc4236bc12",
+      "repo": "google-gemini/gemini-cli",
+      "model": "gemini",
+      "date": "2026-11-09T19:47:28.000Z",
+      "language": "TypeScript",
+      "stars": 108753
+    },
+    {
+      "sha": "d1397ba21cccfbb4846dea1dc287b599d11e0962",
+      "repo": "keras-team/keras",
+      "model": "gemini",
+      "date": "2026-11-09T11:44:29.000-08:00",
+      "language": "Python",
+      "stars": 64419
+    },
+    {
+      "sha": "5b94ae497c6e048b3357ed73df89ea08aae94e67",
+      "repo": "keras-team/keras",
+      "model": "gemini",
+      "date": "2026-11-09T11:16:49.000-08:00",
+      "language": "Python",
+      "stars": 64419
+    },
+    {
+      "sha": "9c7676bd6c4c972347136f5831ee2ff294c533cd",
+      "repo": "flutter/packages",
+      "model": "gemini",
+      "date": "2026-11-09T18:19:34.000Z",
+      "language": "Dart",
+      "stars": 5336
+    },
+    {
+      "sha": "13d691b251654de7ca58687b60c3ecefb37e8278",
+      "repo": "googleapis/google-cloud-python",
+      "model": "gemini",
+      "date": "2026-11-09T10:52:26.000-06:00",
+      "language": "Python",
+      "stars": 5420
+    },
+    {
+      "sha": "0ea8af45f96c31d875d4a0201990d9d263bc815a",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-09T16:47:19.000Z",
+      "language": "Dart",
+      "stars": 381
+    },
+    {
+      "sha": "3cc7361dcf4d753d8539edac053f530f1075204a",
+      "repo": "join-the-flock/flock",
+      "model": "gemini",
+      "date": "2026-11-09T16:47:18.000Z",
+      "language": "Dart",
+      "stars": 381
+    },
+    {
+      "sha": "45c951c9df1d92a135d6f8cd8c4cc53eb2c9a9c3",
+      "repo": "CWNU-Open-Source-Community/Universal-Code",
+      "model": "gemini",
+      "date": "2026-11-09T23:36:09.000+08:00",
+      "language": "Go",
+      "stars": 197
+    },
+    {
+      "sha": "c243d238aca7848dbebb43dd6e8401e35d9599d2",
+      "repo": "CWNU-Open-Source-Community/Universal-Code",
+      "model": "gemini",
+      "date": "2026-11-09T23:29:18.000+08:00",
+      "language": "Go",
+      "stars": 197
+    },
+    {
+      "sha": "263218454f474912bcd3867df387edfcc394c57d",
+      "repo": "Adyen/adyen-web",
+      "model": "gemini",
+      "date": "2026-11-09T13:17:21.000Z",
+      "language": "TypeScript",
+      "stars": 259
+    },
+    {
+      "sha": "91b5b4aead34f140d3edd66f24d3ed8c76238ab0",
+      "repo": "tensorflow/tensorflow",
+      "model": "gemini",
+      "date": "2026-11-09T02:29:22.000-06:00",
+      "language": "C++",
+      "stars": 201430
+    },
+    {
+      "sha": "95499aa163b42e83551017897e6ddad880721028",
+      "repo": "tensorflow/tensorflow",
+      "model": "gemini",
+      "date": "2026-11-09T02:29:22.000-06:00",
+      "language": "C++",
+      "stars": 201430
+    },
+    {
+      "sha": "16a5c512a090828122563cf847fc2b8872d9dae5",
+      "repo": "tensorflow/tensorflow",
+      "model": "gemini",
+      "date": "2026-11-09T02:29:22.000-06:00",
+      "language": "C++",
+      "stars": 201430
+    }
+  ],
+  "totals": {
+    "claude": 31,
+    "openai_codex": 526,
+    "gemini": 25
+  },
+  "repos_tracked": 52,
+  "repo_activity": {
+    "NotRexed/Hookshot": {
+      "weekly_total": 675
+    },
+    "subgentic/coral": {
+      "weekly_total": 505
+    },
+    "join-the-flock/flock": {
+      "weekly_total": 11
+    },
+    "Adyen/adyen-web": {
+      "weekly_total": 4
+    },
+    "stripe/stripe-ios": {
+      "weekly_total": 16
+    },
+    "webliteca/swingwebview": {
+      "weekly_total": 4
+    },
+    "tensorflow/tensorflow": {
+      "weekly_total": 141
+    },
+    "googleapis/google-cloud-rust": {
+      "weekly_total": 14
+    },
+    "jesdga95/basalt": {
+      "weekly_total": 97
+    },
+    "superdb/super": {
+      "weekly_total": 8
+    },
+    "Hanabi-Live/hanabi-live": {
+      "weekly_total": 573
+    },
+    "GottZ/ctx": {
+      "weekly_total": 15
+    },
+    "Natively-AI-assistant/natively-cluely-ai-assistant": {
+      "weekly_total": 37
+    },
+    "Open-BFME/Open-BFME-2": {
+      "weekly_total": 2537
+    },
+    "block/buzz-app": {
+      "weekly_total": 91
+    },
+    "pandas-dev/pandas": {
+      "weekly_total": 64
+    },
+    "purplefish-ai/factory-factory": {
+      "weekly_total": 85
+    },
+    "smithersai/smithers": {
+      "weekly_total": 371
+    },
+    "flutter/packages": {
+      "weekly_total": 10
+    },
+    "google-gemini/gemini-cli": {
+      "weekly_total": 6
+    },
+    "jhaizhou-ops/S2Arm": {
+      "weekly_total": 543
+    },
+    "objectstack-ai/objectstack": {
+      "weekly_total": 888
+    },
+    "TIMISONG-dev/kernel_xiaomi_sm8250": {
+      "weekly_total": 0
+    },
+    "Nexus-JPF/note-companion": {
+      "weekly_total": 13
+    },
+    "OpenTodoApp/OpenTodo": {
+      "weekly_total": 146
+    },
+    "keras-team/keras": {
+      "weekly_total": 34
+    },
+    "omerbenamram/evtx": {
+      "weekly_total": 55
+    },
+    "matz/spinel": {
+      "weekly_total": 1287
+    },
+    "Steemhunt/mint.club-v2-contract": {
+      "weekly_total": 10
+    },
+    "apmantza/pi-lens": {
+      "weekly_total": 562
+    },
+    "Cratis/Chronicle": {
+      "weekly_total": 363
+    },
+    "kenn-io/msgvault": {
+      "weekly_total": 53
+    },
+    "receptron/mulmoterminal": {
+      "weekly_total": 5
+    },
+    "mantrakp04/ardia": {
+      "weekly_total": 101
+    },
+    "ReviewStage/vespin": {
+      "weekly_total": 552
+    },
+    "propeller-heads/tycho": {
+      "weekly_total": 72
+    },
+    "googleapis/google-cloud-swift": {
+      "weekly_total": 5
+    },
+    "CWNU-Open-Source-Community/Universal-Code": {
+      "weekly_total": 18
+    },
+    "kirklandsig/halo2-decompiled": {
+      "weekly_total": 900
+    },
+    "ldclabs/ic-panda": {
+      "weekly_total": 51
+    },
+    "Gamer92000/echo-dot-assist": {
+      "weekly_total": 11
+    },
+    "flutter/flutter": {
+      "weekly_total": 22
+    },
+    "datacommonsorg/data": {
+      "weekly_total": 5
+    },
+    "rawnaldclark/Stash": {
+      "weekly_total": 25
+    },
+    "BotHarness/DeepSeekBot": {
+      "weekly_total": 302
+    },
+    "Bike4Mind/bike4mind": {
+      "weekly_total": 188
+    },
+    "googleapis/google-cloud-python": {
+      "weekly_total": 5
+    },
+    "gastownhall/gascity-packs": {
+      "weekly_total": 4
+    },
+    "zoonk/zoonk": {
+      "weekly_total": 44
+    },
+    "cybersemics/em": {
+      "weekly_total": 25
+    }
+  }
+}
